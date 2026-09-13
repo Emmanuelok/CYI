@@ -1,0 +1,6 @@
+"use client";
+import {ChevronRight} from "lucide-react";
+import Link,{useAppLocation,resolvePath} from "./navigation";
+import data from "./content.json";
+const images:Record<string,string>={about:data.media.community,environments:data.media.hero,branches:data.media.family,resources:data.media.worship,"precious-moments":data.media.camp,leadership:data.media.community,gallery:data.media.hero,stories:data.media.family,connect:data.media.outreach,"my-cyi":data.media.camp,ministries:data.media.hero,give:data.media.outreach,projects:data.media.community,explore:data.media.family,archive:data.media.camp};
+export default function PageIntro({eyebrow,title,description,tone="",children,image}:{eyebrow:string;title:string;description?:string;tone?:string;children?:React.ReactNode;image?:string}){const path=resolvePath(useAppLocation()).split('/')[0];return <section className={"page-hero "+tone}><div className="wrap"><div className="breadcrumbs"><Link href="/">Home</Link><ChevronRight size={14}/><span>{eyebrow}</span></div><div className="eyebrow">{eyebrow}</div><h1>{title}</h1>{description&&<p>{description}</p>}{children}</div><div className="interior-photo"><img src={image||images[path]||data.media.community} alt="The Christ for Youth International community"/><span>FAITH. FRIENDSHIP. PURPOSE.</span></div></section>}

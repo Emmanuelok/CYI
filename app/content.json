@@ -1,0 +1,3263 @@
+{
+  "source": "https://connectcyi.org/",
+  "retrievedAt": "2026-09-13",
+  "mission": "We exist to grow youth in fellowship and in honour of God to be like well-nurtured plants and pillars to adorn, so we may reach out to our generation through the principles of Christ’s leadership.",
+  "missionParagraphs": [
+    "We exist to grow youth in fellowship and in honour of God to be like well-nurtured plants and pillars to adorn, so we may reach out to our generation through the principles of Christ’s leadership."
+  ],
+  "serviceIntro": "CYI is committed to serving others selflessly. We believe that as followers of Jesus, we need to lay down our lives for others (1 John 3:16). We are committed to serving believers in the ministry, outside the ministry and also our community. We are ready to serve others in order to make life better for them and also carry other people’s burdens.",
+  "programmes": [
+    {
+      "slug": "leadership-camp",
+      "title": "Leadership Camp",
+      "paragraphs": [
+        "Starting the year right is of great importance. As a ministry, the leaders and serving members from all our various branches come together from 1st-5th January every year to spend time with God and seek His will for the year ahead. Our camps create an environment for leadership skills development in serving others. We go through various training sessions like prayer, bible studies and other ministry and personal ethics geared towards Christ-likeness."
+      ],
+      "description": "Starting the year right is of great importance. As a ministry, the leaders and serving members from all our various branches come together from 1st-5th January every year to spend time with God and seek His will for the year ahead. Our camps create an environment for leadership skills development in serving others. We go through various training sessions like prayer, bible studies and other ministry and personal ethics geared towards Christ-likeness.",
+      "images": [
+        "/media/2020-07-Campss.webp"
+      ],
+      "image": "/media/2020-07-louisa.webp",
+      "type": "camp",
+      "sourceUrl": "https://connectcyi.org/environments/#leadership-camp",
+      "category": "Leadership & discipleship",
+      "audience": "Leaders and serving members",
+      "summary": "Prayer, Bible study and practical leadership training to begin the year with purpose.",
+      "duration": "1–5 January · annual pattern",
+      "href": "/programmes/leadership-camp",
+      "gallery": []
+    },
+    {
+      "slug": "camp-lifeguard",
+      "title": "Camp Lifeguard",
+      "paragraphs": [
+        "Camp Lifeguard, also known as the Shepherds’ Camp, is a 3-day training and equipping program for all leaders of our various branches. It provides an environment which conditions leaders to gain knowledge and understanding in that which they have been called to. We come together to learn what true leadership is all about (in and out of CYI) and how to be true Jesus followers who can lead His flock."
+      ],
+      "description": "Camp Lifeguard, also known as the Shepherds’ Camp, is a 3-day training and equipping program for all leaders of our various branches. It provides an environment which conditions leaders to gain knowledge and understanding in that which they have been called to. We come together to learn what true leadership is all about (in and out of CYI) and how to be true Jesus followers who can lead His flock.",
+      "images": [
+        "/media/2020-07-Excellence1-1.webp"
+      ],
+      "image": "/media/2023-02-B4ED0A55-431C-458C-ADE6-0E866921CD11.webp",
+      "type": "camp",
+      "sourceUrl": "https://connectcyi.org/environments/#camp-lifeguard",
+      "category": "Leadership & discipleship",
+      "audience": "Branch leaders",
+      "summary": "Three days to learn what it means to follow Jesus and lead His people.",
+      "duration": "3-day camp",
+      "href": "/programmes/camp-lifeguard",
+      "gallery": []
+    },
+    {
+      "slug": "camp-nurture",
+      "title": "Camp Nurture",
+      "paragraphs": [
+        "Camp Nurture is a discipleship camp for young people in junior high school and below. In CYI, we believe that greatness begins from infancy and no child is too young to know Christ. At Camp Nurtured we introduce our young members to Jesus, and in the long run, through the teaching of the principles of God, promote discipline, teamwork, and love for one another."
+      ],
+      "description": "Camp Nurture is a discipleship camp for young people in junior high school and below. In CYI, we believe that greatness begins from infancy and no child is too young to know Christ. At Camp Nurtured we introduce our young members to Jesus, and in the long run, through the teaching of the principles of God, promote discipline, teamwork, and love for one another.",
+      "images": [
+        "/media/2020-07-Excellence1-1.webp"
+      ],
+      "image": "/media/2026-05-485183658_990052923222436_1357762072330736922_n.webp",
+      "type": "camp",
+      "sourceUrl": "https://connectcyi.org/environments/#camp-nurture",
+      "category": "Faith & friendship",
+      "audience": "Junior high school and younger",
+      "summary": "An introduction to Jesus, teamwork and a life shaped by love.",
+      "duration": "Children’s discipleship",
+      "href": "/programmes/camp-nurture",
+      "gallery": []
+    },
+    {
+      "slug": "camp-ventured",
+      "title": "Camp Ventured",
+      "paragraphs": [
+        "Camp Ventured is a three-day camping event organized by the business directorate of Christ for Youth International (CYI) as part of its objective to train and equip young people to influence the world with the business leadership skill acquired. The camp is aimed at connecting like-minded young people to build a community that expresses and advances the kingdom mandate through business. Our targeted audiences for this event are entrepreneurs, business enthusiast and young professionals."
+      ],
+      "description": "Camp Ventured is a three-day camping event organized by the business directorate of Christ for Youth International (CYI) as part of its objective to train and equip young people to influence the world with the business leadership skill acquired. The camp is aimed at connecting like-minded young people to build a community that expresses and advances the kingdom mandate through business. Our targeted audiences for this event are entrepreneurs, business enthusiast and young professionals.",
+      "images": [
+        "/media/2020-07-Excellence1-1.webp"
+      ],
+      "image": "/media/2026-05-485380356_990052819889113_7222064012390240019_n.webp",
+      "type": "camp",
+      "sourceUrl": "https://connectcyi.org/environments/#camp-ventured",
+      "category": "Business & purpose",
+      "audience": "Entrepreneurs and young professionals",
+      "summary": "Build business leadership skills alongside young people who share your purpose.",
+      "duration": "3-day camp",
+      "href": "/programmes/camp-ventured",
+      "gallery": []
+    },
+    {
+      "slug": "camp-discovered",
+      "title": "Camp Discovered",
+      "paragraphs": [
+        "Camp Discovered is a three-day camping event organized by the Creative Department of the organization. The camp gathers all talents in the ministry under the same roof with the aim of grooming these talents with the Kingdom principles. Camp Discovered creates an enabling environment for creatives to serve God and man with their talent."
+      ],
+      "description": "Camp Discovered is a three-day camping event organized by the Creative Department of the organization. The camp gathers all talents in the ministry under the same roof with the aim of grooming these talents with the Kingdom principles. Camp Discovered creates an enabling environment for creatives to serve God and man with their talent.",
+      "images": [
+        "/media/2020-07-Excellence1-1.webp",
+        "/media/2020-07-Red-cap.webp"
+      ],
+      "image": "/media/2026-05-498117346_1044263561134705_4463648760575212543_n2.webp",
+      "type": "camp",
+      "sourceUrl": "https://connectcyi.org/environments/#camp-discovered",
+      "category": "Creativity & gifts",
+      "audience": "Young creatives",
+      "summary": "Discover how your gifts can serve God, your community and the world.",
+      "duration": "3-day camp",
+      "href": "/programmes/camp-discovered",
+      "gallery": [
+        "/media/2020-07-Red-cap.webp"
+      ]
+    },
+    {
+      "slug": "one-way-missions",
+      "title": "One Way Missions",
+      "paragraphs": [
+        "One Way Mission Global is the outreach wing of the ministry. We believe that as a ministry we have been saved to save others and that we have a responsibility of reaching others with the Gospel for Christ. The One Way Missions Global team oversees all mission works done at various levels. Missionary work may vary from one day to two weeks or more."
+      ],
+      "description": "One Way Mission Global is the outreach wing of the ministry. We believe that as a ministry we have been saved to save others and that we have a responsibility of reaching others with the Gospel for Christ. The One Way Missions Global team oversees all mission works done at various levels. Missionary work may vary from one day to two weeks or more.",
+      "images": [
+        "/media/2020-07-Missions.webp",
+        "/media/2020-07-IMG-20191104-WA00621.webp",
+        "/media/2020-07-IMG-20191102-WA0049.webp",
+        "/media/2020-07-IMG_20191106_102549_838.webp",
+        "/media/2020-07-IMG-20191105-WA0071.webp",
+        "/media/2020-07-IMG-20191103-WA0026.webp",
+        "/media/2020-07-IMG-20191105-WA0070.webp",
+        "/media/2020-07-IMG-20191105-WA0010.webp",
+        "/media/2020-07-IMG-20191104-WA0058.webp",
+        "/media/2020-07-20191102_154509.webp",
+        "/media/2020-07-IMG-20191105-WA0064.webp",
+        "/media/2020-07-IMG-20191105-WA0026.webp",
+        "/media/2020-07-IMG-20191029-WA0003.webp",
+        "/media/2020-07-White-Close-cap.webp"
+      ],
+      "image": "/media/2026-05-485183658_990052923222436_1357762072330736922_n.webp",
+      "type": "missions",
+      "sourceUrl": "https://connectcyi.org/environments/#one-way-missions",
+      "category": "Missions & service",
+      "audience": "Youth ready to serve",
+      "summary": "Take the Gospel beyond familiar places and put your faith into action.",
+      "duration": "Outreach programme",
+      "href": "/programmes/one-way-missions",
+      "gallery": [
+        "/media/2020-07-IMG-20191104-WA00621.webp",
+        "/media/2020-07-IMG-20191102-WA0049.webp",
+        "/media/2020-07-IMG_20191106_102549_838.webp",
+        "/media/2020-07-IMG-20191105-WA0071.webp",
+        "/media/2020-07-IMG-20191103-WA0026.webp",
+        "/media/2020-07-IMG-20191105-WA0070.webp",
+        "/media/2020-07-IMG-20191105-WA0010.webp",
+        "/media/2020-07-IMG-20191104-WA0058.webp",
+        "/media/2020-07-20191102_154509.webp",
+        "/media/2020-07-IMG-20191105-WA0064.webp",
+        "/media/2020-07-IMG-20191105-WA0026.webp",
+        "/media/2020-07-IMG-20191029-WA0003.webp",
+        "/media/2020-07-White-Close-cap.webp"
+      ]
+    },
+    {
+      "slug": "saved-2-serve",
+      "title": "Saved 2 Serve",
+      "paragraphs": [
+        "Saved to Serve is our annual praise and worship concert marking the anniversary of the ministry. It is also a time where gifted people in the ministry such as singers, dancers, rappers, songwriters, instrumentalists and many more showcase their talents. Most songs ministered during Saved to Serve are written and composed by the young people in the ministry. Saved 2 Serve, gathers over 2000 people from over 22 communities to be partakers of the concert. The inspiration behind Saved to Serve comes from the knowledge that God saved us for us to be of service to our world."
+      ],
+      "description": "Saved to Serve is our annual praise and worship concert marking the anniversary of the ministry. It is also a time where gifted people in the ministry such as singers, dancers, rappers, songwriters, instrumentalists and many more showcase their talents. Most songs ministered during Saved to Serve are written and composed by the young people in the ministry. Saved 2 Serve, gathers over 2000 people from over 22 communities to be partakers of the concert. The inspiration behind Saved to Serve comes from the knowledge that God saved us for us to be of service to our world.",
+      "images": [
+        "/media/2020-07-Events.webp",
+        "/media/2020-07-S2s1.webp"
+      ],
+      "image": "/media/2024-05-398098103_678857537675311_5657213549343521159_n.webp",
+      "type": "event",
+      "sourceUrl": "https://connectcyi.org/environments/#saved-2-serve",
+      "category": "Worship & celebration",
+      "audience": "Everyone",
+      "summary": "An unforgettable gathering of praise, original music, dance and a generation ready to serve.",
+      "duration": "Annual worship concert",
+      "href": "/programmes/saved-2-serve",
+      "gallery": [
+        "/media/2020-07-S2s1.webp"
+      ]
+    },
+    {
+      "slug": "awakening",
+      "title": "Awakening Prayer Retreat",
+      "paragraphs": [
+        "Awakening is an all-day prayer retreat organized by Christ for Youth International. The prayer retreat marks the end of the ministry’s 14-day fast organized in the second quarter of the year. The prayer retreat is a time we set aside to give God glory for a successful first half of the year while committing the second half into his hands."
+      ],
+      "description": "Awakening is an all-day prayer retreat organized by Christ for Youth International. The prayer retreat marks the end of the ministry’s 14-day fast organized in the second quarter of the year. The prayer retreat is a time we set aside to give God glory for a successful first half of the year while committing the second half into his hands.",
+      "images": [
+        "/media/2020-07-Excellence1-1.webp",
+        "/media/2020-07-Awakening1.webp"
+      ],
+      "image": "/media/2020-07-louisa.webp",
+      "type": "event",
+      "sourceUrl": "https://connectcyi.org/environments/#awakening",
+      "category": "Prayer & discipleship",
+      "audience": "Everyone",
+      "summary": "Make room for a day of prayer, gratitude and a fresh commitment to God.",
+      "duration": "All-day retreat",
+      "href": "/programmes/awakening",
+      "gallery": [
+        "/media/2020-07-Awakening1.webp"
+      ]
+    },
+    {
+      "slug": "special-december",
+      "title": "Special December",
+      "paragraphs": [
+        "Special December is our annual Christmas get-together for all friends, partners, members and well-wishers of CYI to celebrate and thank God for a successful year. It is also a time where our Christmas message to everyone is put across through acting."
+      ],
+      "description": "Special December is our annual Christmas get-together for all friends, partners, members and well-wishers of CYI to celebrate and thank God for a successful year. It is also a time where our Christmas message to everyone is put across through acting.",
+      "images": [
+        "/media/2020-07-Excellence1-1.webp",
+        "/media/2020-07-Special-Dec.webp"
+      ],
+      "image": "/media/2026-05-487766726_3174885435997749_7276383361824689079_n.webp",
+      "type": "event",
+      "sourceUrl": "https://connectcyi.org/environments/#special-december",
+      "category": "Faith & friendship",
+      "audience": "Friends, partners and members",
+      "summary": "Celebrate Christmas with the CYI family through fellowship, gratitude and drama.",
+      "duration": "Annual Christmas gathering",
+      "href": "/programmes/special-december",
+      "gallery": [
+        "/media/2020-07-Special-Dec.webp"
+      ]
+    },
+    {
+      "slug": "family-games",
+      "title": "Family Games",
+      "paragraphs": [
+        "Family Games is an annual inter-branch sports and games event. The goal of the event is to bring the CYI family and other youth together in one venue to compete in football, basketball, and other smaller games like ludo, ampe, etc. We also look to reach out to the youth—especially sports fanatics—with the Gospel through this program; letting them know that God is also interested in sports."
+      ],
+      "description": "Family Games is an annual inter-branch sports and games event. The goal of the event is to bring the CYI family and other youth together in one venue to compete in football, basketball, and other smaller games like ludo, ampe, etc. We also look to reach out to the youth—especially sports fanatics—with the Gospel through this program; letting them know that God is also interested in sports.",
+      "images": [
+        "/media/2020-07-Excellence1-1.webp",
+        "https://connectcyi.org/wp-content/uploads/2020/07/Fam-games-1024x576.png"
+      ],
+      "image": "/media/2026-05-485380356_990052819889113_7222064012390240019_n.webp",
+      "type": "event",
+      "sourceUrl": "https://connectcyi.org/environments/#family-games",
+      "category": "Sports & community",
+      "audience": "All branches and friends",
+      "summary": "Football, basketball, ludo, ampe and the joy of being one family.",
+      "duration": "Annual inter-branch games",
+      "href": "/programmes/family-games",
+      "gallery": [
+        "https://connectcyi.org/wp-content/uploads/2020/07/Fam-games-1024x576.png"
+      ]
+    }
+  ],
+  "resources": [
+    {
+      "slug": "kingdom-move",
+      "title": "The Kingdom Move Podcast",
+      "paragraphs": [
+        "The Kingdom Move Podcast is a Podcast feed for Christ for Youth international that seeks to groom the youth in fellowship and honour of God, to be like well-nurtured plants and pillars to adorn, so they become positive influences in the society they find themselves in by reaching their generation with the principles of Christ’s leadership."
+      ],
+      "description": "The Kingdom Move Podcast is a Podcast feed for Christ for Youth international that seeks to groom the youth in fellowship and honour of God, to be like well-nurtured plants and pillars to adorn, so they become positive influences in the society they find themselves in by reaching their generation with the principles of Christ’s leadership.",
+      "images": [
+        "/media/2020-07-Podcast.webp"
+      ],
+      "image": "/media/podcast-kingdom-move.webp",
+      "links": [
+        {
+          "label": "Apple Podcasts",
+          "url": "https://podcasts.apple.com/gh/podcast/the-kingdom-move/id1428572417"
+        },
+        {
+          "label": "iHeart",
+          "url": "https://www.iheart.com/podcast/256-the-kingdom-move-31080573/"
+        },
+        {
+          "label": "Podbean",
+          "url": "https://www.podbean.com/podcast-detail/6e55r-8437f/The-Kingdom-Move-Podcast"
+        },
+        {
+          "label": "Spotify",
+          "url": "https://open.spotify.com/show/4VmJB4mTWJCjseGirGDY13"
+        }
+      ],
+      "sourceUrl": "https://connectcyi.org/resources/#kingdom-move",
+      "href": "/resources/kingdom-move"
+    },
+    {
+      "slug": "cyi-radio",
+      "title": "CYI Radio",
+      "paragraphs": [
+        "CYI radio is a global Christian online radio station aimed at providing its listeners with entertainment, education and current affairs by communicating the principles of the Kingdom of God. Thereby, building their spirit man in order to become the pillars in the society who would exert Godly influence."
+      ],
+      "description": "CYI radio is a global Christian online radio station aimed at providing its listeners with entertainment, education and current affairs by communicating the principles of the Kingdom of God. Thereby, building their spirit man in order to become the pillars in the society who would exert Godly influence.",
+      "images": [
+        "/media/2020-07-Radio.webp"
+      ],
+      "image": "/media/2020-07-louisa.webp",
+      "links": [
+        {
+          "label": "Listen now",
+          "url": "http://cyiradio.com/live/"
+        }
+      ],
+      "sourceUrl": "https://connectcyi.org/resources/#cyi-radio",
+      "href": "/resources/cyi-radio"
+    },
+    {
+      "slug": "cyi-blog",
+      "title": "CYI Blog",
+      "paragraphs": [
+        "On the CYI Blog, we create room for youth to write… and read. LOL. Our blog is a place of refreshing, and encouragement, and a platform for the writers in CYI to share their gifts and bless us. The blog is our creative space for all kinds of written art. Here at CYI, we believe that leaders are readers, and in line with our vision to raise leaders, our blog is not just a “Readers’ Hub”, but a “Leaders’ Hub”."
+      ],
+      "description": "On the CYI Blog, we create room for youth to write… and read. LOL. Our blog is a place of refreshing, and encouragement, and a platform for the writers in CYI to share their gifts and bless us. The blog is our creative space for all kinds of written art. Here at CYI, we believe that leaders are readers, and in line with our vision to raise leaders, our blog is not just a “Readers’ Hub”, but a “Leaders’ Hub”.",
+      "images": [
+        "/media/2020-07-blog-REvised.webp"
+      ],
+      "image": "/media/2026-05-485380356_990052819889113_7222064012390240019_n.webp",
+      "links": [
+        {
+          "label": "Read now",
+          "url": "https://medium.com/christ-for-youth-international"
+        }
+      ],
+      "sourceUrl": "https://connectcyi.org/resources/#cyi-blog",
+      "href": "/resources/cyi-blog"
+    },
+    {
+      "slug": "cyi-tv",
+      "title": "CYI TV",
+      "paragraphs": [
+        "CYI TV is the major visual broadcast medium for Christ for Youth International. It’s a medium through which the ministry is able to reach the world with its content, thereby promoting the Kingdom Agenda of raising a Godly society. It also serves as a medium through which major and memorable events of the ministry are preserved."
+      ],
+      "description": "CYI TV is the major visual broadcast medium for Christ for Youth International. It’s a medium through which the ministry is able to reach the world with its content, thereby promoting the Kingdom Agenda of raising a Godly society. It also serves as a medium through which major and memorable events of the ministry are preserved.",
+      "images": [
+        "/media/2020-07-Tv-Youtube.webp"
+      ],
+      "image": "/media/2024-05-398098103_678857537675311_5657213549343521159_n.webp",
+      "links": [
+        {
+          "label": "Watch now",
+          "url": "https://www.youtube.com/channel/UCuSiqOgiuJ7DG8op4FKbk2w"
+        }
+      ],
+      "sourceUrl": "https://connectcyi.org/resources/#cyi-tv",
+      "href": "/resources/cyi-tv"
+    },
+    {
+      "slug": "precious-moments",
+      "title": "The Precious Moments Devotional",
+      "paragraphs": [
+        "Precious Moments is a daily devotional written by a team of gifted hands in CYI with inspiration from God and in relation to our themes for the month. Our place of introduction, meeting and fellowship with the Holy Spirit is possible when we surrender to Jesus Christ and abide in His word. Precious Moments aids young people to spend quality time with the Holy Spirit and improve their walk with God as they read daily."
+      ],
+      "description": "Precious Moments is a daily devotional written by a team of gifted hands in CYI with inspiration from God and in relation to our themes for the month. Our place of introduction, meeting and fellowship with the Holy Spirit is possible when we surrender to Jesus Christ and abide in His word. Precious Moments aids young people to spend quality time with the Holy Spirit and improve their walk with God as they read daily.",
+      "images": [
+        "/media/2020-07-Devotional2.webp"
+      ],
+      "image": "/media/2023-02-B4ED0A55-431C-458C-ADE6-0E866921CD11.webp",
+      "links": [
+        {
+          "label": "Read now",
+          "url": "https://medium.com/christ-for-youth-international/tagged/precious-moments"
+        }
+      ],
+      "sourceUrl": "https://connectcyi.org/resources/#precious-moments",
+      "sourceBodyLink": "https://connectcyi.org/precious-moments/",
+      "href": "/resources/precious-moments"
+    }
+  ],
+  "values": [
+    {
+      "slug": "faith",
+      "title": "Faith",
+      "paragraphs": [
+        "CYI is a Christ centered youth ministry. Our faith is based on a person. Everything we do has a focus on Christ. CYI is not a club or group of friends. We exists because of Christ and we do all we do because of Christ. Christ is our foundation and all we do has Him as our foundation (1 Cor. 3:11)."
+      ],
+      "description": "CYI is a Christ centered youth ministry. Our faith is based on a person. Everything we do has a focus on Christ. CYI is not a club or group of friends. We exists because of Christ and we do all we do because of Christ. Christ is our foundation and all we do has Him as our foundation (1 Cor. 3:11).",
+      "images": [
+        "/media/2020-07-Faith1.webp"
+      ],
+      "image": "/media/2020-07-Faith1.webp"
+    },
+    {
+      "slug": "stewardship",
+      "title": "Stewardship",
+      "paragraphs": [
+        "CYI is fully accountable to our God, our staff, our youth, and our supporters. We believe that all we have was given to us by God and so we must use them for His purposes. Nothing we have is used for personal gain. All our resources are channeled back to the Kingdom for expansion."
+      ],
+      "description": "CYI is fully accountable to our God, our staff, our youth, and our supporters. We believe that all we have was given to us by God and so we must use them for His purposes. Nothing we have is used for personal gain. All our resources are channeled back to the Kingdom for expansion.",
+      "images": [
+        "/media/2020-07-Stewardship1.webp"
+      ],
+      "image": "/media/2020-07-Stewardship1.webp"
+    },
+    {
+      "slug": "dedication",
+      "title": "Dedication",
+      "paragraphs": [
+        "CYI is committed to serving others selflessly. We believe that as followers of Jesus, we need to lay down our lives for others (1 John 3:16). We are committed to serving believers in the ministry, outside the ministry and also our community. We are ready to serve others in order to make life better for them and also carry other people’s burdens."
+      ],
+      "description": "CYI is committed to serving others selflessly. We believe that as followers of Jesus, we need to lay down our lives for others (1 John 3:16). We are committed to serving believers in the ministry, outside the ministry and also our community. We are ready to serve others in order to make life better for them and also carry other people’s burdens.",
+      "images": [
+        "/media/2020-07-Dedication1.webp"
+      ],
+      "image": "/media/2020-07-Dedication1.webp"
+    },
+    {
+      "slug": "integrity",
+      "title": "Integrity",
+      "paragraphs": [
+        "CYI is uncompromising in exhibiting honesty and integrity in everything we do. We believe that as followers of Jesus, we must walk in the highest form of integrity. We believe our lives are a message to the world. We believe everyone must be treated fairly and so are careful in our dealings with others."
+      ],
+      "description": "CYI is uncompromising in exhibiting honesty and integrity in everything we do. We believe that as followers of Jesus, we must walk in the highest form of integrity. We believe our lives are a message to the world. We believe everyone must be treated fairly and so are careful in our dealings with others.",
+      "images": [
+        "/media/2020-07-Integrity1.webp"
+      ],
+      "image": "/media/2020-07-Integrity1.webp"
+    },
+    {
+      "slug": "resolve",
+      "title": "Resolve",
+      "paragraphs": [
+        "CYI is unwavering in our call to serve and develop young people for Christ. Many youth have been left and forgotten. Many programs in our churches don’t have youth as the focus. Many youth in some churches feel they are not part of their churches because they don’t have roles to play. Our goal is to give youth a chance to have a relationship with God and also serve Him."
+      ],
+      "description": "CYI is unwavering in our call to serve and develop young people for Christ. Many youth have been left and forgotten. Many programs in our churches don’t have youth as the focus. Many youth in some churches feel they are not part of their churches because they don’t have roles to play. Our goal is to give youth a chance to have a relationship with God and also serve Him.",
+      "images": [
+        "/media/2020-07-Resolve1.webp"
+      ],
+      "image": "/media/2020-07-Resolve1.webp"
+    },
+    {
+      "slug": "excellence",
+      "title": "Excellence",
+      "paragraphs": [
+        "CYI is committed to excellence in everything that we do. We believe God is an excellent God and so all we do must be done excellently. Much care and planning goes into everything we do, to ensure we come out with excellent result."
+      ],
+      "description": "CYI is committed to excellence in everything that we do. We believe God is an excellent God and so all we do must be done excellently. Much care and planning goes into everything we do, to ensure we come out with excellent result.",
+      "images": [
+        "/media/2020-07-Excellence1.webp"
+      ],
+      "image": "/media/2020-07-Excellence1.webp"
+    }
+  ],
+  "leaders": [
+    {
+      "name": "Roderick Agyekum",
+      "role": "President & Chairman",
+      "group": "President & Chairman",
+      "image": "/media/2020-07-Roddy-BW.webp",
+      "website": "http://roderickagyekum.com"
+    },
+    {
+      "name": "Elton Afflu",
+      "role": "Vice Chair – Ministry",
+      "group": "The Vice Chair Committee",
+      "image": "/media/2020-07-Pastor-Elton.webp",
+      "images": [
+        "/media/2020-07-Pastor-Elton.webp"
+      ]
+    },
+    {
+      "name": "Samaya Ayisi-Addo",
+      "role": "Vice Chair – Operations",
+      "group": "The Vice Chair Committee",
+      "image": "/media/2020-07-Samaya.webp",
+      "images": [
+        "/media/2020-07-Samaya.webp"
+      ]
+    },
+    {
+      "name": "Prince Amoako",
+      "role": "Vice Chair – Presidents/Branches",
+      "group": "The Vice Chair Committee",
+      "image": "/media/2020-07-Prince.webp",
+      "images": [
+        "/media/2020-07-Prince.webp"
+      ]
+    },
+    {
+      "name": "Napoleon Kofie",
+      "role": "Business Development",
+      "group": "The Directors Board",
+      "image": "/media/2020-07-Napoleon.webp",
+      "images": [
+        "/media/2020-07-Napoleon.webp"
+      ]
+    },
+    {
+      "name": "Enid Osei-Boakye",
+      "role": "Creative Director",
+      "group": "The Directors Board",
+      "image": "/media/2020-07-enid.webp",
+      "images": [
+        "/media/2020-07-enid.webp"
+      ]
+    },
+    {
+      "name": "Kofi Nkrumah Mensah",
+      "role": "Administrative Director",
+      "group": "The Directors Board",
+      "image": "/media/2020-07-kofi.webp",
+      "images": [
+        "/media/2020-07-kofi.webp"
+      ]
+    },
+    {
+      "name": "Nana Tawiah",
+      "role": "Human Resource Director",
+      "group": "The Directors Board",
+      "image": "/media/2020-07-Tawiah.webp",
+      "images": [
+        "/media/2020-07-Tawiah.webp"
+      ]
+    },
+    {
+      "name": "George Oliver",
+      "role": "Sound & Electrical Director",
+      "group": "The Directors Board",
+      "image": "/media/2020-07-dj.webp",
+      "images": [
+        "/media/2020-07-dj.webp"
+      ]
+    },
+    {
+      "name": "Martin Mensah",
+      "role": "Projects Director",
+      "group": "The Directors Board",
+      "image": "/media/2020-07-Martin.webp",
+      "images": [
+        "/media/2020-07-Martin.webp"
+      ]
+    },
+    {
+      "name": "Elton Afflu",
+      "role": "Ministry Director",
+      "group": "The Directors Board",
+      "image": "/media/2020-07-Pastor-Elton.webp",
+      "images": [
+        "/media/2020-07-Pastor-Elton.webp"
+      ]
+    },
+    {
+      "name": "Samaya Ayisi-Addo",
+      "role": "Programs Director",
+      "group": "The Directors Board",
+      "image": "/media/2020-07-Samaya.webp",
+      "images": [
+        "/media/2020-07-Samaya.webp"
+      ]
+    },
+    {
+      "name": "James Hammond",
+      "role": "Media Director",
+      "group": "The Directors Board",
+      "image": "/media/2020-07-Yakubu.webp",
+      "images": [
+        "/media/2020-07-Yakubu.webp"
+      ]
+    },
+    {
+      "name": "Emmanuel Eshun-Davies",
+      "role": "Europe Director",
+      "group": "The Directors Board",
+      "image": "/media/2020-07-emma.webp",
+      "images": [
+        "/media/2020-07-emma.webp"
+      ]
+    },
+    {
+      "name": "Kwadwo Agyapon-Ntra",
+      "role": "Technology & East Africa Director",
+      "group": "The Directors Board",
+      "image": "/media/2024-05-1690288712720.webp",
+      "images": [
+        "/media/2024-05-1690288712720.webp"
+      ]
+    }
+  ],
+  "branches": [
+    {
+      "slug": "adenta",
+      "name": "Adenta",
+      "sourceName": "ADENTA",
+      "contact": "Nouhad Taki",
+      "phone": "0243201639",
+      "tel": "tel:+233243201639",
+      "country": "Ghana",
+      "region": "Africa",
+      "image": "/media/2020-10-Adenta.webp",
+      "images": [
+        "/media/2020-10-Adenta.webp"
+      ],
+      "instagram": "https://www.instagram.com/ahavah_adenta/",
+      "href": "/branches/adenta"
+    },
+    {
+      "slug": "airport",
+      "name": "Airport",
+      "sourceName": "AIRPORT",
+      "contact": "Paa Kwesi Danquah Okoh",
+      "phone": "0240983651",
+      "tel": "tel:+233240983651",
+      "country": "Ghana",
+      "region": "Africa",
+      "image": "/media/2020-10-Airport.webp",
+      "images": [
+        "/media/2020-10-Airport.webp"
+      ],
+      "instagram": "https://www.instagram.com/ahavah_airport/",
+      "href": "/branches/airport"
+    },
+    {
+      "slug": "aburi",
+      "name": "Aburi",
+      "sourceName": "ABURI",
+      "contact": "Prince Kyei Baffour",
+      "phone": "0273040702",
+      "tel": "tel:+233273040702",
+      "country": "Ghana",
+      "region": "Africa",
+      "image": "/media/2020-10-Aburi.webp",
+      "images": [
+        "/media/2020-10-Aburi.webp"
+      ],
+      "instagram": null,
+      "href": "/branches/aburi"
+    },
+    {
+      "slug": "ashaiman",
+      "name": "Ashaiman",
+      "sourceName": "ASHAIMAN",
+      "contact": "Kofi Addo",
+      "phone": "0541434698",
+      "tel": "tel:+233541434698",
+      "country": "Ghana",
+      "region": "Africa",
+      "image": "/media/2020-10-Ashaiman.webp",
+      "images": [
+        "/media/2020-10-Ashaiman.webp"
+      ],
+      "instagram": "https://www.instagram.com/ahavah_ashaiman_j/",
+      "href": "/branches/ashaiman"
+    },
+    {
+      "slug": "ashongman",
+      "name": "Ashongman",
+      "sourceName": "ASHONGMAN",
+      "contact": "Paa Joe",
+      "phone": "0209463745",
+      "tel": "tel:+233209463745",
+      "country": "Ghana",
+      "region": "Africa",
+      "image": "/media/2020-10-Ashongman.webp",
+      "images": [
+        "/media/2020-10-Ashongman.webp"
+      ],
+      "instagram": "https://www.instagram.com/ahavah_ashongman_/",
+      "href": "/branches/ashongman"
+    },
+    {
+      "slug": "awoshie",
+      "name": "Awoshie",
+      "sourceName": "AWOSHIE",
+      "contact": "Marcia Bekoe",
+      "phone": "0240521485",
+      "tel": "tel:+233240521485",
+      "country": "Ghana",
+      "region": "Africa",
+      "image": "/media/2020-10-Awoshie.webp",
+      "images": [
+        "/media/2020-10-Awoshie.webp"
+      ],
+      "instagram": null,
+      "href": "/branches/awoshie"
+    },
+    {
+      "slug": "berlin-germany",
+      "name": "Berlin (Germany)",
+      "sourceName": "BERLIN (GERMANY)",
+      "contact": "Larisa Andre",
+      "phone": "0261165242",
+      "tel": "tel:+233261165242",
+      "country": "Germany",
+      "region": "Europe",
+      "image": "/media/2020-10-Berlin.webp",
+      "images": [
+        "/media/2020-10-Berlin.webp"
+      ],
+      "instagram": "https://www.instagram.com/ahavah_berlin/",
+      "href": "/branches/berlin-germany"
+    },
+    {
+      "slug": "dansoman",
+      "name": "Dansoman",
+      "sourceName": "DANSOMAN",
+      "contact": "Elton Afflu",
+      "phone": "0243061632",
+      "tel": "tel:+233243061632",
+      "country": "Ghana",
+      "region": "Africa",
+      "image": "/media/2020-10-Dansoman.webp",
+      "images": [
+        "/media/2020-10-Dansoman.webp"
+      ],
+      "instagram": "https://www.instagram.com/ahavah_dansoman/",
+      "href": "/branches/dansoman"
+    },
+    {
+      "slug": "deurne-belgium",
+      "name": "Deurne (Belgium)",
+      "sourceName": "DEURNE (BELGIUM)",
+      "contact": "Emmanuel Eshun-Davies",
+      "phone": "+32477044811",
+      "tel": "tel:+32477044811",
+      "country": "Belgium",
+      "region": "Europe",
+      "image": "/media/2020-10-Deurne.webp",
+      "images": [
+        "/media/2020-10-Deurne.webp"
+      ],
+      "instagram": "https://www.instagram.com/ahavah_deurne/",
+      "href": "/branches/deurne-belgium"
+    },
+    {
+      "slug": "dome",
+      "name": "Dome",
+      "sourceName": "DOME",
+      "contact": "Jeff Amaning",
+      "phone": "0500007730",
+      "tel": "tel:+233500007730",
+      "country": "Ghana",
+      "region": "Africa",
+      "image": "/media/2020-10-Dome.webp",
+      "images": [
+        "/media/2020-10-Dome.webp"
+      ],
+      "instagram": "https://www.instagram.com/ahavah_dome/",
+      "href": "/branches/dome"
+    },
+    {
+      "slug": "east-legon",
+      "name": "East Legon",
+      "sourceName": "EAST LEGON",
+      "contact": "Victoria Armah",
+      "phone": "0208906023",
+      "tel": "tel:+233208906023",
+      "country": "Ghana",
+      "region": "Africa",
+      "image": "/media/2020-10-East-Legon.webp",
+      "images": [
+        "/media/2020-10-East-Legon.webp"
+      ],
+      "instagram": "https://www.instagram.com/ahavaheastlegon/",
+      "href": "/branches/east-legon"
+    },
+    {
+      "slug": "kasoa",
+      "name": "Kasoa",
+      "sourceName": "KASOA",
+      "contact": "Nouhad Taki",
+      "phone": "0243201639",
+      "tel": "tel:+233243201639",
+      "country": "Ghana",
+      "region": "Africa",
+      "image": "/media/2020-10-Kasoa.webp",
+      "images": [
+        "/media/2020-10-Kasoa.webp"
+      ],
+      "instagram": "https://www.instagram.com/ahavah_kasoa/",
+      "href": "/branches/kasoa"
+    },
+    {
+      "slug": "lakeside",
+      "name": "Lakeside",
+      "sourceName": "LAKESIDE",
+      "contact": "Samaya Ayisi Addo",
+      "phone": "0248373738",
+      "tel": "tel:+233248373738",
+      "country": "Ghana",
+      "region": "Africa",
+      "image": "/media/2020-10-Lakeside.webp",
+      "images": [
+        "/media/2020-10-Lakeside.webp"
+      ],
+      "instagram": "https://www.instagram.com/ahavah_lakeside/",
+      "href": "/branches/lakeside"
+    },
+    {
+      "slug": "last-stop",
+      "name": "Last Stop",
+      "sourceName": "LAST STOP",
+      "contact": "Jeff Biney",
+      "phone": "0277544444",
+      "tel": "tel:+233277544444",
+      "country": "Ghana",
+      "region": "Africa",
+      "image": "/media/2020-10-Last-Stop.webp",
+      "images": [
+        "/media/2020-10-Last-Stop.webp"
+      ],
+      "instagram": null,
+      "href": "/branches/last-stop"
+    },
+    {
+      "slug": "lapaz",
+      "name": "Lapaz",
+      "sourceName": "LAPAZ",
+      "contact": "King David",
+      "phone": "0278538399",
+      "tel": "tel:+233278538399",
+      "country": "Ghana",
+      "region": "Africa",
+      "image": "/media/2020-10-Lapaz.webp",
+      "images": [
+        "/media/2020-10-Lapaz.webp"
+      ],
+      "instagram": "https://www.instagram.com/ahavah_lapaz/",
+      "href": "/branches/lapaz"
+    },
+    {
+      "slug": "london-uk",
+      "name": "London (UK)",
+      "sourceName": "LONDON (UK)",
+      "contact": "Jacob Asare Appiah",
+      "phone": "+447466686774",
+      "tel": "tel:+447466686774",
+      "country": "United Kingdom",
+      "region": "Europe",
+      "image": "/media/2020-10-London.webp",
+      "images": [
+        "/media/2020-10-London.webp"
+      ],
+      "instagram": "https://www.instagram.com/ahavah_london/",
+      "href": "/branches/london-uk"
+    },
+    {
+      "slug": "lille-france",
+      "name": "Lille (France)",
+      "sourceName": "LILLE (FRANCE)",
+      "contact": "Earl Bempong",
+      "phone": "+33758952924",
+      "tel": "tel:+33758952924",
+      "country": "France",
+      "region": "Europe",
+      "image": "/media/2020-10-Lille.webp",
+      "images": [
+        "/media/2020-10-Lille.webp"
+      ],
+      "instagram": "https://www.instagram.com/ahavah_lillefr/",
+      "href": "/branches/lille-france"
+    },
+    {
+      "slug": "madina",
+      "name": "Madina",
+      "sourceName": "MADINA",
+      "contact": "Praise Nortey",
+      "phone": "0202546286",
+      "tel": "tel:+233202546286",
+      "country": "Ghana",
+      "region": "Africa",
+      "image": "/media/2020-10-Madina.webp",
+      "images": [
+        "/media/2020-10-Madina.webp"
+      ],
+      "instagram": "https://www.instagram.com/ahavah_madina/",
+      "href": "/branches/madina"
+    },
+    {
+      "slug": "mataheko",
+      "name": "Mataheko",
+      "sourceName": "MATAHEKO",
+      "contact": "Ekow Aubyn",
+      "phone": "0242641144",
+      "tel": "tel:+233242641144",
+      "country": "Ghana",
+      "region": "Africa",
+      "image": "/media/2020-10-Mataheko.webp",
+      "images": [
+        "/media/2020-10-Mataheko.webp"
+      ],
+      "instagram": "https://www.instagram.com/ahavah_mataheko/",
+      "href": "/branches/mataheko"
+    },
+    {
+      "slug": "nima",
+      "name": "Nima",
+      "sourceName": "NIMA",
+      "contact": "",
+      "phone": "",
+      "tel": "",
+      "country": "Ghana",
+      "region": "Africa",
+      "image": "/media/2020-10-Nima.webp",
+      "images": [
+        "/media/2020-10-Nima.webp"
+      ],
+      "instagram": "https://www.instagram.com/ahavah_nima1/",
+      "href": "/branches/nima"
+    },
+    {
+      "slug": "north-kaneshie",
+      "name": "North Kaneshie",
+      "sourceName": "NORTH KANESHIE",
+      "contact": "Kevin Asuo",
+      "phone": "0553443635",
+      "tel": "tel:+233553443635",
+      "country": "Ghana",
+      "region": "Africa",
+      "image": "/media/2020-10-North-Kaneshie.webp",
+      "images": [
+        "/media/2020-10-North-Kaneshie.webp"
+      ],
+      "instagram": "https://www.instagram.com/ahavah_nk/",
+      "href": "/branches/north-kaneshie"
+    },
+    {
+      "slug": "osu",
+      "name": "Osu",
+      "sourceName": "OSU",
+      "contact": "Elorm Dunyo",
+      "phone": "0267195591",
+      "tel": "tel:+233267195591",
+      "country": "Ghana",
+      "region": "Africa",
+      "image": "/media/2020-10-Osu.webp",
+      "images": [
+        "/media/2020-10-Osu.webp"
+      ],
+      "instagram": "https://www.instagram.com/ahavah__osu/",
+      "href": "/branches/osu"
+    },
+    {
+      "slug": "taifa",
+      "name": "Taifa",
+      "sourceName": "TAIFA",
+      "contact": "Gifty Birago",
+      "phone": "0277292496",
+      "tel": "tel:+233277292496",
+      "country": "Ghana",
+      "region": "Africa",
+      "image": "/media/2020-10-Taifa.webp",
+      "images": [
+        "/media/2020-10-Taifa.webp"
+      ],
+      "instagram": "https://www.instagram.com/ahavah_taifa/",
+      "href": "/branches/taifa"
+    },
+    {
+      "slug": "teiman",
+      "name": "Teiman",
+      "sourceName": "TEIMAN",
+      "contact": "Prince Charles",
+      "phone": "0269747201",
+      "tel": "tel:+233269747201",
+      "country": "Ghana",
+      "region": "Africa",
+      "image": "/media/2020-10-Teiman.webp",
+      "images": [
+        "/media/2020-10-Teiman.webp"
+      ],
+      "instagram": "https://www.instagram.com/ahavah_teiman/",
+      "href": "/branches/teiman"
+    },
+    {
+      "slug": "weija",
+      "name": "Weija",
+      "sourceName": "WEIJA",
+      "contact": "Ato Kwamena Emoa",
+      "phone": "0244791001",
+      "tel": "tel:+233244791001",
+      "country": "Ghana",
+      "region": "Africa",
+      "image": "/media/2020-10-Weija.webp",
+      "images": [
+        "/media/2020-10-Weija.webp"
+      ],
+      "instagram": "https://www.instagram.com/ahavah_weija/",
+      "href": "/branches/weija"
+    },
+    {
+      "slug": "wesley-grammar",
+      "name": "Wesley Grammar",
+      "sourceName": "WESLEY GRAMMAR",
+      "contact": "Louisa Napoleon",
+      "phone": "0206685811",
+      "tel": "tel:+233206685811",
+      "country": "Ghana",
+      "region": "Africa",
+      "image": "/media/2020-10-Wesley-Grammar.webp",
+      "images": [
+        "/media/2020-10-Wesley-Grammar.webp"
+      ],
+      "instagram": "https://www.instagram.com/ahavah_wesg/",
+      "href": "/branches/wesley-grammar"
+    },
+    {
+      "slug": "banana-inn",
+      "name": "Banana Inn",
+      "country": "Ghana",
+      "region": "Africa",
+      "contact": "",
+      "phone": "",
+      "tel": "",
+      "instagram": "",
+      "image": "/media/2020-07-cropped-cyi_512.webp",
+      "source": "https://connectcyi.org/executive-leadership-application/",
+      "sourceYear": 2026,
+      "contactPending": true,
+      "href": "/branches/banana-inn"
+    },
+    {
+      "slug": "barnet",
+      "name": "Barnet",
+      "country": "United Kingdom",
+      "region": "Europe",
+      "contact": "",
+      "phone": "",
+      "tel": "",
+      "instagram": "",
+      "image": "/media/2020-07-cropped-cyi_512.webp",
+      "source": "https://connectcyi.org/executive-leadership-application/",
+      "sourceYear": 2026,
+      "contactPending": true,
+      "href": "/branches/barnet"
+    },
+    {
+      "slug": "grand-rapids",
+      "name": "Grand Rapids",
+      "country": "United States",
+      "region": "North America",
+      "contact": "",
+      "phone": "",
+      "tel": "",
+      "instagram": "",
+      "image": "/media/2020-07-cropped-cyi_512.webp",
+      "source": "https://connectcyi.org/executive-leadership-application/",
+      "sourceYear": 2026,
+      "contactPending": true,
+      "href": "/branches/grand-rapids"
+    },
+    {
+      "slug": "hoboken",
+      "name": "Hoboken",
+      "country": "Belgium",
+      "region": "Europe",
+      "contact": "",
+      "phone": "",
+      "tel": "",
+      "instagram": "",
+      "image": "/media/2020-07-cropped-cyi_512.webp",
+      "source": "https://connectcyi.org/executive-leadership-application/",
+      "sourceYear": 2026,
+      "contactPending": true,
+      "href": "/branches/hoboken"
+    },
+    {
+      "slug": "kapellen",
+      "name": "Kapellen",
+      "country": "Belgium",
+      "region": "Europe",
+      "contact": "",
+      "phone": "",
+      "tel": "",
+      "instagram": "",
+      "image": "/media/2020-07-cropped-cyi_512.webp",
+      "source": "https://connectcyi.org/executive-leadership-application/",
+      "sourceYear": 2026,
+      "contactPending": true,
+      "href": "/branches/kapellen"
+    },
+    {
+      "slug": "merksem",
+      "name": "Merksem",
+      "country": "Belgium",
+      "region": "Europe",
+      "contact": "",
+      "phone": "",
+      "tel": "",
+      "instagram": "",
+      "image": "/media/2020-07-cropped-cyi_512.webp",
+      "source": "https://connectcyi.org/executive-leadership-application/",
+      "sourceYear": 2026,
+      "contactPending": true,
+      "href": "/branches/merksem"
+    },
+    {
+      "slug": "kigali",
+      "name": "Kigali",
+      "country": "Rwanda",
+      "region": "Africa",
+      "contact": "",
+      "phone": "",
+      "tel": "",
+      "instagram": "",
+      "image": "/media/2020-07-cropped-cyi_512.webp",
+      "source": "https://connectcyi.org/executive-leadership-application/",
+      "sourceYear": 2026,
+      "contactPending": true,
+      "href": "/branches/kigali"
+    },
+    {
+      "slug": "korle-bu",
+      "name": "Korle Bu",
+      "country": "Ghana",
+      "region": "Africa",
+      "contact": "",
+      "phone": "",
+      "tel": "",
+      "instagram": "",
+      "image": "/media/2020-07-cropped-cyi_512.webp",
+      "source": "https://connectcyi.org/executive-leadership-application/",
+      "sourceYear": 2026,
+      "contactPending": true,
+      "href": "/branches/korle-bu"
+    },
+    {
+      "slug": "monrovia",
+      "name": "Monrovia",
+      "country": "Liberia",
+      "region": "Africa",
+      "contact": "",
+      "phone": "",
+      "tel": "",
+      "instagram": "",
+      "image": "/media/2020-07-cropped-cyi_512.webp",
+      "source": "https://connectcyi.org/executive-leadership-application/",
+      "sourceYear": 2026,
+      "contactPending": true,
+      "href": "/branches/monrovia"
+    },
+    {
+      "slug": "pokuase",
+      "name": "Pokuase",
+      "country": "Ghana",
+      "region": "Africa",
+      "contact": "",
+      "phone": "",
+      "tel": "",
+      "instagram": "",
+      "image": "/media/2020-07-cropped-cyi_512.webp",
+      "source": "https://connectcyi.org/executive-leadership-application/",
+      "sourceYear": 2026,
+      "contactPending": true,
+      "href": "/branches/pokuase"
+    },
+    {
+      "slug": "spintex",
+      "name": "Spintex",
+      "country": "Ghana",
+      "region": "Africa",
+      "contact": "",
+      "phone": "",
+      "tel": "",
+      "instagram": "",
+      "image": "/media/2020-07-cropped-cyi_512.webp",
+      "source": "https://connectcyi.org/executive-leadership-application/",
+      "sourceYear": 2026,
+      "contactPending": true,
+      "href": "/branches/spintex"
+    },
+    {
+      "slug": "tema",
+      "name": "Tema",
+      "country": "Ghana",
+      "region": "Africa",
+      "contact": "",
+      "phone": "",
+      "tel": "",
+      "instagram": "",
+      "image": "/media/2020-07-cropped-cyi_512.webp",
+      "source": "https://connectcyi.org/executive-leadership-application/",
+      "sourceYear": 2026,
+      "contactPending": true,
+      "href": "/branches/tema"
+    }
+  ],
+  "testimonials": [
+    {
+      "name": "Joe",
+      "branch": "Awoshie",
+      "location": "Awoshie",
+      "quote": "CYI has helped me to build fellowship with people in a positive way; to develop my skills, and to grow and become a good leader (spiritually, physically, financially) etc, to impact generations.",
+      "image": "/media/2020-10-pp.webp"
+    },
+    {
+      "name": "Pami",
+      "branch": "East Legon",
+      "location": "East Legon",
+      "quote": "My CYI experience has been phenomenal! Having been with the ministry for a decade now, I can say with certainty that there's no other place I'd rather be. It just keeps getting better year after year!",
+      "image": "/media/2020-10-17192033_1676137319068213_6292682058227775187_o.webp"
+    },
+    {
+      "name": "Jacky",
+      "branch": "Kenya",
+      "location": "Kenya",
+      "quote": "My CYI experience is a Miracle. I initially thought being in ministry means being the Holy Joe but I have better knowledge now. Being human and knowing Christ is all the super power you need. The CYI family is my superhero family 👪",
+      "image": "/media/2020-10-WhatsApp-Image-2020-09-07-at-6.07-2.webp"
+    },
+    {
+      "name": "Yakubu",
+      "branch": "Tema",
+      "location": "Tema",
+      "quote": "CYI is a home away from home; a true family; a place where I could never hold back who I am; a place where talent never goes wasted. Frankly, I have become a better person since joining CYI.",
+      "image": "/media/2020-09-Yakubu.webp"
+    },
+    {
+      "name": "Larisa",
+      "branch": "Berlin",
+      "location": "Berlin",
+      "quote": "CYI is amazing! I was attracted by the youthful atmosphere, and I have since been groomed in my relationship with God and with people. I invite you o share in this wonderful experience with me.",
+      "image": "/media/2020-07-ELorm-and-Larisa-e1633075970559.webp"
+    },
+    {
+      "name": "Anastasia",
+      "branch": "Adenta",
+      "location": "Adenta",
+      "quote": "Camp 2018 was my first CYI Camp.  I was looking for an opportunity to wait on God before entering the new year. GOD BLEW MY MIND. I experienced more than I expected or imagined. It's certainly not something I can ever understand.",
+      "image": "/media/2020-09-anastasia.webp"
+    }
+  ],
+  "externalLinks": [
+    {
+      "label": "Preorder S2S T-shirt",
+      "url": "https://docs.google.com/forms/d/e/1FAIpQLSfEd-aa9HbvrAYAtNb8xW4IWsK_2aZEQfpV3o30PBEpTW6v0w/viewform?usp=header"
+    },
+    {
+      "label": "Give",
+      "url": "https://paystack.com/pay/bcaj3kp7j9"
+    },
+    {
+      "label": "Facebook",
+      "url": "https://www.facebook.com/ConnectCYI/"
+    },
+    {
+      "label": "Twitter",
+      "url": "https://twitter.com/thinkcyi?lang=en"
+    },
+    {
+      "label": "Instagram",
+      "url": "https://www.instagram.com/connectcyi/?hl=en"
+    },
+    {
+      "label": "Blog",
+      "url": "https://medium.com/christ-for-youth-international"
+    },
+    {
+      "label": "CYI TV",
+      "url": "https://www.youtube.com/channel/UCuSiqOgiuJ7DG8op4FKbk2w"
+    },
+    {
+      "label": "CYI Radio",
+      "url": "https://cyiradio.com/"
+    },
+    {
+      "label": "Precious Moments Devotional",
+      "url": "https://medium.com/christ-for-youth-international/tagged/precious-moments"
+    },
+    {
+      "label": "A2J",
+      "url": "https://www.instagram.com/cyi_a2j/?hl=en"
+    },
+    {
+      "label": "iTestify",
+      "url": "https://www.instagram.com/i__testify/?hl=en"
+    },
+    {
+      "label": "Levites",
+      "url": "https://www.instagram.com/official_levites/?hl=en"
+    },
+    {
+      "label": "La Famille",
+      "url": "https://lafamillemusic.com/"
+    },
+    {
+      "label": "Boys 2 Men",
+      "url": "https://www.instagram.com/cyi_boys2men/?hl=en"
+    },
+    {
+      "label": "Ambassadors",
+      "url": "https://www.instagram.com/we.r_ambassadors/?hl=en"
+    },
+    {
+      "label": "Divas 4 Christ",
+      "url": "https://www.instagram.com/cyi_divas4christ/?hl=en"
+    },
+    {
+      "label": "One Way Missions",
+      "url": "https://www.instagram.com/thinkoneway/?hl=en"
+    },
+    {
+      "label": "",
+      "url": "https://podcasts.apple.com/gh/podcast/the-kingdom-move/id1428572417"
+    },
+    {
+      "label": "",
+      "url": "https://www.iheart.com/podcast/256-the-kingdom-move-31080573/"
+    },
+    {
+      "label": "",
+      "url": "https://www.podbean.com/podcast-detail/6e55r-8437f/The-Kingdom-Move-Podcast"
+    },
+    {
+      "label": "",
+      "url": "https://podcasts.google.com/feed/aHR0cHM6Ly9hbmNob3IuZm0vcy81ODBiMDM4L3BvZGNhc3QvcnNz"
+    },
+    {
+      "label": "",
+      "url": "https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwjY6J-sjpHqAhVDQUEAHayfAmYQFjAAegQIBRAB&url=https%3A%2F%2Fopen.spotify.com%2Fshow%2F4VmJB4mTWJCjseGirGDY13&usg=AOvVaw105j8UElfiIXZjI8_aXsBd"
+    },
+    {
+      "label": "Listen Now",
+      "url": "http://cyiradio.com/live/"
+    },
+    {
+      "label": "Read Now",
+      "url": "https://medium.com/christ-for-youth-international"
+    },
+    {
+      "label": "Watch Now",
+      "url": "https://www.youtube.com/channel/UCuSiqOgiuJ7DG8op4FKbk2w"
+    },
+    {
+      "label": "roderickagyekum.com",
+      "url": "http://roderickagyekum.com"
+    }
+  ],
+  "contact": {
+    "address": "Korama House, Railway-Crossing, Dome-Accra, Ghana",
+    "phone": "+233 (0) 26 553 0587",
+    "tel": "tel:+233265530587",
+    "donate": "https://paystack.com/pay/bcaj3kp7j9"
+  },
+  "home": {
+    "headline": "Creating room for youth to serve",
+    "theme": "Generosity",
+    "themeImage": "/media/2026-09-September.webp",
+    "event": "S2S 26",
+    "eventImage": "/media/2026-08-WhatsApp-Image-2026-07-13-at-17.48.30.webp",
+    "eventLink": "https://docs.google.com/forms/d/e/1FAIpQLSfEd-aa9HbvrAYAtNb8xW4IWsK_2aZEQfpV3o30PBEpTW6v0w/viewform?usp=header",
+    "eventDate": "2026-08-15",
+    "eventTime": "4:00 PM",
+    "eventVenue": "Winner’s Chapel Ghana, Tesano",
+    "eventStatus": "past",
+    "eventSourceLabel": "Upcoming event",
+    "eventRecommendedLabel": "Featured event"
+  },
+  "notes": [
+    "Branch directory last modified 2021-11-12; leadership 2024-08-10; environment descriptions 2020-10-21; home 2026-09-01.",
+    "No founding year or history paragraph appears on current navigated About page.",
+    "Source leadership typo Martin hMensah retained for review.",
+    "Nima source has no contact name or telephone.",
+    "Google Podcasts link in source is historical; source Spotify is Google redirect, resolved direct Spotify URL supplied.",
+    "Precious Moments source resource body button points to /precious-moments/; footer links to Medium. Both captured in extra page audit.",
+    "S2S 26 poster visually confirms Saturday 15 August, 4:00 PM, Winner’s Chapel Ghana, Tesano. Title 26 + upload year establishes 2026-08-15. This is past on research date 2026-09-13 despite source Upcoming event label."
+  ],
+  "devotionals": [
+    {
+      "slug": "the-lord-gives-wisdom",
+      "title": "The Lord Gives Wisdom",
+      "date": "2021-10-02",
+      "sourceUrl": "https://connectcyi.org/the-lord-gives-wisdom/",
+      "paragraphs": [
+        "For the LORD gives wisdom; from his mouth come knowledge and understanding; he stores up sound wisdom for the upright; he is a shield to those who walk in integrity, guarding the paths of justice and watching over the way of his saints [Proverbs 2:6–8 ESV].",
+        "Wisdom can be acquired in many ways. It can be acquired through personal experience or the experience of others, among others. As believers, one way to receive wisdom stands out clearly — getting wisdom from the Lord.",
+        "God gives us pure and unadulterated wisdom in His Word. The wisdom of the world is limited and unreliable. God is the only one who knows everything, so it only makes sense to want to receive wisdom from the One who has been there since the beginning of everything. God is the One who wields all wisdom. He alone knows which decision will affect you and the extent to which it will. Predictions may not tell you much, neither will reading your horoscope, nor going to a fortune-teller or prophet.",
+        "That is not to say prophecy is wrong. But why not get closer to the source Himself? Why not entrust God with all your curiosity? Why not ask Him to give you the wisdom you need for your day-to-day living? Ask Him for His wisdom so that you do not end up countering all that He’s doing for you with your wrong choices. Ask Him for wisdom because He cares for you and wants what is best for you.",
+        "God is His Word, so it is safe to say that the Word of God is chock-full of wisdom. Do you want advice on something? Go to His word! His ways are above our ways and His thoughts, above our thoughts.",
+        "Fret not, God always knows best. Remember, everything will fade away but the Word of God, His wisdom, will remain forever and ever.",
+        "Heavenly Father, open our eyes to see the wisdom laid out in Your word, as we daily seek out wisdom from Your word.",
+        "Further Reading: Ephesians1:17–18",
+        "Bible In One Year: Acts [11–14]"
+      ],
+      "excerpt": "For the LORD gives wisdom; from his mouth come knowledge and understanding; he stores up sound wisdom for the upright; he is a shield to those who walk in integrity, guarding the paths of justice and watching over the way of his saints [Proverbs 2:6–8 ESV]. Wisdom can be acquired in many ways. It can […]",
+      "images": [
+        "/media/2021-10-WhatsApp-Image-2021-09-30-at-8.45.52-AM.webp",
+        "https://connectcyi.org/wp-content/uploads/2021/10/WhatsApp-Image-2021-10-01-at-8.52.09-PM.jpeg"
+      ],
+      "image": "https://connectcyi.org/wp-content/uploads/2021/10/WhatsApp-Image-2021-09-30-at-8.45.52-AM.jpeg",
+      "href": "/devotionals/the-lord-gives-wisdom",
+      "artwork": [
+        "/media/2021-10-WhatsApp-Image-2021-10-01-at-8.52.09-PM-1024x1024.webp",
+        "/media/2021-10-WhatsApp-Image-2021-09-30-at-8.45.52-AM.webp"
+      ]
+    },
+    {
+      "slug": "master-the-strong-man",
+      "title": "Master the Strong Man",
+      "date": "2021-10-01",
+      "sourceUrl": "https://connectcyi.org/master-the-strong-man/",
+      "paragraphs": [
+        "“Again, how can any one enter the house of a strong man and carry off his goods, unless first of all he masters and secures the strong man: then he will ransack his house.” [Matthew 12:29 Weymouth]",
+        "From the history of Israel and indeed throughout scripture, we can clearly see that the enemy is in the business of deploying ‘mighty men’ to mount some form of resistance against the people (and move) of God. These resistances come in a myriad of ways; politically, economically and even culturally. Pharaoh, Haman, Herod, etc. Do these names ring a bell?",
+        "Things are no different in our world today. Some of the world’s most influential people are the ones that wield political and economic power. With a stroke of a pen, even miles away, their decisions in one way or the other influence the lives of people even in the remotest places. As cunning as our enemy is, he is always devising strategies to turn the hearts of ‘mighty’ men against the move of God. Do you see the urgency with which we must pray for global leaders and people in authority?",
+        "Thankfully, the word of God assures us that as Christians, the weapons of our warfare are not carnal. We do not wage war as the world wages war. Our weapons are potent to destroy the systems and agenda the enemy seeks to establish through mighty men in our days. Matthew 12:29 says to be able to plunder a strong man’s house, you must first tie him up!",
+        "To tie up the strong man is to disarm him of anything that makes him strong. What then makes men mighty in our time? Influence, wealth, authority! As believers, we must engage God in prayer and work hard so that we can also take over places of authority, power, and influence. When we do our part, God will set His people in places of authority to advance His Kingdom. There has never been a better time to ‘tie up’ wicked mighty men of the devil and disarm them of their power.",
+        "Like David, our stones may seem feeble in comparison to the shiny armour and intimidating nature of Goliath. However, we must be courageous, for our commander is the Lord of Hosts. With Him, we fight from a place of sure victory. What step will you take today that is in tandem with tying up the strong man?",
+        "Father, thank You that we already have victory in You. Please help us to live circumspectly so that we can disarm the mighty men of the enemy. As we pray, set Your people in places of power and authority in Jesus’ name. Amen",
+        "Further Reading: Isaiah 49:25 / Rev 7:12 / Rev 11:15",
+        "Bible In One Year: Acts 7 – 10"
+      ],
+      "excerpt": "“Again, how can any one enter the house of a strong man and carry off his goods, unless first of all he masters and secures the strong man: then he will ransack his house.” [Matthew 12:29 Weymouth] From the history of Israel and indeed throughout scripture, we can clearly see that the enemy is in […]",
+      "images": [
+        "/media/2021-09-WhatsApp-Image-2021-09-10-at-11.28.56-AM-819x1024.webp",
+        "/media/2021-10-WhatsApp-Image-2021-09-30-at-8.45.52-AM.webp"
+      ],
+      "image": "https://connectcyi.org/wp-content/uploads/2021/09/WhatsApp-Image-2021-09-10-at-11.28.56-AM-819x1024.jpeg",
+      "href": "/devotionals/master-the-strong-man",
+      "artwork": [
+        "/media/2021-10-WhatsApp-Image-2021-09-30-at-8.45.52-AM.webp",
+        "/media/2021-09-WhatsApp-Image-2021-09-10-at-11.28.56-AM-819x1024.webp"
+      ]
+    },
+    {
+      "slug": "meditate-day-and-night",
+      "title": "Meditate Day and Night",
+      "date": "2021-09-30",
+      "sourceUrl": "https://connectcyi.org/meditate-day-and-night/",
+      "paragraphs": [
+        "",
+        "“Keep this Book of the Law always on your lips; meditate on it day and night, so that you may be careful to do everything written in it. Then you will be prosperous and successful.” [Joshua‬ ‭1:8‬ ‭NIV]",
+        "To meditate is to focus one’s mind on something for a period of time, to ponder and reflect on. It is simply to give careful thought and consideration to something repeatedly. Developing the constant habit of meditation as believers aligns us with the heart of God because God’s heart is His very word. To continually focus on something results in becoming totally saturated with that thing.",
+        "From our opening scripture, it is important to note that constant meditation on God’s word positions us to obey what it says. The more we reflect on and ponder over God’s word, the more we move in tandem with His Spirit and walk in obedience. With the roots of the word deepening in the fertile soil of a receptive heart, the more likely it is to “be careful to do everything written in it”, which comes with the experience of true and lasting prosperity.",
+        "How do we meditate on God’s word till we become saturated with it? First, learn to write down verses in a journal. As you write, it becomes easier to memorise. You may also read it in other translations and spend time pondering over it. Posting little note cards with scriptures at places you can easily visualise them (e.g., on a mirror or by your bedside) can also serve as reminders. Additionally, recite the verse continually or pray it out in your time of prayer.",
+        "Delight in God’s word. As you meditate on it day and night, your understanding of God’s word will deepen. The light of His word will illuminate every part of your life.",
+        "Dear Lord, thank You for the light of Your word given to us. I pray that You help me to form the habit of meditating on Your word. As I meditate, speak to me and teach me, in Jesus’ name. Amen.",
+        "Further Reading: Psalm 1:2-3",
+        "Bible In One Year: Acts 3 – 6"
+      ],
+      "excerpt": "“Keep this Book of the Law always on your lips; meditate on it day and night, so that you may be careful to do everything written in it. Then you will be prosperous and successful.” [Joshua‬ ‭1:8‬ ‭NIV] To meditate is to focus one’s mind on something for a period of time, to ponder and reflect on. It is simply to give careful thought and consideration to something repeatedly. Developing the constant habit of meditation as believers aligns us with the heart of God because God’s heart is His […]",
+      "images": [
+        "/media/2021-09-WhatsApp-Image-2021-09-29-at-6.24.58-PM-732x1024.webp",
+        "/media/2021-09-WhatsApp-Image-2021-09-10-at-11.28.56-AM-819x1024.webp"
+      ],
+      "image": "https://connectcyi.org/wp-content/uploads/2021/09/WhatsApp-Image-2021-09-29-at-6.24.58-PM-732x1024.jpeg",
+      "href": "/devotionals/meditate-day-and-night",
+      "artwork": [
+        "/media/2021-09-WhatsApp-Image-2021-09-29-at-6.24.58-PM-732x1024.webp",
+        "/media/2021-09-WhatsApp-Image-2021-09-10-at-11.28.56-AM-819x1024.webp"
+      ]
+    },
+    {
+      "slug": "not-the-time-to-pull-away",
+      "title": "Not the Time to Pull Away",
+      "date": "2021-09-29",
+      "sourceUrl": "https://connectcyi.org/not-the-time-to-pull-away/",
+      "paragraphs": [
+        "",
+        "This is not the time to pull away and neglect meeting together, as some have formed the habit of doing, because we need each other! In fact, we should come together even more frequently, eager to encourage and urge each other onward as we anticipate that day dawning. [Hebrews 10:25 TPT]",
+        "At the mention of the word fellowship, what usually comes to mind is a believer fellowshipping with God. Praying, studying the word and yes that’s accurate, but that is not all fellowship refers to. Likewise, the fellowship between a believer and other believers is very important.",
+        "Humans are flawed in several ways because of sin. We are not perfect and even though believers in Christ become saved, the process of change in attitude is not instant. It takes a lot of studying the word, learning from others, and the constant renewing of the mind. So unfortunate that we have the potential to and do hurt each other sometimes. Sometimes, lies are told, and hurtful things are said, so because of this, there are a lot of disgruntled people who want to have nothing to do with fellowship and churches.",
+        "However, for believers, the benefits of fellowship far outweigh the possible struggles that may come out of a constant meeting. Through fellowship, faith is strengthened by listening to the testimonies of others. People find help in times of need and support through friends and loved ones. This and many more. It takes effort to stay in an environment where you may be hurt by someone who means well. But we must lead ourselves to do that. God is big on relationships. He doesn’t want people doing things alone. Even the disciples, He sent them out to preach the gospel in twos. And besides, it’s easy for the devil to harm you when you are isolated and not rooted in a family of believers who can pray with you when things are not going well.",
+        "We must lead ourselves to fellowship with other believers. The Bible talks about so many benefits of Godly companionship. There is so much you can learn about from a fellow believer. We are the body of Christ, and we work better when we are together. Everyone has been brought here to complete and help another person and when we trust in God, He helps us to help each other just like He intended for us to do.",
+        "Thank You, Lord, for fellowship. In Your wisdom, You said it is not good for me to be alone hence grant me the spirit of endurance and long-suffering in relation to other believers and not pull away because of offence, in Jesus name, Amen.",
+        "Further Reading: Acts 2:42",
+        "Bible In One Year: John [20 & 21] / Acts [1 & 2]"
+      ],
+      "excerpt": "This is not the time to pull away and neglect meeting together, as some have formed the habit of doing, because we need each other! In fact, we should come together even more frequently, eager to encourage and urge each other onward as we anticipate that day dawning. [Hebrews 10:25 TPT] At the mention of […]",
+      "images": [
+        "/media/2021-09-WhatsApp-Image-2021-09-29-at-10.26.07-AM-edited.webp",
+        "/media/2021-09-kingdom-move.webp"
+      ],
+      "image": "https://connectcyi.org/wp-content/uploads/2021/09/WhatsApp-Image-2021-09-29-at-10.26.07-AM-edited.jpeg",
+      "href": "/devotionals/not-the-time-to-pull-away",
+      "artwork": [
+        "/media/2021-09-WhatsApp-Image-2021-09-29-at-10.26.07-AM-edited.webp",
+        "/media/2021-09-kingdom-move.webp"
+      ]
+    },
+    {
+      "slug": "manage-your-time-well",
+      "title": "Manage Your Time Well",
+      "date": "2021-09-28",
+      "sourceUrl": "https://connectcyi.org/manage-your-time-well/",
+      "paragraphs": [
+        "“So be careful how you live. Don’t live like fools, but like those who are wise. Make the most of every opportunity in these evil days.”",
+        "For our own good, as eternal beings, God has inscribed in His word the need for us to make the most of the life we have here on earth. There is a purpose for which God made the earth the dwelling place for man/woman before transitioning into eternity.",
+        "The return of Christ should never sound cliché to us. God doesn’t go back on His word. His return should not incite fear in us, but neither should we take that thought passively. God has always been interested in our well-being. We who have come to know and experience this truth must be relentless in proclaiming the saving power of Christ.",
+        "We are to be good stewards of the time given us. Not only that, but we must always consider the time we have as a gift from God to be able to make good use of it. We must strive to be productive in every aspect of our lives. Our lives must entirely be lived for the benefit of others to God’s glory.",
+        "Making the best out of time entails prioritising what’s necessary. Seeking first God’s kingdom in every aspect of our lives (personal, relational, professional, etc.), knowing how to consider the wellbeing of others when spending our resources. This also includes knowing what to say yes or no to. We must be intentional to live life passionately and not passively, depending solely on the Holy Spirit.",
+        "May we always be found faithful with the time God has given us.",
+        "Heavenly Father, make my heart wise to understand the urgency of the time and season in which I live. Help me to live with your purpose for my life always in sight, that I may be diligent and prudent in all I do. In Jesus’ name, Amen.",
+        "Further Reading:  Ecclesiastes 9:10 / Romans 13:11",
+        "Bible In One Year: John [16 – 19]"
+      ],
+      "excerpt": "“So be careful how you live. Don’t live like fools, but like those who are wise. Make the most of every opportunity in these evil days.” ‭‭Ephesians‬ ‭5:15-16‬ [NLT] For our own good, as eternal beings, God has inscribed in His word the need for us to make the most of the life we have […]",
+      "images": [
+        "/media/2021-09-WhatsApp-Image-2021-09-10-at-11.28.56-AM-819x1024.webp",
+        "/media/2021-09-kingdom-move.webp"
+      ],
+      "image": "https://connectcyi.org/wp-content/uploads/2021/09/WhatsApp-Image-2021-09-10-at-11.28.56-AM-819x1024.jpeg",
+      "href": "/devotionals/manage-your-time-well",
+      "artwork": [
+        "/media/2021-09-kingdom-move.webp",
+        "/media/2021-09-WhatsApp-Image-2021-09-10-at-11.28.56-AM-819x1024.webp"
+      ]
+    },
+    {
+      "slug": "reasonable-generosity",
+      "title": "Reasonable Generosity",
+      "date": "2021-09-27",
+      "sourceUrl": "https://connectcyi.org/reasonable-generosity/",
+      "paragraphs": [
+        "I am using an example from everyday life because of your human limitations. Just as you used to offer yourselves as slaves to impurity and to ever-increasing wickedness, so now offer yourselves as slaves to righteousness leading to holiness.",
+        "One Nigerian preacher said on multiple occasions that he served Satan faithfully when he was in the world, and now that he’s in Christ, he cannot serve God any less faithfully. That is the message in our text today.",
+        "Can I suggest to you that you also served Satan faithfully while you were in the world? Yes, maybe you didn’t kill anyone or rape anyone; maybe you didn’t even steal or lie much. Possibly, you were, by worldly standards, a “good” person. But I promise you, when we stand before God, and the deepest thoughts and intents of our hearts are brought to light, not even the purest of us will meet the mark by our own goodness. All of us have worked in sin and deserve minimum wage: death.",
+        "Knowing this, and the enormity of the sacrifice that bought us back to God, is it not only right that we give back to God all that we have and are for His use? As believers, we are not called to be generous simply because we are blessed; in fact, Paul calls the giving of our lives a reasonable act of worship [Romans 12:1]. Put another way, it makes sense to be generous with all we have.",
+        "But, my good friends, generosity to God is not only in the offertory bowl and tithe envelopes. It happens in meeting the needs of others too.",
+        "And do not forget to do good and to share with others, for with such sacrifices God is pleased.",
+        "But it gets better! The Bible actually says that kindness to the poor is lending to God, and He will repay. [Proverbs 19:17]",
+        "In the words of Jesus, “…when you did it to one of the least of these my brothers and sisters, you were doing it to me!” [Matthew 25:40]",
+        "You don’t need to be a millionaire to be kind. Remember:",
+        "It’s not the rich that give, it’s the generous that give.",
+        "Father, I ask for the spirit of generosity; that I will not look upon my own needs and selfishly ignore the needs of others that I can meet. Be glorified in my generosity. In Jesus’ name. Amen.",
+        "Further Reading:  Proverbs 19:17  &  Matthew 25:40",
+        "Bible In One Year: John [12–15]"
+      ],
+      "excerpt": "I am using an example from everyday life because of your human limitations. Just as you used to offer yourselves as slaves to impurity and to ever-increasing wickedness, so now offer yourselves as slaves to righteousness leading to holiness. Romans 6:19 [NLT] One Nigerian preacher said on multiple occasions that he served Satan faithfully when […]",
+      "images": [
+        "/media/2021-09-WhatsApp-Image-2021-09-10-at-11.28.56-AM-819x1024.webp",
+        "/media/2021-09-kingdom-move.webp"
+      ],
+      "image": "https://connectcyi.org/wp-content/uploads/2021/09/WhatsApp-Image-2021-09-10-at-11.28.56-AM-819x1024.jpeg",
+      "href": "/devotionals/reasonable-generosity",
+      "artwork": [
+        "/media/2021-09-kingdom-move.webp",
+        "/media/2021-09-WhatsApp-Image-2021-09-10-at-11.28.56-AM-819x1024.webp"
+      ]
+    },
+    {
+      "slug": "be-accountable",
+      "title": "Be Accountable",
+      "date": "2021-09-26",
+      "sourceUrl": "https://connectcyi.org/be-accountable/",
+      "paragraphs": [
+        "Iron sharpens iron, and one man sharpens another",
+        "Accountability is a personal decision to allow “the right” people (spiritual leaders, shepherds, or even believers) into your life, so you will be answerable to them. These are people who can rebuke you and give you counsel. Being accountable to the right people is critical, becausefrom whence you source knowledge determines the wisdom or foolishness you depart with. Accountability requires a level of vulnerability on a part and proficiency in the knowledge of God on the other for efficacy. If until now you believed you are the worst person on earth because of your sins or even for a second, thought your sin is exclusive, the devil has lied to you for a long time and probably still is.",
+        "Therefore let anyone who thinks he stands [who feels sure that he has a steadfast mind and is standing firm], take heed lest he fall [into sin].",
+        "My decisions led me into having phone sex with my boyfriend when I was meant to lead him to Christ. I did not even know I was masturbating, as I classified it under phone sex all the time until I was told during an accountability session. That sin prevented me from even picking up my Bible because I felt unworthy, yet I kept going back to it. The shepherd I was being accountable to, told me, “Sin does not mean you are no longer right with God, so you should run away in despair. Rather, it reveals your weakness and shows your need to draw more towards God and to be more intimate with Him.” I was privileged to flee from the enemy’s captivity of my thoughts because I was accountable and knew I was still worthy because Christ says so. And most importantly, I could change my ways, it was not too late for me. Two lessons learnt; firstly, one must be an iron to sharpen another iron, and secondly, never put man before God. [Testimony]",
+        "Accountability begins with the recognition of the conviction to change from a path leading to destruction to one of construction in Christ Jesus. As this is meant to make you learn and grow, you must learn from the one who is learning to grow. To allow significant people to look closely into your life, it is pertinent to be like a child, ready to make your weaknesses known, ready to be counselled and ready to change your ways knowing what is at stake. This is a depiction of true fellowship, where you have genuine listeners who are interested in your well–being.",
+        "We have been saved by sheer grace and through Christ, we have attained salvation. Due to this, we are a bundle of testimonies ready to be unravelled for His glory to be known by the ones who have long been in captivity due to the burdens they carry. Because grace has been given to us, and we have believed and have received it, we are who we are in Christ today. You can be the iron to sharpen another iron today. As a body of Christ, we have been tasked to avail ourselves both as listeners and aiders to our fellow believers.",
+        "Brothers, if anyone is caught in any transgression, you who are spiritual should restore him in a spirit of gentleness. Keep watch on yourself, lest you too be tempted. Bear one another’s burdens, and so fulfill the law of Christ.",
+        "Father, I pray for the spirit of humility to make weaknesses known to the right people, lest I deceive myself and sink in sin. Help me to appreciate accountability that I shall, in turn, help someone when I am called to. In Jesus’ name. Amen",
+        "Further Reading: 1 Thessalonians 5:11 & James 5:16",
+        "Bible In One Year: John [8–11]"
+      ],
+      "excerpt": "Iron sharpens iron, and one man sharpens another [Proverbs 27:17 ESV] Accountability is a personal decision to allow “the right” people (spiritual leaders, shepherds, or even believers) into your life, so you will be answerable to them. These are people who can rebuke you and give you counsel. Being accountable to the right people is […]",
+      "images": [
+        "/media/2021-09-WhatsApp-Image-2021-09-10-at-11.28.56-AM-819x1024.webp",
+        "/media/2020-06-The-Kingdom-Move.webp"
+      ],
+      "image": "https://connectcyi.org/wp-content/uploads/2021/09/WhatsApp-Image-2021-09-10-at-11.28.56-AM-819x1024.jpeg",
+      "href": "/devotionals/be-accountable",
+      "artwork": [
+        "/media/2020-06-The-Kingdom-Move.webp",
+        "/media/2021-09-WhatsApp-Image-2021-09-10-at-11.28.56-AM-819x1024.webp"
+      ]
+    },
+    {
+      "slug": "strive-for-wisdom",
+      "title": "Strive for Wisdom",
+      "date": "2021-09-25",
+      "sourceUrl": "https://connectcyi.org/strive-for-wisdom/",
+      "paragraphs": [
+        "If you seek [Wisdom] as for silver and search for skillful and godly Wisdom as for hidden treasures, then you will understand the reverent and worshipful fear of the Lord and find the knowledge of [our omniscient] God. [Proverbs 2:4–5 AMPC]",
+        "In our quest to get wisdom, one thing we must do as believers is to desire it with all our hearts. Innately, humans are drawn to treasure-seeking activities. Usually, we are drawn to movies where the main character is seeking a treasure for the general good of the entire community rather than for selfish ambition. In the same manner, seeking wisdom is as honourable — if not more honourable — as seeking treasures for the good of others.",
+        "As believers, if we want to live a virtuous life, we must actively seek wisdom and understanding in the same manner that we would seek for a treasure. Cry after knowledge and lift your voice for understanding if you must, and never be ashamed for it. Seeking wisdom should not be done merely for personal gain, rather it should extend to the growth and development of all those that we encounter as believers.",
+        "The understanding of the knowledge of God is readily available to those who earnestly seek wisdom. Seeking wisdom is not a goal, but a means to an end. The true goal of seeking wisdom is for spiritual growth through knowing God better. However, we must remember that to seek and find wisdom is not through our own abilities. It is a gift of God that is administered to us through the person of the Holy Spirit. He rewards those who genuinely seek wisdom.",
+        "Wisdom will not just fall into our laps as believers. If it did, then it could easily fall into the wrong laps. Wisdom is a reward for those who work and seek it.",
+        "Dear Father, thank You for today. Thank You for Your grace. Help me to actively seek wisdom and understanding from you. Help us to also understand that it’s not by our own abilities, but it’s by Your Word. In Jesus’ name I pray, Amen.",
+        "Further Reading: Proverbs 8:11–12 / James 1:5 / Job 28:12–20",
+        "Bible In One Year: John [4–7]"
+      ],
+      "excerpt": "Christ for Youth International If you seek [Wisdom] as for silver and search for skillful and godly Wisdom as for hidden treasures, then you will understand the reverent and worshipful fear of the Lord and find the knowledge of [our omniscient] God. [Proverbs 2:4–5 AMPC] In our quest to get wisdom, one thing we must do […]",
+      "images": [
+        "/media/2021-09-1-Upvuz62a6G9DLmeYpzJ8g-21.webp",
+        "/media/medium-1-59rY8ouXCG1_XiAEFrxJBQ.webp"
+      ],
+      "image": "https://connectcyi.org/wp-content/uploads/2021/09/1-Upvuz62a6G9DLmeYpzJ8g-21.jpeg",
+      "href": "/devotionals/strive-for-wisdom",
+      "artwork": [
+        "/media/medium-1-59rY8ouXCG1_XiAEFrxJBQ.webp",
+        "/media/2021-09-1-Upvuz62a6G9DLmeYpzJ8g-21.webp"
+      ]
+    },
+    {
+      "slug": "praying-in-days-of-adversity",
+      "title": "Praying In Days of Adversity",
+      "date": "2021-09-24",
+      "sourceUrl": "https://connectcyi.org/praying-in-days-of-adversity/",
+      "paragraphs": [
+        "The teachers and the Pharisees were furious and started saying to each other, “What can we do about Jesus?” 12 About that time Jesus went off to a mountain to pray, and he spent the whole night there [Luke 6:11–12 CEV].",
+        "Prayer is one of the greatest weapons/keys God has given to us as believers. Jesus, during His days on Earth, prayed very often. In this instance, from our verse for today, we read that Jesus spent an entire night praying to God the Father. Guess what; He did this at a time when the Pharisees and religious leaders were planning what they could do to hamper His ministry.",
+        "Jesus was a man of purpose. He understood his calling and the mission that God the Father had given to Him. This should be true for us as well. Would you abandon your calling and your purpose in the face of trouble? What would you do when you know people are plotting against you? Well, we would like to offer you what Jesus did, He prayed the whole night. We do not know exactly what Jesus prayed about, but what He did the next day gives us a very good idea. He prayed about His assignment and the people who were going to help Him fulfil it [see Luke 6:13].",
+        "Better than spending lots of time worried and concerned about those who plot against you, use that time in prayer. Yes, you must be intentional in praying for long. Pray concerning your purpose and the people who would help you fulfil it. Spend lots of time before God in this way. God is committed to fulfilling your life’s assignment with you if you are ready to work with Him. Obviously, no opposing force can contend with our God and win.",
+        "Praying about your purpose and those who will help you fulfil it, allows God to move you in the direction He wants you. And like Jesus going to the mountain to pray, prayer gives you fortification, and it puts you on higher grounds, above the reach of those who plot against you. So pray!",
+        "Thank You, Jesus, for being the greatest role model of all time. Thank You for leading by example, so I can follow. Please help me to pray as You did, when I am faced with adversities at all times. Amen!",
+        "Further Reading: Psalms 109:3–4",
+        "Bible In One Year: Luke [24] & John [1–3]"
+      ],
+      "excerpt": "Christ for Youth International The teachers and the Pharisees were furious and started saying to each other, “What can we do about Jesus?” 12 About that time Jesus went off to a mountain to pray, and he spent the whole night there [Luke 6:11–12 CEV]. Prayer is one of the greatest weapons/keys God has given to […]",
+      "images": [
+        "/media/medium-1--Upvuz62a6G9DLmeYpzJ8g.webp",
+        "/media/medium-1-HMKBNUlspnldYv7szKIYJw.webp"
+      ],
+      "image": "https://cdn-images-1.medium.com/max/600/1*-Upvuz62a6G9DLmeYpzJ8g.jpeg",
+      "href": "/devotionals/praying-in-days-of-adversity",
+      "artwork": [
+        "/media/medium-1--Upvuz62a6G9DLmeYpzJ8g.webp",
+        "/media/medium-1-HMKBNUlspnldYv7szKIYJw.webp"
+      ]
+    },
+    {
+      "slug": "read-and-study-diligently",
+      "title": "Read and Study Diligently",
+      "date": "2021-09-23",
+      "sourceUrl": "https://connectcyi.org/read-and-study-diligently/",
+      "paragraphs": [
+        "Earnestly seek to commend yourself to God as a servant who, because of his straightforward dealing with the word of truth, has no reason to feel any shame. [2 Timothy 2:15 Weymouth]",
+        "Reading is a habit that anyone who truly wants to lead must never downplay. Yes, even in the Christian faith, you must be a reader to be a leader. The anointing and grace are available to anyone who avails him/herself and allows the Holy Spirit to express Himself freely in their lives. However, those who go the extra mile to read and study, last longer in the anointing and grace.",
+        "In 2017, Harold Willmington of Liberty University summarised that one-tenth of the quotes of Jesus, as recorded in the New Testament, are from the Old Testament. If you know Jesus, you know He had a lot to say, so much that John wrote that the world could not contain the books that would have been written if everything Jesus did was written [John 21:25]. The point we are driving at here is this, Jesus read the scriptures and committed them to mind, so much that one out of every ten sentences He made was a scripture.",
+        "Our verse for today tells us to have a straightforward dealing with the Word of truth. The expression straightforward dealing means comprehensible, direct, and honest. How can one demonstrate an honest comprehensive knowledge of the word if he/she isn’t reading and studying? The reason some young people are largely ashamed of their faith in Jesus is the lack of comprehensive knowledge. Think about it, if they did have direct and honest knowledge of the scriptures, will they not rather expose the ignorance of those who would otherwise have mocked them?",
+        "The popular translation of our verse reads “Diligently study to show yourself approved unto God, a workman who does not need to be ashamed, rightly dividing the Word of the truth…” Are you studying diligently as Jesus did? Have you invested in study materials and resources? If your answers are no, you should be intentional to work at it. As a Jesus follower, you have to emulate what He did during His days in the flesh.",
+        "Heavenly Father, thank You for approving of me in Christ Jesus. Help me to be a workman who is unashamed because of the comprehensive understanding I have of Your word. As I read and study, please open the eyes of my understanding, in Jesus name, Amen.",
+        "Further Reading: Deut 17:19 / Ephesians 3:4",
+        "Bible In One Year: Luke [20–23]"
+      ],
+      "excerpt": "Christ for Youth International Earnestly seek to commend yourself to God as a servant who, because of his straightforward dealing with the word of truth, has no reason to feel any shame. [2 Timothy 2:15 Weymouth] Reading is a habit that anyone who truly wants to lead must never downplay. Yes, even in the Christian […]",
+      "images": [
+        "/media/medium-1--Upvuz62a6G9DLmeYpzJ8g.webp",
+        "/media/medium-1-HMKBNUlspnldYv7szKIYJw.webp"
+      ],
+      "image": "https://cdn-images-1.medium.com/max/600/1*-Upvuz62a6G9DLmeYpzJ8g.jpeg",
+      "href": "/devotionals/read-and-study-diligently",
+      "artwork": [
+        "/media/medium-1--Upvuz62a6G9DLmeYpzJ8g.webp",
+        "/media/medium-1-HMKBNUlspnldYv7szKIYJw.webp"
+      ]
+    },
+    {
+      "slug": "a-devotional-life",
+      "title": "A Devotional Life",
+      "date": "2021-09-22",
+      "sourceUrl": "https://connectcyi.org/a-devotional-life/",
+      "paragraphs": [
+        "I love those who love me, and those who seek me early shall find me. [Proverbs 8:17 AFV]",
+        "What do you think it means to live a devotional life or a life of devotion? No, it’s quite different from quiet time or time set aside for having devotion in the morning. A life of devotion is more than just a day; it is a continuous seeking of God. It is spending time with Him in the mornings during your quiet time. It is muttering prayers under your breath as you go through your day. Furthermore, it is having scripture on your mind.",
+        "Although having a devotional life may sound difficult to do, with how the world is lately, it is not impossible to have God fill your whole day. It just takes a bit of your intentionality. God’s Word says that when you seek Him with your whole heart, you will find Him. It takes intense love to seek somebody like that.",
+        "Do you feel like your love has run dry? That it has been sapped by your day-to-day routine? That you do not feel as passionate for God as you used to? Perhaps, all that is on your mind lately is school, work, your family? Then Pray! Yes, pray. Ask God to help you love Him the way He wants you to. Trust me. It works.",
+        "Keep praying consistently till you see your interests changing. Till you see yourself eager to go to church on Sundays. Till you see yourself yearning to get home, so you can use your study Bible. It is all a matter of how much you want it. God is only as close to us as we allow Him to get. He wants to have a personal relationship with us all, and today is a new opportunity to try to get closer to Him. Do not waste it. He wants to hear from you.",
+        "Heavenly Father, help me to live a life of devotion to You. Please help me to love You the way You want me to. Stir up the desire in me to be closer to You, to constantly seek You, and to pray consistently.",
+        "Further Reading: John 14:21",
+        "Bible In One Year: Luke [16–19]"
+      ],
+      "excerpt": "Christ for Youth International I love those who love me, and those who seek me early shall find me. [Proverbs 8:17 AFV] What do you think it means to live a devotional life or a life of devotion? No, it’s quite different from quiet time or time set aside for having devotion in the morning. A […]",
+      "images": [
+        "/media/medium-1-tQHJjwSLm1tWH3RJfZQdKg.webp",
+        "/media/medium-1-v4q7Akb_I_eJVxGlvV7YCA.webp"
+      ],
+      "image": "https://cdn-images-1.medium.com/max/600/1*tQHJjwSLm1tWH3RJfZQdKg.jpeg",
+      "href": "/devotionals/a-devotional-life",
+      "artwork": [
+        "/media/medium-1-v4q7Akb_I_eJVxGlvV7YCA.webp",
+        "/media/medium-1-tQHJjwSLm1tWH3RJfZQdKg.webp"
+      ]
+    },
+    {
+      "slug": "lead-by-serving",
+      "title": "Lead by Serving",
+      "date": "2021-09-21",
+      "sourceUrl": "https://connectcyi.org/lead-by-serving/",
+      "paragraphs": [
+        "“But let him who boasts boast in this, that he understands and knows me, that I am the LORD who practices steadfast love, justice, and righteousness in the earth. For in these things I delight, declares the LORD.” [Jeremiah 9:24 ESV]",
+        "God has given each of you a gift from His great variety of spiritual gifts. Use them well to serve one another. (1 Peter 4:10)",
+        "The first mention of man/woman is found in the word of God, this is just to emphasize the truth that man/woman can only flourish both here and in eternity when we abide in Christ. The only effort God requires from us is to daily yield to Him in intimacy and obey His commands, in that we are well-equipped to serve people around us to please the Father.",
+        "“The commands of the Lord are radiant, giving light to the eyes.”[Psalm 19:8b]",
+        "The character of our leadership is honed by constant fellowship with God and others. The mark of greatness according to God’s standards is service. By default, when we daily dwell in the presence of God, our hearts transform into His very nature; serving in love to make the lives of others better in Christ.",
+        "Our greatest desire as God’s creation is to live to please Him. A life of service is a sure way through which we can show our gratitude to God for His unfailing love towards us. Living a life of service cannot be achieved wishfully, it requires a deliberate effort to move from our comfort zone and diligently give our lives to be a blessing to others. Thankfully, we have the gift of the Holy Spirit to help lead us in the right direction to serve.",
+        "We must always abide in the Lord to know we can daily expand His Kingdom according to the measure of grace He’s given us. We exist because God believes in and is counting on us to impact the world in His name.",
+        "Dear Lord, thank You for Your unfailing love and grace. Please help me to continually seek your will and abide in you so I can learn how to love and serve others and also help in expanding Your Kingdom. Amen!",
+        "Further Reading: 1 Corinthians 4:1–2",
+        "Bible In One Year: Luke [12–15]"
+      ],
+      "excerpt": "Christ for Youth International “But let him who boasts boast in this, that he understands and knows me, that I am the LORD who practices steadfast love, justice, and righteousness in the earth. For in these things I delight, declares the LORD.” [Jeremiah 9:24 ESV] God has given each of you a gift from His great […]",
+      "images": [
+        "/media/medium-1--Upvuz62a6G9DLmeYpzJ8g.webp"
+      ],
+      "image": "https://cdn-images-1.medium.com/max/600/1*-Upvuz62a6G9DLmeYpzJ8g.jpeg",
+      "href": "/devotionals/lead-by-serving",
+      "artwork": [
+        "/media/medium-1--Upvuz62a6G9DLmeYpzJ8g.webp"
+      ]
+    },
+    {
+      "slug": "be-intentional-about-habits",
+      "title": "Be Intentional About Habits",
+      "date": "2021-09-20",
+      "sourceUrl": "https://connectcyi.org/be-intentional-about-habits/",
+      "paragraphs": [
+        "Like newborn babies you should crave (thirst for, earnestly desire) the pure (unadulterated) spiritual milk, that by it you may be nurtured and grow unto [completed] salvation [1 Peter 2:2 AMPC]",
+        "Babies feed on milk every day in order to grow, and the same applies to us as Christians. Each day, our hunger and thirst to know God must grow and as it grows, we must satisfy that hunger by reading His word and praying consistently.",
+        "The whole Christian growth depends on your attitude towards the things of God. No one is born preprogrammed with habits, they are formed and developed over a period of time. Habit formation is a deliberate process that requires our undivided attention. If you discipline yourself enough to be consistent with God, then He will gladly satisfy you with His word.",
+        "Yes, there may be certain thoughts and desires hindering you, but keep in mind that you are not responsible for what you attract. But also know that you are responsible for what you entertain. Fight against thoughts and desires that hinder your growth and continue to commune daily with God, striving to reach a point where those thoughts and desires can not get to you anymore.",
+        "People of God, there is more to God than we know, and we will not be able to unlock that knowledge until we earnestly desire Him. Our failure to be deliberate about forming the right Christian habits automatically means we are going to pick up the wrong worldly ones. There is no neutral ground here. So do not just sit down and expect things to automatically change. It all starts with you. You have to take the first step and allow God to do the rest.",
+        "Heavenly Father, today, I want to take the first step in growing in You. I want to know You personally and just not what people say about You. Please help me develop the habit of consistently being in communication with You. In Jesus name, Amen.",
+        "Further Reading: Psalm 27:4",
+        "Bible In One Year: Luke [8–11]"
+      ],
+      "excerpt": "Christ for Youth International Like newborn babies you should crave (thirst for, earnestly desire) the pure (unadulterated) spiritual milk, that by it you may be nurtured and grow unto [completed] salvation [1 Peter 2:2 AMPC] Babies feed on milk every day in order to grow, and the same applies to us as Christians. Each day, our […]",
+      "images": [
+        "/media/medium-1--Upvuz62a6G9DLmeYpzJ8g.webp",
+        "/media/medium-1-59rY8ouXCG1_XiAEFrxJBQ.webp"
+      ],
+      "image": "https://cdn-images-1.medium.com/max/600/1*-Upvuz62a6G9DLmeYpzJ8g.jpeg",
+      "href": "/devotionals/be-intentional-about-habits",
+      "artwork": [
+        "/media/medium-1--Upvuz62a6G9DLmeYpzJ8g.webp",
+        "/media/medium-1-59rY8ouXCG1_XiAEFrxJBQ.webp"
+      ]
+    },
+    {
+      "slug": "habits-constant-practice",
+      "title": "Habits; Constant Practice.",
+      "date": "2021-09-19",
+      "sourceUrl": "https://connectcyi.org/habits-constant-practice/",
+      "paragraphs": [
+        "But solid food is for the mature, for those who have their powers of discernment trained by constant practice to distinguish good from evil [Hebrews 5:14 ESV]",
+        "It is said that a habit is formed by repeatedly doing a particular action consistently for a number of days.",
+        "A lot of things do not come instantly. They have to be ingrained in us. We have to make a conscious effort to form the habits ourselves. As believers, it is imperative that we become people of prayer and of studying the word, among others, and these things require intentional discipline. No one is born with a habit; they are formed deliberately. That’s not to say that it will be easy. It requires consistency and determination. Take it that a person wants to make Friday a day for studying the word of God. Every Friday they would have to reserve a specific time for this study, even if they were tired or didn’t want to study the word, they would still have to stick to their timetable.",
+        "Sometimes they may not want to go through with it, and other times they may be hard-pressed with time. But we should never put “things of God” second in our lives. He sacrificed His best to set us free, we must not give Him sloppy seconds. Now back to our example. The more frequently the person does the Bible study on Fridays, not allowing distractions to throw them off, the easier it is for them to do it every week and in doing so consistently, a habit is formed.",
+        "Dear friend, that’s what it takes to ingrain time for God into your personal life. Desire and persistence. It may sound difficult; but you don’t have to be worried, pray to God, and He will give you the discipline you need to see your plans through. However, you must be proactive as well. Make plans, clear your schedules to have time for God, and be prepared to go along with it. Don’t allow things to take you away from God and away from forming Godly habits; they will help you greatly on this journey that we are on as believers in a world that is not ours.",
+        "Heavenly Father, thank You for making it possible for me to form habits that will aid my walk with You. Please help me to be disciplined enough to keep practising those things which are going to form the right habits in my life. In Jesus’ name, Amen.",
+        "Further Reading: Philippians 1:9–10",
+        "Bible In One Year: Luke [4–7]"
+      ],
+      "excerpt": "Christ for Youth International But solid food is for the mature, for those who have their powers of discernment trained by constant practice to distinguish good from evil [Hebrews 5:14 ESV] It is said that a habit is formed by repeatedly doing a particular action consistently for a number of days. A lot of things do […]",
+      "images": [
+        "/media/medium-1-8xGDwKCuOfa8DXby7keY4Q.webp",
+        "/media/medium-1--Upvuz62a6G9DLmeYpzJ8g.webp"
+      ],
+      "image": "https://cdn-images-1.medium.com/max/600/1*8xGDwKCuOfa8DXby7keY4Q.jpeg",
+      "href": "/devotionals/habits-constant-practice",
+      "artwork": [
+        "/media/medium-1--Upvuz62a6G9DLmeYpzJ8g.webp",
+        "/media/medium-1-8xGDwKCuOfa8DXby7keY4Q.webp"
+      ]
+    },
+    {
+      "slug": "dont-turn-from-wisdom",
+      "title": "Don’t Turn From Wisdom",
+      "date": "2021-09-18",
+      "sourceUrl": "https://connectcyi.org/dont-turn-from-wisdom/",
+      "paragraphs": [
+        "For the simple are killed by their turning away, and the complacency of fools destroys them; but whoever listens to me will dwell secure and will be at ease, without dread of disaster.” [Proverbs 1:32–33 ESV]",
+        "“The simple” does not mean one who isn’t exotic or glamorous and extravagant. Neither does it refer to one’s intellectual prowess. The word translated as ‘simple’ in the verse above means silly (that is, seducible); which means — to attract or lead (someone) away from proper behaviour or thinking. Thus, it refers to those without a proper moral conviction founded on the word of God, who are easily swayed to unrighteousness.",
+        "It is crucial for us to listen to Wisdom in order to stay away from apostasy. For us, as believers, apostasy means to renounce or reject Christ after having had a relationship with Him as your Lord and saviour. This means declaring independence from the faith you once belonged to. What we see in the text is pretty straightforward. The failure to heed to the wisdom of God leaves a man open to the seduction of the world, which leads to his death. Remember, death means separation from God.",
+        "Anytime we heed the instructions of Wisdom, we are like the plant that is receiving sunshine and water in the right proportion. Our roots can only grow better and go deeper. As we listen to wisdom, we dwell in the presence of the LORD and are secured against any enticement of the evil one. Indeed, a great disaster awaits the simple. The LORD offers ease, without dread of disaster, but it is only available to those who listen to wisdom.",
+        "Do not be complacent with your lack of wisdom [see Jeremiah 48:11–12]. Have the posture of humility, always eager to know the wisdom of the LORD, and most importantly, heed to it. We all want to enjoy our lives and be at peace; wisdom offers exactly that. If there is anything you have to turn away from, never let it be wisdom.",
+        "Thank You, heavenly Father, for Your word which always offers me divine wisdom. In all my ways, grant me a heart that diligently follows after wisdom, that I may dwell and be at ease in Your presence. In Jesus name, Amen.",
+        "Further Reading: Hebrews 10:38–39 / Jeremiah 2:19",
+        "Bible In One Year: Mark [16] & Luke [1–3]"
+      ],
+      "excerpt": "Christ for Youth International For the simple are killed by their turning away, and the complacency of fools destroys them; but whoever listens to me will dwell secure and will be at ease, without dread of disaster.” [Proverbs 1:32–33 ESV] “The simple” does not mean one who isn’t exotic or glamorous and extravagant. Neither does it […]",
+      "images": [
+        "/media/2021-09-18xGDwKCuOfa8DXby7keY4Q-4.webp",
+        "/media/medium-1--Upvuz62a6G9DLmeYpzJ8g.webp"
+      ],
+      "image": "https://connectcyi.org/wp-content/uploads/2021/09/18xGDwKCuOfa8DXby7keY4Q-4.jpeg",
+      "href": "/devotionals/dont-turn-from-wisdom",
+      "artwork": [
+        "/media/2021-09-18xGDwKCuOfa8DXby7keY4Q-4.webp",
+        "/media/medium-1--Upvuz62a6G9DLmeYpzJ8g.webp"
+      ]
+    },
+    {
+      "slug": "pray-on-all-occasions",
+      "title": "Pray on all Occasions",
+      "date": "2021-09-17",
+      "sourceUrl": "https://connectcyi.org/pray-on-all-occasions/",
+      "paragraphs": [
+        "And pray in the Spirit on all occasions with all kinds of prayers and requests. With this in mind, be alert and always keep on praying for all the Lord’s people. [Ephesians 6:18 NIV]",
+        "Sometimes we are unable to pray for long hours because we pray in our understanding. We do not know what we need. We always pray for what we want and not what we need. This is why the Bible keeps urging us to speak in tongues. We pray in the Spirit when we speak in tongues. It is the Spirit that leads. Look at this scenario: when people are demon-possessed, we do witness the demon manifesting and speaking, right? Then we say that the demon has taken over that person’s body. This is the same thing that happens when we speak in tongues; we do not speak of ourselves, but of the Spirit that is in us.",
+        "Speaking in tongues is connecting your spirit directly to God. It is direct communication that the devil does not understand. Why should you speak in tongues? Because the Bible says so. Does it make logical sense? Definitely not, because you do not understand what you are saying.",
+        "“And the Holy Spirit helps us in our weakness. For example, we don’t know what God wants us to pray for. But the Holy Spirit prays for us with groanings that cannot be expressed in words. And the Father who knows all hearts knows what the Spirit is saying, for the Spirit pleads for us believers in harmony with God’s own will.” [‭‭Romans‬ ‭8:26–27‬ ‭NLT]",
+        "There is the tendency to complain when we are weak that we are unable to pray. This is why God has given us His Spirit, who enables us to pray regardless of how we feel or what is happening to us. And that is why 1 Thessalonians 5:17 says: “Never stop praying.” It is possible to pray always, but it is only possible in the Spirit.",
+        "“A person who speaks in tongues is strengthened personally, but one who speaks a word of prophecy strengthens the entire church.” [‭‭1 Corinthians‬ ‭14:4‬ ‭NLT]‬‬",
+        "Speaking in the Spirit strengthens you. The Spirit speaks for us when we do not have the words. You must pray over every situation and not when you feel in the “spirit.” Prayer is everything. Prayer is your key to excelling in life and building a successful relationship with God.",
+        "Heavenly Father, thank You for giving us Your Spirit to speak for us. Thank You for the reminder about the strength of prayer and about the benefits of prayer. Thank You once again. In Jesus name, Amen.",
+        "Further Reading: Romans 12:12",
+        "Bible In One Year: Mark [12–15]"
+      ],
+      "excerpt": "Christ for Youth International And pray in the Spirit on all occasions with all kinds of prayers and requests. With this in mind, be alert and always keep on praying for all the Lord’s people. [Ephesians 6:18 NIV] Sometimes we are unable to pray for long hours because we pray in our understanding. We do not […]",
+      "images": [
+        "/media/medium-1-8xGDwKCuOfa8DXby7keY4Q.webp",
+        "/media/medium-1--Upvuz62a6G9DLmeYpzJ8g.webp"
+      ],
+      "image": "https://cdn-images-1.medium.com/max/600/1*8xGDwKCuOfa8DXby7keY4Q.jpeg",
+      "href": "/devotionals/pray-on-all-occasions",
+      "artwork": [
+        "/media/medium-1--Upvuz62a6G9DLmeYpzJ8g.webp",
+        "/media/medium-1-8xGDwKCuOfa8DXby7keY4Q.webp"
+      ]
+    },
+    {
+      "slug": "dont-be-disqualified",
+      "title": "Don’t be Disqualified",
+      "date": "2021-09-13",
+      "sourceUrl": "https://connectcyi.org/dont-be-disqualified/",
+      "paragraphs": [
+        "Instead, I discipline my body and bring it under strict control, so that after preaching to others, I myself will not be disqualified [1 Corinthians 9:27 CSB]",
+        "The Bible in 1 Corinthians 10:12 makes us understand that if anyone thinks [s]he is standing strong, [s]he should be careful not to fall. It is indeed possible to not practice what you preach as a leader, hence, you ask for the grace of the Father to keep you in check.",
+        "“For the desires of the flesh are against the Spirit, and the desires of the Spirit are against the flesh, for these are opposed to each other, to keep you from doing the things you want to do” [Galatians 5:17 ESV].",
+        "Because your flesh is in constant war with your Spirit as a man, you must learn how to subject your flesh to your Spirit. That is only when, like the wise man, you will be able to build your house on the rock and the storm shall not come and wash it away. It is mandatory as a leader to know that every word the Holy Spirit gives to your spirit for your followers is as much for you as it is for them.",
+        "As the flesh is quick to give in to the desires and thoughts that come to the mind, it is expedient for us to cease every sinful thought before it finds its way into our lifestyle. This is possible as seen in 2 Corinthians 10:5 about ceasing every thought that goes contrary to the knowledge of God.",
+        "It would be disappointing, that as a leader with the grace given to you to bring people unto the knowledge of the saving grace of God, you would go astray. Thus, resist giving power to your flesh to control your walk in Christ, lest you be disqualified.",
+        "The fact that a man has preached to many is not certain evidence that he will be saved. Likewise, it matters not the number of followers you have as a leader, you can fall off. Do not be the full vessel that empties itself without a taste of its content. Remember, every word given to you for Jerusalem is for you before Jerusalem.",
+        "As the NLT version of 1 Timothy 3:16 says, “All scripture is inspired by God and is useful to teach us what is true and to make us realize what is wrong in our lives. It corrects us when we are wrong and teaches us to do what is right”. If you could capture the emphasis laid, remember to ask for grace for yourself as you teach your flock to build their house on the rock [see Matthew 7:24–29]",
+        "Dear Father, I do not want to be disqualified, I pray that You grant me the grace that I shall practice the faith that I teach. In Jesus name, Amen.",
+        "Further Reading: 2 Corinthians 10:5",
+        "Bible In One Year: Matthew [24–27]"
+      ],
+      "excerpt": "Christ for Youth International Instead, I discipline my body and bring it under strict control, so that after preaching to others, I myself will not be disqualified [1 Corinthians 9:27 CSB] The Bible in 1 Corinthians 10:12 makes us understand that if anyone thinks [s]he is standing strong, [s]he should be careful not to fall. It […]",
+      "images": [
+        "/media/2021-09-1qLzC13j81jZFrSRCbfnIKA-1.webp",
+        "/media/medium-1-59rY8ouXCG1_XiAEFrxJBQ.webp"
+      ],
+      "image": "https://connectcyi.org/wp-content/uploads/2021/09/1qLzC13j81jZFrSRCbfnIKA-1.jpeg",
+      "href": "/devotionals/dont-be-disqualified",
+      "artwork": [
+        "/media/2021-09-1qLzC13j81jZFrSRCbfnIKA-1.webp",
+        "/media/medium-1-59rY8ouXCG1_XiAEFrxJBQ.webp"
+      ]
+    },
+    {
+      "slug": "grace-is-required",
+      "title": "Grace is Required.",
+      "date": "2021-09-12",
+      "sourceUrl": "https://connectcyi.org/grace-is-required/",
+      "paragraphs": [
+        "Isn’t it obvious that all runners on the racetrack keep on running to win, but only one receives the victor’s prize? Yet each one of you must run the race to be victorious. [1 Corinthians 9:24 TPT]",
+        "Anyone who is genuinely leading him/herself will tell you that it is not an easy road to ply. The dedication, motivation, discipline, consistency, and effort that it requires can become overwhelming. Yet, each one has to run the race of self-leadership with the goal of receiving the prize. This means that when you trip or fall at any point in time, you are expected to pick yourself up and keep moving. This surely requires grace.",
+        "Let us consider athletes and the several sacrifices they make to be able to perform at their best. Some literally stay away from their families for long periods, miss out on the finger-licking foods, spend hours training each day, while not being able to hang out with their friends perhaps as much as they would have liked to. They do all these, so they can be the best at what they do. If you were an athlete, and you went through a similar routine, your respect for your colleague who wins the race will go through the roof. Do not take lightly the sacrifices others are making in order to lead themselves.",
+        "When you lead yourselves, you appreciate the need for grace for yourself and other people. You cease to be critical about leaders when you start leading yourself. This is because you quickly begin to see the weight they carry daily. This does not mean you become tolerant of the sin, flaws, and weaknesses in the lives of leaders as a norm, rather, it means you address them in love and with the aim of restoring them to win their race. Sadly, we are in a day and age where even young people with no understanding rise up and start condemning their leaders.",
+        "Keep your eyes on the prize (Christ-likeness) and keep running to win. Rest on the grace that God freely makes available to you through Jesus, and you will receive the victor’s prize. Help those who are struggling by extending the same grace that you have received.",
+        "Heavenly Father, thank You for the grace to run and win the race. Please help me not to further deepen the wounds of other runners, but to rather extend the grace You have shown me. Amen.",
+        "Further Reading: 2 Timothy 4:7–8",
+        "Bible In One Year: Matthew [20–23]"
+      ],
+      "excerpt": "Christ for Youth International Isn’t it obvious that all runners on the racetrack keep on running to win, but only one receives the victor’s prize? Yet each one of you must run the race to be victorious. [1 Corinthians 9:24 TPT] Anyone who is genuinely leading him/herself will tell you that it is not an easy […]",
+      "images": [
+        "/media/medium-1-0mu5iQ9j317JlFkGPD7FKg.webp",
+        "/media/medium-1-59rY8ouXCG1_XiAEFrxJBQ.webp"
+      ],
+      "image": "https://cdn-images-1.medium.com/max/600/1*0mu5iQ9j317JlFkGPD7FKg.jpeg",
+      "href": "/devotionals/grace-is-required",
+      "artwork": [
+        "/media/medium-1-59rY8ouXCG1_XiAEFrxJBQ.webp",
+        "/media/medium-1-0mu5iQ9j317JlFkGPD7FKg.webp"
+      ]
+    },
+    {
+      "slug": "the-wisdom-in-serving",
+      "title": "The Wisdom in Serving",
+      "date": "2021-09-11",
+      "sourceUrl": "https://connectcyi.org/the-wisdom-in-serving/",
+      "paragraphs": [
+        "“For even the Son of Man did not come expecting to be served by everyone, but to serve everyone, and to give his life as the ransom price in exchange for the salvation of many.” [Mark 10:45 TPT]",
+        "Do you notice that the life of Jesus was one lived in total service, born out of the purest Love? His life was completely marked by service, even leading to the ultimate sacrifice. For the three years of Jesus’ ministry, from the age of thirty, He served the people who mistrusted Him, questioned His roots and repaid Him for all the good He did by crucifying Him.",
+        "Galatians 5:22–23 presents the fruit of the Holy Spirit as unselfish love towards others, peace, kindness, patience, gentleness and such. If these are the expressions of the same Spirit of wisdom (see James 3:17), then truly, wisdom is expressed in the very attributes which characterise service. That is because all those attributes we see in there will lead the [wo]man who lives by them to serve others.",
+        "Contrary to the kind of leadership we see in the world, the leadership of God’s Kingdom (ministry) is one of self-sacrificial service that leads us to discover the heart of Jesus and consequently the Wisdom that defined His ministry. As the singer/songwriter Kofi Nkrumah once put it, “ Leadership (ministry) will expose the true intentions of your heart and challenge them to be transformed in the light of the Holy Spirit. ”",
+        "There is no better place that will challenge you to grow and operate in Wisdom than in service to a perfect God and consequently serving imperfect people. Let us determine to live out the days of our lives in unselfish service, even to the point of giving up our lives if it is the Lord’s will. And if that seems ridiculous and foolish in our current world, then rest assured, the wisdom of God has never made any sense to this fallen world (1 Corinthians 1:18).",
+        "Heavenly Father, just as Jesus Christ exemplified wisdom in full genuine service, please grant me the grace to grow wiser as I commit to living a life of service.",
+        "Further Reading: James 3:17 / Luke 22:26–27",
+        "Bible In One Year: Matthew [16–19]"
+      ],
+      "excerpt": "Christ for Youth International “For even the Son of Man did not come expecting to be served by everyone, but to serve everyone, and to give his life as the ransom price in exchange for the salvation of many.” [Mark 10:45 TPT] Do you notice that the life of Jesus was one lived in total service, […]",
+      "images": [
+        "/media/2021-09-18J70iAH8Vf_St_qyNgYp0Q-1.webp",
+        "/media/medium-1-59rY8ouXCG1_XiAEFrxJBQ.webp"
+      ],
+      "image": "https://connectcyi.org/wp-content/uploads/2021/09/18J70iAH8Vf_St_qyNgYp0Q-1.jpeg",
+      "href": "/devotionals/the-wisdom-in-serving",
+      "artwork": [
+        "/media/2021-09-18J70iAH8Vf_St_qyNgYp0Q-1.webp",
+        "/media/medium-1-59rY8ouXCG1_XiAEFrxJBQ.webp"
+      ]
+    },
+    {
+      "slug": "desire-wisdom",
+      "title": "Desire Wisdom",
+      "date": "2021-07-08",
+      "sourceUrl": "https://connectcyi.org/desire-wisdom/",
+      "paragraphs": [
+        "Search for them as you would for silver; seek them like hidden treasures. Then you will understand what it means to fear the Lord, and you will gain knowledge of God. [Proverbs 2:4–5 NLT]",
+        "In our quest to get wisdom, one thing we must do as believers, is to desire it with all of our hearts. Human beings are innately drawn to treasure-seeking activities. Usually, we are drawn to movies where the main character is seeking a treasure for the general good of the entire community rather than for selfish ambition. In the same manner, seeking wisdom is as honourable — if not more honourable — as seeking treasures for the good of others.",
+        "As believers, if we want to live a virtuous life, we must actively seek wisdom and understanding in the same manner that we would seek for a treasure. Seeking wisdom should not be done merely for personal gain, rather it should extend to the growth and development of all those that we come into contact with as believers.",
+        "The true goal of seeking wisdom is for spiritual growth through knowing God better. However, we must remember that it is not through our own abilities but rather wisdom is a gift of God. He rewards those who genuinely seek wisdom.",
+        "Wisdom will not just fall into our laps as believers. If it did, then it could easily fall into the wrong laps. Wisdom is a reward for those who work and seek it.",
+        "Dear Father, thank You for today. Thank You for Your grace. Help me to actively seek wisdom and understanding from you. Help us to also understand that it’s not by our own abilities but it’s by Your Word. In Jesus’ name I pray, Amen.",
+        "Further Reading: Proverbs 8:11–12 / James 1:5 / Job 28:12–20",
+        "Bible In One Year: Isaiah [6–9]"
+      ],
+      "excerpt": "Christ for Youth International Search for them as you would for silver; seek them like hidden treasures. Then you will understand what it means to fear the Lord, and you will gain knowledge of God. [Proverbs 2:4–5 NLT] In our quest to get wisdom, one thing we must do as believers, is to desire it with […]",
+      "images": [
+        "/media/medium-1-uQ-WR0DP18q2yeS2VF5Vow.webp",
+        "/media/medium-1-HMKBNUlspnldYv7szKIYJw.webp"
+      ],
+      "image": "https://cdn-images-1.medium.com/max/600/1*uQ-WR0DP18q2yeS2VF5Vow.jpeg",
+      "href": "/devotionals/desire-wisdom",
+      "artwork": [
+        "/media/medium-1-uQ-WR0DP18q2yeS2VF5Vow.webp",
+        "/media/medium-1-HMKBNUlspnldYv7szKIYJw.webp"
+      ]
+    },
+    {
+      "slug": "sons-are-led-by-the-spirit",
+      "title": "Sons are Led by the Spirit.",
+      "date": "2020-05-03",
+      "sourceUrl": "https://connectcyi.org/sons-are-led-by-the-spirit/",
+      "paragraphs": [
+        "Christ for Youth International",
+        "“For as many as are led by the Spirit of God, these are sons of God.” [‭Romans‬ ‭8:14‬ ‭NKJV‬‬]",
+        "The work of the Holy Spirit in our lives is to offer leadership. To lead means to influence. It also means to guide or to bring to an expected place.",
+        "Before we became born again, we followed the dictates of this world and did what seemed right to us. We went to places we felt were right and followed everything we felt was good for us. We were actually in charge of our own lives and directed ourselves wherever we deemed fit. We made several mistakes and fell into trouble when we continued to lead our lives the way we wanted.",
+        "After we became born again, the Holy Spirit came to live inside us. Thus, we are no longer in charge of determining what to do with our lives. His work is to lead us each day until we ultimately become like Christ. True sons are led by the Spirit of God. As children of God, we must note that we are privileged to have the Holy Spirit residing in us. He knows all things and has the ability to bring us to the desired destination if only we would allow Him to.",
+        "Being led by the Holy Spirit is not a one-day event but something we do each day.",
+        "When we speak, do we speak as those who are being influenced by the Holy Spirit? Our conduct and character should point others to the fact that our lives are a product of God’s influence. Our decisions and words should be a reflection of the influence of the Holy Spirit.",
+        "We are able to influence others positively only when we ourselves have been influenced by the Holy Spirit. The Holy Spirit lives in us to influence us and to lead us. We must, therefore, surrender to His leadership daily.",
+        "Before we take any decision, we must ask the Holy Spirit to lead us and show us the way we should go. He will lead us in our journey to Christ-likeness. He will lead us to become great disciples of Jesus. He will lead us to be great ministers of God. He will lead us to bring solutions to the problems we face. We need to make room for Him to lead us each day.",
+        "Father, help me to surrender my will to Yours. May Your Spirit daily lead me to fulfil Your purpose for my life.",
+        "Prophetic Declaration: Psalm 91",
+        "Bible In One Year: Job [Chapters 9–12]"
+      ],
+      "excerpt": "“For as many as are led by the Spirit of God, these are sons of God.” [‭Romans‬ ‭8:14‬ ‭NKJV‬‬] The work of the Holy Spirit in our lives is to offer leadership. To lead means to influence. It also means to guide or to bring to an expected place. Before we became born again, we followed […]",
+      "images": [
+        "/media/2021-09-1ZRyGn8zXQDZuuIw20CkCzA-1.webp",
+        "/media/medium-1-59rY8ouXCG1_XiAEFrxJBQ.webp",
+        "/media/medium-1-b55gp6CaDRcYTzc_J_zQQg.webp"
+      ],
+      "image": "https://connectcyi.org/wp-content/uploads/2021/09/1ZRyGn8zXQDZuuIw20CkCzA-1.jpeg",
+      "href": "/devotionals/sons-are-led-by-the-spirit",
+      "artwork": [
+        "/media/medium-1-b55gp6CaDRcYTzc_J_zQQg.webp",
+        "/media/medium-1-59rY8ouXCG1_XiAEFrxJBQ.webp",
+        "/media/2021-09-1ZRyGn8zXQDZuuIw20CkCzA-1.webp"
+      ]
+    }
+  ],
+  "media": {
+    "hero": "/media/2026-05-498117346_1044263561134705_4463648760575212543_n2.webp",
+    "community": "/media/2026-05-485380356_990052819889113_7222064012390240019_n.webp",
+    "worship": "/media/2024-05-398098103_678857537675311_5657213549343521159_n.webp",
+    "leadership": "/media/2020-07-louisa.webp",
+    "outreach": "/media/2026-05-485183658_990052923222436_1357762072330736922_n.webp",
+    "family": "/media/2026-05-487766726_3174885435997749_7276383361824689079_n.webp",
+    "camp": "/media/2023-02-B4ED0A55-431C-458C-ADE6-0E866921CD11.webp",
+    "podcast": "/media/podcast-kingdom-move.webp",
+    "logo": "/media/2020-07-cropped-cyi_512.webp"
+  },
+  "episodes": [
+    {
+      "title": "Though Your Beginning May Be Small- Part 2",
+      "pubDate": "Mon, 24 Aug 2026 23:47:00 GMT",
+      "description": "In this episode, Pastor Roderick reminds us that small beginnings are not the end of our story. God often starts with what seems insignificant, but our capacity, faithfulness, discipline, and willingness to learn determine how much we can carry as we increase.",
+      "link": "https://podcasters.spotify.com/pod/show/the-kingdom-move/episodes/Though-Your-Beginning-May-Be-Small--Part-2-e3nssob",
+      "duration": "00:27:24",
+      "cover": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/823198/823198-1723683047121-72ac0a5e9a5e2.jpg",
+      "slug": "episode-1",
+      "href": "/resources/kingdom-move#episode-1",
+      "audioUrl": "https://d3ctxlq1ktw2nl.cloudfront.net/staging/2026-7-25/a6a034fa-920f-12da-6152-f25ec48b377d.mp3"
+    },
+    {
+      "title": "Though Your Beginning May Be Small- Part 1",
+      "pubDate": "Mon, 24 Aug 2026 23:39:00 GMT",
+      "description": "In this episode, Pastor Rod reminds us that small beginnings are not the end of our story. God often starts with what seems insignificant, but our capacity, faithfulness, discipline, and willingness to learn determine how much we can carry as we increase.",
+      "link": "https://podcasters.spotify.com/pod/show/the-kingdom-move/episodes/Though-Your-Beginning-May-Be-Small--Part-1-e3nss92",
+      "duration": "00:29:11",
+      "cover": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/823198/823198-1723683047121-72ac0a5e9a5e2.jpg",
+      "slug": "episode-2",
+      "href": "/resources/kingdom-move#episode-2",
+      "audioUrl": "https://anchor.fm/s/580b038/podcast/play/124727010/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-7-25%2Fba375434-b6d6-0c94-b6eb-fea18fb98e8f.mp3"
+    },
+    {
+      "title": "What It Means To Honour - Part 2",
+      "pubDate": "Wed, 10 Jun 2026 23:59:00 GMT",
+      "description": "In this episode, Pastor Roderick teaches that honour is a core value in God’s Kingdom. Our worth comes from our identity in God, not our status or achievements. Through the example of Jesus and the woman with the alabaster flask, we learn that true honour is expressed through humility, obedience, sacrifice, and the way we treat others.",
+      "link": "https://podcasters.spotify.com/pod/show/the-kingdom-move/episodes/What-It-Means-To-Honour---Part-2-e3lhdm7",
+      "duration": "00:27:49",
+      "cover": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/823198/823198-1723683047121-72ac0a5e9a5e2.jpg",
+      "slug": "episode-3",
+      "href": "/resources/kingdom-move#episode-3",
+      "audioUrl": "https://anchor.fm/s/580b038/podcast/play/122254471/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-6-1%2Fe3713342-d9ab-0059-f7b0-0d83a863da0c.mp3"
+    },
+    {
+      "title": "What It Means To Honour- Part 1",
+      "pubDate": "Wed, 10 Jun 2026 23:58:00 GMT",
+      "description": "In this episode, Pastor Roderick teaches that honour is a core value in God’s Kingdom. Our worth comes from our identity in God, not our status or achievements. Through the example of Jesus and the woman with the alabaster flask, we learn that true honour is expressed through humility, obedience, sacrifice, and the way we treat others.",
+      "link": "https://podcasters.spotify.com/pod/show/the-kingdom-move/episodes/What-It-Means-To-Honour--Part-1-e3lhdfe",
+      "duration": "00:28:59",
+      "cover": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/823198/823198-1723683047121-72ac0a5e9a5e2.jpg",
+      "slug": "episode-4",
+      "href": "/resources/kingdom-move#episode-4",
+      "audioUrl": "https://anchor.fm/s/580b038/podcast/play/122254254/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-6-1%2Fc2d8b25f-56af-4c67-3697-e98a282a5e82.mp3"
+    },
+    {
+      "title": "Walking In The Anointing",
+      "pubDate": "Wed, 27 May 2026 23:31:00 GMT",
+      "description": "In this episode, we discuss the connection between the anointing and prayer. The anointing enables us to receive truth, break the power of oppression, and walk in spiritual authority. We also explore how a consistent prayer life cultivates intimacy with God, helping us grow in His presence and walk more fully in the anointing He has given us.",
+      "link": "https://podcasters.spotify.com/pod/show/the-kingdom-move/episodes/Walking-In-The-Anointing-e3kdaaq",
+      "duration": "01:17:52",
+      "cover": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/823198/823198-1723683047121-72ac0a5e9a5e2.jpg",
+      "slug": "episode-5",
+      "href": "/resources/kingdom-move#episode-5",
+      "audioUrl": "https://anchor.fm/s/580b038/podcast/play/121071386/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-5-5%2Fe8bac291-5768-1d0c-cae2-874c8e106336.mp3"
+    },
+    {
+      "title": "The Unction Of The Holy Spirit",
+      "pubDate": "Wed, 13 May 2026 23:50:00 GMT",
+      "description": "In this episode, we discuss the unction of the Holy Spirit and why every believer needs the anointing at work in their life. The unction empowers us to preach the gospel, bring healing to the brokenhearted, proclaim liberty to captives, and bring freedom to the oppressed. Beyond gifting, we are reminded that true effectiveness flows from intimacy with God and security in the Father’s love.",
+      "link": "https://podcasters.spotify.com/pod/show/the-kingdom-move/episodes/The-Unction-Of-The-Holy-Spirit-e3jdque",
+      "duration": "00:59:13",
+      "cover": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/823198/823198-1723683047121-72ac0a5e9a5e2.jpg",
+      "slug": "episode-6",
+      "href": "/resources/kingdom-move#episode-6",
+      "audioUrl": "https://anchor.fm/s/580b038/podcast/play/120039822/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-4-15%2Fc98429e9-bd9b-f150-9264-64f6dc8c7468.mp3"
+    },
+    {
+      "title": "The Second Coming Of Jesus",
+      "pubDate": "Wed, 22 Apr 2026 23:28:00 GMT",
+      "description": "In this episode, we reframe the coming of Jesus not as fear, but as hope. For believers, His coming brings joy, present pleasure, and the greatest expectation. When our love for Him is alive, His return becomes our deepest longing.",
+      "link": "https://podcasters.spotify.com/pod/show/the-kingdom-move/episodes/The-Second-Coming-Of-Jesus-e3im5sm",
+      "duration": "00:41:18",
+      "cover": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/823198/823198-1723683047121-72ac0a5e9a5e2.jpg",
+      "slug": "episode-7",
+      "href": "/resources/kingdom-move#episode-7",
+      "audioUrl": "https://anchor.fm/s/580b038/podcast/play/119264598/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-3-30%2F6aac2db5-3f4b-f065-cf57-4bb76a2a3b0e.mp3"
+    },
+    {
+      "title": "Jesus Our High Priest",
+      "pubDate": "Wed, 15 Apr 2026 23:56:00 GMT",
+      "description": "In this episode, we reflect on the coming of Jesus and His incarnation. He took on our nature to reveal the Father and fulfil His role as our High Priest. Having been tempted as we are, He understands us and now continually intercedes on our behalf.",
+      "link": "https://podcasters.spotify.com/pod/show/the-kingdom-move/episodes/Jesus-Our-High-Priest-e3ignhm",
+      "duration": "01:09:45",
+      "cover": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/823198/823198-1723683047121-72ac0a5e9a5e2.jpg",
+      "slug": "episode-8",
+      "href": "/resources/kingdom-move#episode-8",
+      "audioUrl": "https://anchor.fm/s/580b038/podcast/play/119086070/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-3-30%2F065ba636-f5e2-ecea-3dfc-020c396a9bd0.mp3"
+    }
+  ],
+  "gallery": [
+    {
+      "image": "/media/2024-05-1690288712720.webp",
+      "category": "Worship & creativity",
+      "title": "CYI worship & creativity",
+      "sourceUrl": "https://connectcyi.org/wp-content/uploads/2024/05/1690288712720.jpeg"
+    },
+    {
+      "image": "/media/2020-07-louisa.webp",
+      "category": "Worship & creativity",
+      "title": "CYI worship & creativity",
+      "sourceUrl": "https://connectcyi.org/wp-content/uploads/2020/07/louisa.jpg"
+    },
+    {
+      "image": "/media/2020-07-IMG-20191105-WA0071.webp",
+      "category": "Missions",
+      "title": "CYI missions",
+      "sourceUrl": "https://connectcyi.org/wp-content/uploads/2020/07/IMG-20191105-WA0071.jpg"
+    },
+    {
+      "image": "/media/2020-07-IMG-20191105-WA0064.webp",
+      "category": "Missions",
+      "title": "CYI missions",
+      "sourceUrl": "https://connectcyi.org/wp-content/uploads/2020/07/IMG-20191105-WA0064.jpg"
+    },
+    {
+      "image": "/media/2020-07-IMG-20191105-WA0026.webp",
+      "category": "Missions",
+      "title": "CYI missions",
+      "sourceUrl": "https://connectcyi.org/wp-content/uploads/2020/07/IMG-20191105-WA0026.jpg"
+    },
+    {
+      "image": "/media/2020-07-IMG-20191103-WA0026.webp",
+      "category": "Missions",
+      "title": "CYI missions",
+      "sourceUrl": "https://connectcyi.org/wp-content/uploads/2020/07/IMG-20191103-WA0026.jpg"
+    },
+    {
+      "image": "/media/2020-07-IMG-20191105-WA0070.webp",
+      "category": "Missions",
+      "title": "CYI missions",
+      "sourceUrl": "https://connectcyi.org/wp-content/uploads/2020/07/IMG-20191105-WA0070.jpg"
+    },
+    {
+      "image": "/media/2020-07-IMG-20191029-WA0003.webp",
+      "category": "Missions",
+      "title": "CYI missions",
+      "sourceUrl": "https://connectcyi.org/wp-content/uploads/2020/07/IMG-20191029-WA0003.jpg"
+    },
+    {
+      "image": "/media/2020-07-IMG-20191104-WA00621.webp",
+      "category": "Missions",
+      "title": "CYI missions",
+      "sourceUrl": "https://connectcyi.org/wp-content/uploads/2020/07/IMG-20191104-WA00621.jpg"
+    },
+    {
+      "image": "/media/2020-07-IMG-20191104-WA0058.webp",
+      "category": "Missions",
+      "title": "CYI missions",
+      "sourceUrl": "https://connectcyi.org/wp-content/uploads/2020/07/IMG-20191104-WA0058.jpg"
+    },
+    {
+      "image": "/media/2020-07-IMG-20191102-WA0049.webp",
+      "category": "Missions",
+      "title": "CYI missions",
+      "sourceUrl": "https://connectcyi.org/wp-content/uploads/2020/07/IMG-20191102-WA0049.jpg"
+    },
+    {
+      "image": "/media/2020-07-IMG-20191105-WA0010.webp",
+      "category": "Missions",
+      "title": "CYI missions",
+      "sourceUrl": "https://connectcyi.org/wp-content/uploads/2020/07/IMG-20191105-WA0010.jpg"
+    },
+    {
+      "image": "/media/2026-05-498117346_1044263561134705_4463648760575212543_n2.webp",
+      "category": "Worship & creativity",
+      "title": "CYI worship & creativity",
+      "sourceUrl": "https://connectcyi.org/wp-content/uploads/2026/05/498117346_1044263561134705_4463648760575212543_n2.jpg"
+    },
+    {
+      "image": "/media/2026-05-487795791_3174886829330943_5818644178094370786_n.webp",
+      "category": "Missions",
+      "title": "CYI missions",
+      "sourceUrl": "https://connectcyi.org/wp-content/uploads/2026/05/487795791_3174886829330943_5818644178094370786_n.jpg"
+    },
+    {
+      "image": "/media/2026-05-484934642_990052889889106_6896534089543037198_n.webp",
+      "category": "Missions",
+      "title": "CYI missions",
+      "sourceUrl": "https://connectcyi.org/wp-content/uploads/2026/05/484934642_990052889889106_6896534089543037198_n.jpg"
+    },
+    {
+      "image": "/media/2026-05-487726048_3174962099323416_2883125417706541474_n.webp",
+      "category": "Missions",
+      "title": "CYI missions",
+      "sourceUrl": "https://connectcyi.org/wp-content/uploads/2026/05/487726048_3174962099323416_2883125417706541474_n.jpg"
+    },
+    {
+      "image": "/media/2026-05-485696887_990053796555682_5781996958798577922_n.webp",
+      "category": "Missions",
+      "title": "CYI missions",
+      "sourceUrl": "https://connectcyi.org/wp-content/uploads/2026/05/485696887_990053796555682_5781996958798577922_n.jpg"
+    },
+    {
+      "image": "/media/2026-05-487766726_3174885435997749_7276383361824689079_n.webp",
+      "category": "Missions",
+      "title": "CYI missions",
+      "sourceUrl": "https://connectcyi.org/wp-content/uploads/2026/05/487766726_3174885435997749_7276383361824689079_n.jpg"
+    },
+    {
+      "image": "/media/2026-05-485380356_990052819889113_7222064012390240019_n.webp",
+      "category": "Missions",
+      "title": "CYI missions",
+      "sourceUrl": "https://connectcyi.org/wp-content/uploads/2026/05/485380356_990052819889113_7222064012390240019_n.jpg"
+    },
+    {
+      "image": "/media/2026-05-485183658_990052923222436_1357762072330736922_n.webp",
+      "category": "Missions",
+      "title": "CYI missions",
+      "sourceUrl": "https://connectcyi.org/wp-content/uploads/2026/05/485183658_990052923222436_1357762072330736922_n.jpg"
+    },
+    {
+      "image": "/media/2026-05-485180632_990051926555869_2054626510059993448_n.webp",
+      "category": "Missions",
+      "title": "CYI missions",
+      "sourceUrl": "https://connectcyi.org/wp-content/uploads/2026/05/485180632_990051926555869_2054626510059993448_n.jpg"
+    },
+    {
+      "image": "/media/2024-05-IMG-20240418-WA0011.webp",
+      "category": "Worship & creativity",
+      "title": "CYI worship & creativity",
+      "sourceUrl": "https://connectcyi.org/wp-content/uploads/2024/05/IMG-20240418-WA0011.jpg"
+    },
+    {
+      "image": "/media/2024-05-398098103_678857537675311_5657213549343521159_n.webp",
+      "category": "Worship & creativity",
+      "title": "CYI worship & creativity",
+      "sourceUrl": "https://connectcyi.org/wp-content/uploads/2024/05/398098103_678857537675311_5657213549343521159_n.jpg"
+    },
+    {
+      "image": "/media/2023-02-3AEB4243-BA4E-4163-8DCB-5F3C3CEDA620.webp",
+      "category": "Camps",
+      "title": "CYI camps",
+      "sourceUrl": "https://connectcyi.org/wp-content/uploads/2023/02/3AEB4243-BA4E-4163-8DCB-5F3C3CEDA620.jpg"
+    },
+    {
+      "image": "/media/2023-02-7C333B8A-DE1B-49A8-9C4A-E3D542F85863.webp",
+      "category": "Camps",
+      "title": "CYI camps",
+      "sourceUrl": "https://connectcyi.org/wp-content/uploads/2023/02/7C333B8A-DE1B-49A8-9C4A-E3D542F85863.jpg"
+    },
+    {
+      "image": "/media/2023-02-E44B5CAC-84BD-4F7A-82FE-513C3D9B4927.webp",
+      "category": "Camps",
+      "title": "CYI camps",
+      "sourceUrl": "https://connectcyi.org/wp-content/uploads/2023/02/E44B5CAC-84BD-4F7A-82FE-513C3D9B4927.jpg"
+    },
+    {
+      "image": "/media/2023-02-B4ED0A55-431C-458C-ADE6-0E866921CD11-1.webp",
+      "category": "Camps",
+      "title": "CYI camps",
+      "sourceUrl": "https://connectcyi.org/wp-content/uploads/2023/02/B4ED0A55-431C-458C-ADE6-0E866921CD11-1.jpg"
+    },
+    {
+      "image": "/media/2023-02-B4ED0A55-431C-458C-ADE6-0E866921CD11.webp",
+      "category": "Camps",
+      "title": "CYI camps",
+      "sourceUrl": "https://connectcyi.org/wp-content/uploads/2023/02/B4ED0A55-431C-458C-ADE6-0E866921CD11.jpg"
+    },
+    {
+      "image": "/media/2023-02-71602C7C-272C-4070-88DE-61D4E0B3163F-e1676302179982.webp",
+      "category": "Camps",
+      "title": "CYI camps",
+      "sourceUrl": "https://connectcyi.org/wp-content/uploads/2023/02/71602C7C-272C-4070-88DE-61D4E0B3163F-e1676302179982.jpg"
+    }
+  ],
+  "projects": [
+    {
+      "slug": "cyi-mission-house-project",
+      "title": "The CYI Mission House Project",
+      "summary": "A dedicated base for missions, discipleship, medical outreach and community impact in Northern Ghana.",
+      "sourceUrl": "https://connectcyi.org/cyi-mission-house-project/",
+      "sourceModified": "2026-08-03",
+      "location": "Bongo Soe, Bolgatanga, Northern Ghana",
+      "donationUrl": "https://paystack.shop/pay/cyi-mission-house",
+      "donationLabel": "Support this project",
+      "heroImage": "/media/2026-05-1_2-Photo.webp",
+      "image": "/media/2026-05-1_2-Photo.webp",
+      "images": [
+        "/media/2026-05-1_2-Photo.webp",
+        "/media/2026-05-485380356_990052819889113_7222064012390240019_n.webp",
+        "/media/2026-05-485183658_990052923222436_1357762072330736922_n.webp",
+        "/media/2026-05-487766726_3174885435997749_7276383361824689079_n.webp",
+        "/media/2026-05-485180632_990051926555869_2054626510059993448_n.webp",
+        "/media/2026-05-484934642_990052889889106_6896534089543037198_n.webp",
+        "/media/2026-05-487795791_3174886829330943_5818644178094370786_n.webp",
+        "/media/2026-05-1_1-Photo.webp",
+        "/media/2026-05-1_3-Photo.webp",
+        "/media/2026-05-1_4-Photo.webp",
+        "/media/2026-05-1_5-Photo.webp",
+        "/media/2026-05-1_8-Photo.webp",
+        "/media/2026-05-1_6-Photo.webp",
+        "/media/2026-05-1_9-Photo.webp"
+      ],
+      "gallery": [
+        "/media/2026-05-485380356_990052819889113_7222064012390240019_n.webp",
+        "/media/2026-05-485183658_990052923222436_1357762072330736922_n.webp",
+        "/media/2026-05-487766726_3174885435997749_7276383361824689079_n.webp",
+        "/media/2026-05-485180632_990051926555869_2054626510059993448_n.webp",
+        "/media/2026-05-484934642_990052889889106_6896534089543037198_n.webp",
+        "/media/2026-05-487795791_3174886829330943_5818644178094370786_n.webp",
+        "/media/2026-05-1_1-Photo.webp",
+        "/media/2026-05-1_3-Photo.webp",
+        "/media/2026-05-1_4-Photo.webp",
+        "/media/2026-05-1_5-Photo.webp",
+        "/media/2026-05-1_8-Photo.webp",
+        "/media/2026-05-1_6-Photo.webp",
+        "/media/2026-05-1_9-Photo.webp"
+      ],
+      "videos": [],
+      "facilityLabels": [
+        "Accommodation for 70+ missionaries and guests.",
+        "Two fully equipped conference halls for training and discipleship.",
+        "Space for medical outreach coordination and logistics.",
+        "A stable base for continuous missions work in Northern Ghana and nearby regions."
+      ],
+      "sections": [
+        {
+          "slug": "raising-people-reaching-communities-transforming-nations",
+          "title": "Raising People. Reaching Communities. Transforming Nations.",
+          "paragraphs": [
+            "The Missionary Department of Christ for Youth International (CYI) is committed to raising a generation of young people who are equipped to live out their faith through missions, discipleship, and community impact.",
+            "For years, CYI has been actively engaged in Northern Ghana, particularly in Bongo Soe and surrounding communities, delivering both spiritual and humanitarian interventions that are changing lives."
+          ],
+          "bullets": [],
+          "subheadings": [],
+          "images": [],
+          "videos": [],
+          "blocks": [
+            {
+              "type": "paragraph",
+              "text": "The Missionary Department of Christ for Youth International (CYI) is committed to raising a generation of young people who are equipped to live out their faith through missions, discipleship, and community impact."
+            },
+            {
+              "type": "paragraph",
+              "text": "For years, CYI has been actively engaged in Northern Ghana, particularly in Bongo Soe and surrounding communities, delivering both spiritual and humanitarian interventions that are changing lives."
+            }
+          ]
+        },
+        {
+          "slug": "our-impact-over-the-years",
+          "title": "Our Impact Over the Years",
+          "paragraphs": [
+            "Through consistent missions work, CYI has:",
+            "Our work continues to bridge the gap between faith, purpose, and practical living."
+          ],
+          "bullets": [
+            "Supported orphanages and widows with essential resources.",
+            "Reached schools and young people with mentorship and guidance.",
+            "Delivered medical care to underserved communities.",
+            "Hosted the Campaign for Greatness, helping youth make informed decisions about their future."
+          ],
+          "subheadings": [],
+          "images": [],
+          "videos": [],
+          "blocks": [
+            {
+              "type": "paragraph",
+              "text": "Through consistent missions work, CYI has:"
+            },
+            {
+              "type": "heading",
+              "text": "Supported orphanages and widows with essential resources.",
+              "sourceLevel": 3
+            },
+            {
+              "type": "heading",
+              "text": "Reached schools and young people with mentorship and guidance.",
+              "sourceLevel": 3
+            },
+            {
+              "type": "heading",
+              "text": "Delivered medical care to underserved communities.",
+              "sourceLevel": 3
+            },
+            {
+              "type": "heading",
+              "text": "Hosted the Campaign for Greatness, helping youth make informed decisions about their future.",
+              "sourceLevel": 3
+            },
+            {
+              "type": "heading",
+              "text": "Our work continues to bridge the gap between faith, purpose, and practical living.",
+              "sourceLevel": 1
+            }
+          ]
+        },
+        {
+          "slug": "the-challenge-we-face",
+          "title": "The Challenge We Face",
+          "paragraphs": [
+            "As our missions grow, one major limitation remains: lack of adequate accommodation and training space.",
+            "This directly limits the scale, comfort, and effectiveness of our missions."
+          ],
+          "bullets": [
+            "Mission teams are forced to sleep on floors in shared spaces.",
+            "Facilities are unable to host the full team capacity.",
+            "International partners, including medical professionals from the UK and USA, are often unable to fully participate due to infrastructure limitations."
+          ],
+          "subheadings": [
+            "Currently"
+          ],
+          "images": [],
+          "videos": [],
+          "blocks": [
+            {
+              "type": "paragraph",
+              "text": "As our missions grow, one major limitation remains: lack of adequate accommodation and training space."
+            },
+            {
+              "type": "heading",
+              "text": "Currently",
+              "sourceLevel": 2
+            },
+            {
+              "type": "list-item",
+              "text": "Mission teams are forced to sleep on floors in shared spaces."
+            },
+            {
+              "type": "list-item",
+              "text": "Facilities are unable to host the full team capacity."
+            },
+            {
+              "type": "list-item",
+              "text": "International partners, including medical professionals from the UK and USA, are often unable to fully participate due to infrastructure limitations."
+            },
+            {
+              "type": "paragraph",
+              "text": "This directly limits the scale, comfort, and effectiveness of our missions."
+            }
+          ]
+        },
+        {
+          "slug": "the-cyi-mission-house-project",
+          "title": "The CYI Mission House Project",
+          "paragraphs": [
+            "To solve this, CYI is developing a Mission House—a dedicated facility designed to support missions work at scale."
+          ],
+          "bullets": [],
+          "subheadings": [
+            "Bongo Soe Bolgatanga"
+          ],
+          "images": [],
+          "videos": [],
+          "blocks": [
+            {
+              "type": "heading",
+              "text": "Bongo Soe Bolgatanga",
+              "sourceLevel": 1
+            },
+            {
+              "type": "paragraph",
+              "text": "To solve this, CYI is developing a Mission House—a dedicated facility designed to support missions work at scale."
+            }
+          ]
+        },
+        {
+          "slug": "what-the-facility-will-provide",
+          "title": "What the Facility Will Provide",
+          "paragraphs": [],
+          "bullets": [
+            "Accommodation for 70+ missionaries and guests.",
+            "Two fully equipped conference halls for training and discipleship.",
+            "Space for medical outreach coordination and logistics.",
+            "A stable base for continuous missions work in Northern Ghana and nearby regions."
+          ],
+          "subheadings": [],
+          "images": [],
+          "videos": [],
+          "blocks": [
+            {
+              "type": "list-item",
+              "text": "Accommodation for 70+ missionaries and guests."
+            },
+            {
+              "type": "list-item",
+              "text": "Two fully equipped conference halls for training and discipleship."
+            },
+            {
+              "type": "list-item",
+              "text": "Space for medical outreach coordination and logistics."
+            },
+            {
+              "type": "list-item",
+              "text": "A stable base for continuous missions work in Northern Ghana and nearby regions."
+            }
+          ]
+        },
+        {
+          "slug": "how-this-will-impact-the-community",
+          "title": "How This Will Impact the Community",
+          "paragraphs": [
+            "The Mission House is not just for CYI, it is a resource for the entire region. It will:"
+          ],
+          "bullets": [
+            "Enable consistent training and development for local churches and leaders.",
+            "Support ongoing medical and educational outreach programs.",
+            "Create a hub for youth empowerment and mentorship.",
+            "Bring sustained attention and resources to underserved communities."
+          ],
+          "subheadings": [],
+          "images": [],
+          "videos": [],
+          "blocks": [
+            {
+              "type": "paragraph",
+              "text": "The Mission House is not just for CYI, it is a resource for the entire region. It will:"
+            },
+            {
+              "type": "list-item",
+              "text": "Enable consistent training and development for local churches and leaders."
+            },
+            {
+              "type": "list-item",
+              "text": "Support ongoing medical and educational outreach programs."
+            },
+            {
+              "type": "list-item",
+              "text": "Create a hub for youth empowerment and mentorship."
+            },
+            {
+              "type": "list-item",
+              "text": "Bring sustained attention and resources to underserved communities."
+            }
+          ]
+        },
+        {
+          "slug": "a-hub-for-missions-beyond-cyi",
+          "title": "A Hub for Missions Beyond CYI",
+          "paragraphs": [
+            "This facility will also serve as a landing ground for other mission-driven individuals and organizations who are ready to serve but lack the infrastructure to do so. With this space:",
+            "In essence, the Mission House becomes a shared platform for impact."
+          ],
+          "bullets": [
+            "Mission teams from across Ghana and internationally can plan, stay, and operate effectively.",
+            "Barriers to entry for missions work in Northern Ghana will be significantly reduced.",
+            "Collaboration between ministries and organizations will be strengthened."
+          ],
+          "subheadings": [],
+          "images": [],
+          "videos": [],
+          "blocks": [
+            {
+              "type": "paragraph",
+              "text": "This facility will also serve as a landing ground for other mission-driven individuals and organizations who are ready to serve but lack the infrastructure to do so. With this space:"
+            },
+            {
+              "type": "list-item",
+              "text": "Mission teams from across Ghana and internationally can plan, stay, and operate effectively."
+            },
+            {
+              "type": "list-item",
+              "text": "Barriers to entry for missions work in Northern Ghana will be significantly reduced."
+            },
+            {
+              "type": "list-item",
+              "text": "Collaboration between ministries and organizations will be strengthened."
+            },
+            {
+              "type": "heading",
+              "text": "In essence, the Mission House becomes a shared platform for impact.",
+              "sourceLevel": 1
+            }
+          ]
+        },
+        {
+          "slug": "be-part-of-the-vision",
+          "title": "Be Part of the Vision",
+          "paragraphs": [
+            "Building the CYI Mission House is a step toward creating lasting, scalable impact in Northern Ghana and beyond. We invite you to partner with us through:",
+            "Together, we can build a space that empowers generations of missionaries and transforms communities for years to come."
+          ],
+          "bullets": [
+            "Financial support (monthly or one-time)",
+            "Material contributions",
+            "Strategic partnerships"
+          ],
+          "subheadings": [],
+          "images": [],
+          "videos": [],
+          "blocks": [
+            {
+              "type": "paragraph",
+              "text": "Building the CYI Mission House is a step toward creating lasting, scalable impact in Northern Ghana and beyond. We invite you to partner with us through:"
+            },
+            {
+              "type": "list-item",
+              "text": "Financial support (monthly or one-time)"
+            },
+            {
+              "type": "list-item",
+              "text": "Material contributions"
+            },
+            {
+              "type": "list-item",
+              "text": "Strategic partnerships"
+            },
+            {
+              "type": "paragraph",
+              "text": "Together, we can build a space that empowers generations of missionaries and transforms communities for years to come."
+            }
+          ]
+        },
+        {
+          "slug": "a-vision-that-outlives-us",
+          "title": "A Vision That Outlives Us",
+          "paragraphs": [
+            "This is more than a building. It is a foundation for discipleship, service, and transformation—a place where lives will be shaped, communities reached, and purpose awakened."
+          ],
+          "bullets": [],
+          "subheadings": [],
+          "images": [],
+          "videos": [],
+          "blocks": [
+            {
+              "type": "paragraph",
+              "text": "This is more than a building. It is a foundation for discipleship, service, and transformation—a place where lives will be shaped, communities reached, and purpose awakened."
+            }
+          ]
+        }
+      ],
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "The CYI Mission House",
+          "sourceLevel": 1
+        },
+        {
+          "type": "heading",
+          "text": "PROJECT",
+          "sourceLevel": 1
+        },
+        {
+          "type": "heading",
+          "text": "Raising People. Reaching Communities. Transforming Nations.",
+          "sourceLevel": 1
+        },
+        {
+          "type": "paragraph",
+          "text": "The Missionary Department of Christ for Youth International (CYI) is committed to raising a generation of young people who are equipped to live out their faith through missions, discipleship, and community impact."
+        },
+        {
+          "type": "paragraph",
+          "text": "For years, CYI has been actively engaged in Northern Ghana, particularly in Bongo Soe and surrounding communities, delivering both spiritual and humanitarian interventions that are changing lives."
+        },
+        {
+          "type": "heading",
+          "text": "Our Impact Over the Years",
+          "sourceLevel": 1
+        },
+        {
+          "type": "paragraph",
+          "text": "Through consistent missions work, CYI has:"
+        },
+        {
+          "type": "heading",
+          "text": "Supported orphanages and widows with essential resources.",
+          "sourceLevel": 3
+        },
+        {
+          "type": "heading",
+          "text": "Reached schools and young people with mentorship and guidance.",
+          "sourceLevel": 3
+        },
+        {
+          "type": "heading",
+          "text": "Delivered medical care to underserved communities.",
+          "sourceLevel": 3
+        },
+        {
+          "type": "heading",
+          "text": "Hosted the Campaign for Greatness, helping youth make informed decisions about their future.",
+          "sourceLevel": 3
+        },
+        {
+          "type": "heading",
+          "text": "Our work continues to bridge the gap between faith, purpose, and practical living.",
+          "sourceLevel": 1
+        },
+        {
+          "type": "heading",
+          "text": "The Challenge We Face",
+          "sourceLevel": 2
+        },
+        {
+          "type": "paragraph",
+          "text": "As our missions grow, one major limitation remains: lack of adequate accommodation and training space."
+        },
+        {
+          "type": "heading",
+          "text": "Currently",
+          "sourceLevel": 2
+        },
+        {
+          "type": "list-item",
+          "text": "Mission teams are forced to sleep on floors in shared spaces."
+        },
+        {
+          "type": "list-item",
+          "text": "Facilities are unable to host the full team capacity."
+        },
+        {
+          "type": "list-item",
+          "text": "International partners, including medical professionals from the UK and USA, are often unable to fully participate due to infrastructure limitations."
+        },
+        {
+          "type": "paragraph",
+          "text": "This directly limits the scale, comfort, and effectiveness of our missions."
+        },
+        {
+          "type": "heading",
+          "text": "The CYI Mission House Project",
+          "sourceLevel": 1
+        },
+        {
+          "type": "heading",
+          "text": "Bongo Soe Bolgatanga",
+          "sourceLevel": 1
+        },
+        {
+          "type": "paragraph",
+          "text": "To solve this, CYI is developing a Mission House—a dedicated facility designed to support missions work at scale."
+        },
+        {
+          "type": "heading",
+          "text": "What the Facility Will Provide",
+          "sourceLevel": 2
+        },
+        {
+          "type": "list-item",
+          "text": "Accommodation for 70+ missionaries and guests."
+        },
+        {
+          "type": "list-item",
+          "text": "Two fully equipped conference halls for training and discipleship."
+        },
+        {
+          "type": "list-item",
+          "text": "Space for medical outreach coordination and logistics."
+        },
+        {
+          "type": "list-item",
+          "text": "A stable base for continuous missions work in Northern Ghana and nearby regions."
+        },
+        {
+          "type": "heading",
+          "text": "How This Will Impact the Community",
+          "sourceLevel": 1
+        },
+        {
+          "type": "paragraph",
+          "text": "The Mission House is not just for CYI, it is a resource for the entire region. It will:"
+        },
+        {
+          "type": "list-item",
+          "text": "Enable consistent training and development for local churches and leaders."
+        },
+        {
+          "type": "list-item",
+          "text": "Support ongoing medical and educational outreach programs."
+        },
+        {
+          "type": "list-item",
+          "text": "Create a hub for youth empowerment and mentorship."
+        },
+        {
+          "type": "list-item",
+          "text": "Bring sustained attention and resources to underserved communities."
+        },
+        {
+          "type": "heading",
+          "text": "A Hub for Missions Beyond CYI",
+          "sourceLevel": 1
+        },
+        {
+          "type": "paragraph",
+          "text": "This facility will also serve as a landing ground for other mission-driven individuals and organizations who are ready to serve but lack the infrastructure to do so. With this space:"
+        },
+        {
+          "type": "list-item",
+          "text": "Mission teams from across Ghana and internationally can plan, stay, and operate effectively."
+        },
+        {
+          "type": "list-item",
+          "text": "Barriers to entry for missions work in Northern Ghana will be significantly reduced."
+        },
+        {
+          "type": "list-item",
+          "text": "Collaboration between ministries and organizations will be strengthened."
+        },
+        {
+          "type": "heading",
+          "text": "In essence, the Mission House becomes a shared platform for impact.",
+          "sourceLevel": 1
+        },
+        {
+          "type": "heading",
+          "text": "Be Part of the Vision",
+          "sourceLevel": 1
+        },
+        {
+          "type": "paragraph",
+          "text": "Building the CYI Mission House is a step toward creating lasting, scalable impact in Northern Ghana and beyond. We invite you to partner with us through:"
+        },
+        {
+          "type": "list-item",
+          "text": "Financial support (monthly or one-time)"
+        },
+        {
+          "type": "list-item",
+          "text": "Material contributions"
+        },
+        {
+          "type": "list-item",
+          "text": "Strategic partnerships"
+        },
+        {
+          "type": "paragraph",
+          "text": "Together, we can build a space that empowers generations of missionaries and transforms communities for years to come."
+        },
+        {
+          "type": "heading",
+          "text": "A Vision That Outlives Us",
+          "sourceLevel": 1
+        },
+        {
+          "type": "paragraph",
+          "text": "This is more than a building. It is a foundation for discipleship, service, and transformation—a place where lives will be shaped, communities reached, and purpose awakened."
+        }
+      ],
+      "paragraphs": [
+        "The Missionary Department of Christ for Youth International (CYI) is committed to raising a generation of young people who are equipped to live out their faith through missions, discipleship, and community impact.",
+        "For years, CYI has been actively engaged in Northern Ghana, particularly in Bongo Soe and surrounding communities, delivering both spiritual and humanitarian interventions that are changing lives.",
+        "Through consistent missions work, CYI has:",
+        "As our missions grow, one major limitation remains: lack of adequate accommodation and training space.",
+        "This directly limits the scale, comfort, and effectiveness of our missions.",
+        "To solve this, CYI is developing a Mission House—a dedicated facility designed to support missions work at scale.",
+        "The Mission House is not just for CYI, it is a resource for the entire region. It will:",
+        "This facility will also serve as a landing ground for other mission-driven individuals and organizations who are ready to serve but lack the infrastructure to do so. With this space:",
+        "Building the CYI Mission House is a step toward creating lasting, scalable impact in Northern Ghana and beyond. We invite you to partner with us through:",
+        "Together, we can build a space that empowers generations of missionaries and transforms communities for years to come.",
+        "This is more than a building. It is a foundation for discipleship, service, and transformation—a place where lives will be shaped, communities reached, and purpose awakened."
+      ],
+      "facts": [
+        {
+          "value": "70+",
+          "label": "Missionaries and guests accommodated"
+        },
+        {
+          "value": "2",
+          "label": "Fully equipped conference halls"
+        }
+      ],
+      "renderingImages": [
+        "/media/2026-05-1_2-Photo.webp",
+        "/media/2026-05-1_1-Photo.webp",
+        "/media/2026-05-1_3-Photo.webp",
+        "/media/2026-05-1_4-Photo.webp",
+        "/media/2026-05-1_5-Photo.webp",
+        "/media/2026-05-1_8-Photo.webp",
+        "/media/2026-05-1_6-Photo.webp",
+        "/media/2026-05-1_9-Photo.webp"
+      ],
+      "impactImages": [
+        "/media/2026-05-485380356_990052819889113_7222064012390240019_n.webp",
+        "/media/2026-05-485183658_990052923222436_1357762072330736922_n.webp",
+        "/media/2026-05-487766726_3174885435997749_7276383361824689079_n.webp",
+        "/media/2026-05-485180632_990051926555869_2054626510059993448_n.webp",
+        "/media/2026-05-484934642_990052889889106_6896534089543037198_n.webp",
+        "/media/2026-05-487795791_3174886829330943_5818644178094370786_n.webp"
+      ],
+      "href": "/projects/cyi-mission-house-project"
+    },
+    {
+      "slug": "the-greatness-community-hub",
+      "title": "The Greatness Community Hub and Library",
+      "summary": "A community learning hub that supports education, digital literacy and youth development in Bongo-Soe.",
+      "sourceUrl": "https://connectcyi.org/the-greatness-community-hub/",
+      "sourceModified": "2026-05-21",
+      "location": "Bongo-Soe, Bongo District, Upper East Region, Ghana",
+      "donationUrl": "https://paystack.com/pay/bcaj3kp7j9",
+      "donationLabel": "Support this project",
+      "heroImage": "/media/2023-09-312608288_2440346409451659_3202574293847851766_n.webp",
+      "image": "/media/2023-09-312608288_2440346409451659_3202574293847851766_n.webp",
+      "images": [
+        "/media/2023-09-312608288_2440346409451659_3202574293847851766_n.webp",
+        "/media/2023-09-313212666_2440346076118359_1478038187213311424_n.webp",
+        "/media/2023-09-313202662_2440344666118500_9065958709140807962_n.webp",
+        "/media/2023-09-312355580_2440348236118143_4709054030708384416_n.webp",
+        "/media/2023-09-312056081_2440350359451264_6019966513760593738_n.webp",
+        "/media/2023-09-311985123_2440350109451289_8482857913741224448_n.webp",
+        "/media/2023-09-311867119_2440349799451320_5503523795023345032_n.webp",
+        "/media/2023-09-312170477_2440345836118383_558031751733926079_n.webp",
+        "/media/2023-09-312140363_2440346012785032_809862442095166655_n.webp"
+      ],
+      "gallery": [
+        "/media/2023-09-313212666_2440346076118359_1478038187213311424_n.webp",
+        "/media/2023-09-313202662_2440344666118500_9065958709140807962_n.webp",
+        "/media/2023-09-312355580_2440348236118143_4709054030708384416_n.webp",
+        "/media/2023-09-312056081_2440350359451264_6019966513760593738_n.webp",
+        "/media/2023-09-311985123_2440350109451289_8482857913741224448_n.webp",
+        "/media/2023-09-311867119_2440349799451320_5503523795023345032_n.webp",
+        "/media/2023-09-312170477_2440345836118383_558031751733926079_n.webp",
+        "/media/2023-09-312140363_2440346012785032_809862442095166655_n.webp"
+      ],
+      "videos": [
+        {
+          "url": "https://connectcyi.org/wp-content/uploads/2023/09/1635782384388.mp4",
+          "label": "Construction Phase",
+          "year": 2021
+        },
+        {
+          "url": "https://connectcyi.org/wp-content/uploads/2023/09/363855730_250109531293528_8642004823393600503_n.mp4",
+          "label": "Completion of Phase One",
+          "year": 2022
+        },
+        {
+          "url": "https://connectcyi.org/wp-content/uploads/2023/09/1667393619652.mp4",
+          "label": "Join Us. Be Great.",
+          "year": null
+        }
+      ],
+      "facilityLabels": [
+        "Comprehensive digital literacy training.",
+        "Skill and capacity development programs.",
+        "Creative problem-solving workshops."
+      ],
+      "sections": [
+        {
+          "slug": "welcome-to-the-greatness-community-hub-and-library",
+          "title": "Welcome to The Greatness Community Hub and Library",
+          "paragraphs": [
+            "At The Greatness Community Hub and Library, we’re on a mission to empower communities through education and innovation. This initiative is proudly driven by OneWay Missions Global in collaboration with generous contributions from Christ for Youth International and Partners. Our journey begins in the picturesque village of Bongo-Soe, nestled in the heart of the Bongo District, Upper East Region of Ghana."
+          ],
+          "bullets": [],
+          "subheadings": [],
+          "images": [],
+          "videos": [],
+          "blocks": [
+            {
+              "type": "paragraph",
+              "text": "At The Greatness Community Hub and Library, we’re on a mission to empower communities through education and innovation. This initiative is proudly driven by OneWay Missions Global in collaboration with generous contributions from Christ for Youth International and Partners. Our journey begins in the picturesque village of Bongo-Soe, nestled in the heart of the Bongo District, Upper East Region of Ghana."
+            }
+          ]
+        },
+        {
+          "slug": "our-vision",
+          "title": "Our Vision",
+          "paragraphs": [
+            "Our vision is clear: we aim to create vibrant learning spaces that empower individuals with the tools they need to succeed in today’s digital world. We believe that access to quality education and the development of essential skills can unlock boundless opportunities for young minds. Our mission is to instill a deep passion for reading, research, and lifelong learning."
+          ],
+          "bullets": [],
+          "subheadings": [],
+          "images": [],
+          "videos": [],
+          "blocks": [
+            {
+              "type": "paragraph",
+              "text": "Our vision is clear: we aim to create vibrant learning spaces that empower individuals with the tools they need to succeed in today’s digital world. We believe that access to quality education and the development of essential skills can unlock boundless opportunities for young minds. Our mission is to instill a deep passion for reading, research, and lifelong learning."
+            }
+          ]
+        },
+        {
+          "slug": "inspiring-greatness",
+          "title": "Inspiring Greatness",
+          "paragraphs": [
+            "As a youth development organization, our primary goal is to serve as a catalyst for growth and development. We aspire to be the place where young people gather to discover their potential and dream big. At The Greatness Community Hub and Library, we envision a brighter future where every individual is inspired to be great."
+          ],
+          "bullets": [],
+          "subheadings": [],
+          "images": [],
+          "videos": [],
+          "blocks": [
+            {
+              "type": "paragraph",
+              "text": "As a youth development organization, our primary goal is to serve as a catalyst for growth and development. We aspire to be the place where young people gather to discover their potential and dream big. At The Greatness Community Hub and Library, we envision a brighter future where every individual is inspired to be great."
+            }
+          ]
+        },
+        {
+          "slug": "closing-the-digital-divide",
+          "title": "Closing the Digital Divide",
+          "paragraphs": [
+            "One of our core objectives is to bridge the digital divide that often exists in rural regions. We recognize that access to technology and digital literacy is essential for personal and community development in today’s world."
+          ],
+          "bullets": [
+            "Comprehensive digital literacy training.",
+            "Skill and capacity development programs.",
+            "Creative problem-solving workshops."
+          ],
+          "subheadings": [
+            "To achieve this, we are committed to building a state-of-the-art learning center that offers:"
+          ],
+          "images": [],
+          "videos": [],
+          "blocks": [
+            {
+              "type": "paragraph",
+              "text": "One of our core objectives is to bridge the digital divide that often exists in rural regions. We recognize that access to technology and digital literacy is essential for personal and community development in today’s world."
+            },
+            {
+              "type": "heading",
+              "text": "To achieve this, we are committed to building a state-of-the-art learning center that offers:",
+              "sourceLevel": 2
+            },
+            {
+              "type": "paragraph",
+              "text": "Comprehensive digital literacy training."
+            },
+            {
+              "type": "paragraph",
+              "text": "Skill and capacity development programs."
+            },
+            {
+              "type": "paragraph",
+              "text": "Creative problem-solving workshops."
+            }
+          ]
+        },
+        {
+          "slug": "construction-phase",
+          "title": "Construction Phase",
+          "paragraphs": [],
+          "bullets": [],
+          "subheadings": [
+            "2021"
+          ],
+          "images": [],
+          "videos": [
+            "https://connectcyi.org/wp-content/uploads/2023/09/1635782384388.mp4"
+          ],
+          "blocks": [
+            {
+              "type": "heading",
+              "text": "2021",
+              "sourceLevel": 1
+            },
+            {
+              "type": "video",
+              "url": "https://connectcyi.org/wp-content/uploads/2023/09/1635782384388.mp4"
+            }
+          ]
+        },
+        {
+          "slug": "completion-of-phase-one",
+          "title": "Completion of Phase One",
+          "paragraphs": [
+            "Our hub will be well-stocked with a diverse collection of resources, providing a welcoming environment for exploration and discovery. We believe that by providing these essential resources and opportunities, we can help empower individuals to shape their own futures."
+          ],
+          "bullets": [],
+          "subheadings": [
+            "2022"
+          ],
+          "images": [
+            "/media/2023-09-313212666_2440346076118359_1478038187213311424_n.webp",
+            "/media/2023-09-313202662_2440344666118500_9065958709140807962_n.webp",
+            "/media/2023-09-312355580_2440348236118143_4709054030708384416_n.webp",
+            "/media/2023-09-312056081_2440350359451264_6019966513760593738_n.webp",
+            "/media/2023-09-311985123_2440350109451289_8482857913741224448_n.webp",
+            "/media/2023-09-311867119_2440349799451320_5503523795023345032_n.webp",
+            "/media/2023-09-312170477_2440345836118383_558031751733926079_n.webp",
+            "/media/2023-09-312140363_2440346012785032_809862442095166655_n.webp"
+          ],
+          "videos": [
+            "https://connectcyi.org/wp-content/uploads/2023/09/363855730_250109531293528_8642004823393600503_n.mp4"
+          ],
+          "blocks": [
+            {
+              "type": "heading",
+              "text": "2022",
+              "sourceLevel": 1
+            },
+            {
+              "type": "video",
+              "url": "https://connectcyi.org/wp-content/uploads/2023/09/363855730_250109531293528_8642004823393600503_n.mp4"
+            },
+            {
+              "type": "paragraph",
+              "text": "Our hub will be well-stocked with a diverse collection of resources, providing a welcoming environment for exploration and discovery. We believe that by providing these essential resources and opportunities, we can help empower individuals to shape their own futures."
+            },
+            {
+              "type": "image",
+              "url": "/media/2023-09-313212666_2440346076118359_1478038187213311424_n.webp"
+            },
+            {
+              "type": "image",
+              "url": "/media/2023-09-313202662_2440344666118500_9065958709140807962_n.webp"
+            },
+            {
+              "type": "image",
+              "url": "/media/2023-09-312355580_2440348236118143_4709054030708384416_n.webp"
+            },
+            {
+              "type": "image",
+              "url": "/media/2023-09-312056081_2440350359451264_6019966513760593738_n.webp"
+            },
+            {
+              "type": "image",
+              "url": "/media/2023-09-311985123_2440350109451289_8482857913741224448_n.webp"
+            },
+            {
+              "type": "image",
+              "url": "/media/2023-09-311867119_2440349799451320_5503523795023345032_n.webp"
+            },
+            {
+              "type": "image",
+              "url": "/media/2023-09-312170477_2440345836118383_558031751733926079_n.webp"
+            },
+            {
+              "type": "image",
+              "url": "/media/2023-09-312140363_2440346012785032_809862442095166655_n.webp"
+            }
+          ]
+        },
+        {
+          "slug": "join-us-be-great",
+          "title": "Join Us. Be Great.",
+          "paragraphs": [
+            "Join us on this incredible journey towards greatness. Together, we can create a brighter, more promising future for the young people in Ghana and beyond. Thank you for being a part of The Greatness Community Hub and Library’s mission to inspire, educate, and empower."
+          ],
+          "bullets": [],
+          "subheadings": [],
+          "images": [],
+          "videos": [
+            "https://connectcyi.org/wp-content/uploads/2023/09/1667393619652.mp4"
+          ],
+          "blocks": [
+            {
+              "type": "paragraph",
+              "text": "Join us on this incredible journey towards greatness. Together, we can create a brighter, more promising future for the young people in Ghana and beyond. Thank you for being a part of The Greatness Community Hub and Library’s mission to inspire, educate, and empower."
+            },
+            {
+              "type": "video",
+              "url": "https://connectcyi.org/wp-content/uploads/2023/09/1667393619652.mp4"
+            }
+          ]
+        }
+      ],
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "The Greatness Community Hub and Library",
+          "sourceLevel": 1
+        },
+        {
+          "type": "heading",
+          "text": "PROJECT",
+          "sourceLevel": 1
+        },
+        {
+          "type": "heading",
+          "text": "Welcome to The Greatness Community Hub and Library",
+          "sourceLevel": 1
+        },
+        {
+          "type": "paragraph",
+          "text": "At The Greatness Community Hub and Library, we’re on a mission to empower communities through education and innovation. This initiative is proudly driven by OneWay Missions Global in collaboration with generous contributions from Christ for Youth International and Partners. Our journey begins in the picturesque village of Bongo-Soe, nestled in the heart of the Bongo District, Upper East Region of Ghana."
+        },
+        {
+          "type": "heading",
+          "text": "Our Vision",
+          "sourceLevel": 1
+        },
+        {
+          "type": "paragraph",
+          "text": "Our vision is clear: we aim to create vibrant learning spaces that empower individuals with the tools they need to succeed in today’s digital world. We believe that access to quality education and the development of essential skills can unlock boundless opportunities for young minds. Our mission is to instill a deep passion for reading, research, and lifelong learning."
+        },
+        {
+          "type": "heading",
+          "text": "Inspiring Greatness",
+          "sourceLevel": 1
+        },
+        {
+          "type": "paragraph",
+          "text": "As a youth development organization, our primary goal is to serve as a catalyst for growth and development. We aspire to be the place where young people gather to discover their potential and dream big. At The Greatness Community Hub and Library, we envision a brighter future where every individual is inspired to be great."
+        },
+        {
+          "type": "heading",
+          "text": "Closing the Digital Divide",
+          "sourceLevel": 1
+        },
+        {
+          "type": "paragraph",
+          "text": "One of our core objectives is to bridge the digital divide that often exists in rural regions. We recognize that access to technology and digital literacy is essential for personal and community development in today’s world."
+        },
+        {
+          "type": "heading",
+          "text": "To achieve this, we are committed to building a state-of-the-art learning center that offers:",
+          "sourceLevel": 2
+        },
+        {
+          "type": "paragraph",
+          "text": "Comprehensive digital literacy training."
+        },
+        {
+          "type": "paragraph",
+          "text": "Skill and capacity development programs."
+        },
+        {
+          "type": "paragraph",
+          "text": "Creative problem-solving workshops."
+        },
+        {
+          "type": "heading",
+          "text": "Construction Phase",
+          "sourceLevel": 1
+        },
+        {
+          "type": "heading",
+          "text": "2021",
+          "sourceLevel": 1
+        },
+        {
+          "type": "video",
+          "url": "https://connectcyi.org/wp-content/uploads/2023/09/1635782384388.mp4"
+        },
+        {
+          "type": "heading",
+          "text": "Completion of Phase One",
+          "sourceLevel": 1
+        },
+        {
+          "type": "heading",
+          "text": "2022",
+          "sourceLevel": 1
+        },
+        {
+          "type": "video",
+          "url": "https://connectcyi.org/wp-content/uploads/2023/09/363855730_250109531293528_8642004823393600503_n.mp4"
+        },
+        {
+          "type": "paragraph",
+          "text": "Our hub will be well-stocked with a diverse collection of resources, providing a welcoming environment for exploration and discovery. We believe that by providing these essential resources and opportunities, we can help empower individuals to shape their own futures."
+        },
+        {
+          "type": "image",
+          "url": "/media/2023-09-313212666_2440346076118359_1478038187213311424_n.webp"
+        },
+        {
+          "type": "image",
+          "url": "/media/2023-09-313202662_2440344666118500_9065958709140807962_n.webp"
+        },
+        {
+          "type": "image",
+          "url": "/media/2023-09-312355580_2440348236118143_4709054030708384416_n.webp"
+        },
+        {
+          "type": "image",
+          "url": "/media/2023-09-312056081_2440350359451264_6019966513760593738_n.webp"
+        },
+        {
+          "type": "image",
+          "url": "/media/2023-09-311985123_2440350109451289_8482857913741224448_n.webp"
+        },
+        {
+          "type": "image",
+          "url": "/media/2023-09-311867119_2440349799451320_5503523795023345032_n.webp"
+        },
+        {
+          "type": "image",
+          "url": "/media/2023-09-312170477_2440345836118383_558031751733926079_n.webp"
+        },
+        {
+          "type": "image",
+          "url": "/media/2023-09-312140363_2440346012785032_809862442095166655_n.webp"
+        },
+        {
+          "type": "heading",
+          "text": "Join Us. Be Great.",
+          "sourceLevel": 1
+        },
+        {
+          "type": "paragraph",
+          "text": "Join us on this incredible journey towards greatness. Together, we can create a brighter, more promising future for the young people in Ghana and beyond. Thank you for being a part of The Greatness Community Hub and Library’s mission to inspire, educate, and empower."
+        },
+        {
+          "type": "video",
+          "url": "https://connectcyi.org/wp-content/uploads/2023/09/1667393619652.mp4"
+        }
+      ],
+      "paragraphs": [
+        "At The Greatness Community Hub and Library, we’re on a mission to empower communities through education and innovation. This initiative is proudly driven by OneWay Missions Global in collaboration with generous contributions from Christ for Youth International and Partners. Our journey begins in the picturesque village of Bongo-Soe, nestled in the heart of the Bongo District, Upper East Region of Ghana.",
+        "Our vision is clear: we aim to create vibrant learning spaces that empower individuals with the tools they need to succeed in today’s digital world. We believe that access to quality education and the development of essential skills can unlock boundless opportunities for young minds. Our mission is to instill a deep passion for reading, research, and lifelong learning.",
+        "As a youth development organization, our primary goal is to serve as a catalyst for growth and development. We aspire to be the place where young people gather to discover their potential and dream big. At The Greatness Community Hub and Library, we envision a brighter future where every individual is inspired to be great.",
+        "One of our core objectives is to bridge the digital divide that often exists in rural regions. We recognize that access to technology and digital literacy is essential for personal and community development in today’s world.",
+        "Comprehensive digital literacy training.",
+        "Skill and capacity development programs.",
+        "Creative problem-solving workshops.",
+        "Our hub will be well-stocked with a diverse collection of resources, providing a welcoming environment for exploration and discovery. We believe that by providing these essential resources and opportunities, we can help empower individuals to shape their own futures.",
+        "Join us on this incredible journey towards greatness. Together, we can create a brighter, more promising future for the young people in Ghana and beyond. Thank you for being a part of The Greatness Community Hub and Library’s mission to inspire, educate, and empower."
+      ],
+      "milestones": [
+        {
+          "year": 2021,
+          "title": "Construction Phase",
+          "videoUrl": "https://connectcyi.org/wp-content/uploads/2023/09/1635782384388.mp4"
+        },
+        {
+          "year": 2022,
+          "title": "Completion of Phase One",
+          "videoUrl": "https://connectcyi.org/wp-content/uploads/2023/09/363855730_250109531293528_8642004823393600503_n.mp4"
+        }
+      ],
+      "href": "/projects/the-greatness-community-hub"
+    }
+  ]
+}

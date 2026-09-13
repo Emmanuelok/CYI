@@ -1,0 +1,342 @@
+{
+  "source": "https://connectcyi.org/wp-json/wp/v2/pages?per_page=100&status=publish",
+  "retrievedAt": "2026-09-13",
+  "publishedPageCount": 46,
+  "restored": [
+    {
+      "slug": "executive-leadership-application",
+      "sourceUrl": "https://connectcyi.org/executive-leadership-application/",
+      "historical": false
+    },
+    {
+      "slug": "opm-feedback",
+      "sourceUrl": "https://connectcyi.org/opm-feedback/",
+      "historical": false
+    },
+    {
+      "slug": "clg-2024-tshirt",
+      "sourceUrl": "https://connectcyi.org/clg-2024-tshirt/",
+      "historical": true
+    },
+    {
+      "slug": "oneway-missions-global-bolgatanga-2024",
+      "sourceUrl": "https://connectcyi.org/oneway-missions-global-bolgatanga-2024/",
+      "historical": true
+    },
+    {
+      "slug": "camp-lifeguard-2024-copy",
+      "sourceUrl": "https://connectcyi.org/camp-lifeguard-2024-copy/",
+      "historical": true
+    },
+    {
+      "slug": "glc2024-day-campers",
+      "sourceUrl": "https://connectcyi.org/glc2024-day-campers/",
+      "historical": true
+    },
+    {
+      "slug": "s2s2023",
+      "sourceUrl": "https://connectcyi.org/s2s2023/",
+      "historical": true
+    },
+    {
+      "slug": "family-games",
+      "sourceUrl": "https://connectcyi.org/family-games/",
+      "historical": true
+    },
+    {
+      "slug": "tickets",
+      "sourceUrl": "https://connectcyi.org/tickets/",
+      "historical": true
+    },
+    {
+      "slug": "rods-men-reference-form",
+      "sourceUrl": "https://connectcyi.org/rods-men-reference-form/",
+      "historical": true
+    },
+    {
+      "slug": "rods-men",
+      "sourceUrl": "https://connectcyi.org/rods-men/",
+      "historical": true
+    },
+    {
+      "slug": "be-deurne",
+      "sourceUrl": "https://connectcyi.org/be-deurne/",
+      "historical": false
+    },
+    {
+      "slug": "onewayeurope",
+      "sourceUrl": "https://connectcyi.org/onewayeurope/",
+      "historical": true
+    },
+    {
+      "slug": "clgeurope",
+      "sourceUrl": "https://connectcyi.org/clgeurope/",
+      "historical": true
+    },
+    {
+      "slug": "ventured-out-training-session-january-edition-feedback",
+      "sourceUrl": "https://connectcyi.org/ventured-out-training-session-january-edition-feedback/",
+      "historical": true
+    },
+    {
+      "slug": "glc2023",
+      "sourceUrl": "https://connectcyi.org/glc2023/",
+      "historical": true
+    },
+    {
+      "slug": "marriage-preparation-course",
+      "sourceUrl": "https://connectcyi.org/marriage-preparation-course/",
+      "historical": true
+    },
+    {
+      "slug": "presidents-and-directors-retreat-2022",
+      "sourceUrl": "https://connectcyi.org/presidents-and-directors-retreat-2022/",
+      "historical": true
+    },
+    {
+      "slug": "savedtoserve",
+      "sourceUrl": "https://connectcyi.org/savedtoserve/",
+      "historical": false
+    },
+    {
+      "slug": "camp-discovered-2021-feedback",
+      "sourceUrl": "https://connectcyi.org/camp-discovered-2021-feedback/",
+      "historical": true
+    },
+    {
+      "slug": "scholarshipscheme",
+      "sourceUrl": "https://connectcyi.org/scholarshipscheme/",
+      "historical": false
+    }
+  ],
+  "alreadyCovered": [
+    {
+      "id": 7179,
+      "slug": "cyi-mission-house-project",
+      "title": "The CYI Mission House Project",
+      "sourceUrl": "https://connectcyi.org/cyi-mission-house-project/",
+      "modified": "2026-08-03T14:21:19",
+      "published": "2026-05-14T16:32:46",
+      "reason": "Project migrated"
+    },
+    {
+      "id": 6019,
+      "slug": "the-greatness-community-hub",
+      "title": "The Greatness Community Hub And Library Project",
+      "sourceUrl": "https://connectcyi.org/the-greatness-community-hub/",
+      "modified": "2026-05-21T03:29:27",
+      "published": "2023-09-10T01:55:59",
+      "reason": "Project migrated"
+    },
+    {
+      "id": 2539,
+      "slug": "precious-moments",
+      "title": "Precious Moments",
+      "sourceUrl": "https://connectcyi.org/precious-moments/",
+      "modified": "2021-09-26T11:31:06",
+      "published": "2021-09-26T11:31:03",
+      "reason": "21 devotionals migrated"
+    },
+    {
+      "id": 1426,
+      "slug": "branches",
+      "title": "Branches",
+      "sourceUrl": "https://connectcyi.org/branches/",
+      "modified": "2021-11-12T15:45:57",
+      "published": "2020-09-18T01:32:15",
+      "reason": "26 original branch records migrated"
+    },
+    {
+      "id": 1400,
+      "slug": "my-cyi-story",
+      "title": "My CYI Story",
+      "sourceUrl": "https://connectcyi.org/my-cyi-story/",
+      "modified": "2021-10-01T08:35:14",
+      "published": "2020-09-17T23:15:14",
+      "reason": "Six testimonials migrated to /stories; original URL alias needed"
+    },
+    {
+      "id": 1269,
+      "slug": "resources",
+      "title": "Resources",
+      "sourceUrl": "https://connectcyi.org/resources/",
+      "modified": "2021-09-26T14:44:57",
+      "published": "2020-07-26T16:47:00",
+      "reason": "All five resource channels migrated"
+    },
+    {
+      "id": 1193,
+      "slug": "leadership",
+      "title": "Leadership",
+      "sourceUrl": "https://connectcyi.org/leadership/",
+      "modified": "2024-08-10T19:45:13",
+      "published": "2020-07-26T04:26:13",
+      "reason": "All 15 leadership records migrated"
+    },
+    {
+      "id": 1112,
+      "slug": "environments",
+      "title": "Environments",
+      "sourceUrl": "https://connectcyi.org/environments/",
+      "modified": "2020-10-21T01:06:28",
+      "published": "2020-07-25T19:14:54",
+      "reason": "All ten programme descriptions migrated"
+    },
+    {
+      "id": 94,
+      "slug": "connect",
+      "title": "Connect",
+      "sourceUrl": "https://connectcyi.org/connect/",
+      "modified": "2020-06-21T19:46:42",
+      "published": "2018-10-10T13:04:48",
+      "reason": "Contact page migrated; source map/social links need restoring"
+    },
+    {
+      "id": 34,
+      "slug": "about",
+      "title": "About",
+      "sourceUrl": "https://connectcyi.org/about/",
+      "modified": "2021-09-26T14:53:20",
+      "published": "2018-10-10T10:18:04",
+      "reason": "Mission and all six values migrated"
+    },
+    {
+      "id": 13,
+      "slug": "home",
+      "title": "Home",
+      "sourceUrl": "https://connectcyi.org/",
+      "modified": "2026-09-01T14:41:25",
+      "published": "2018-10-09T10:03:12",
+      "reason": "Home content migrated"
+    }
+  ],
+  "excluded": [
+    {
+      "id": 4329,
+      "slug": "password-reset",
+      "title": "Password Reset",
+      "sourceUrl": "https://connectcyi.org/password-reset/",
+      "modified": "2022-08-25T14:17:52",
+      "published": "2022-08-25T14:17:52",
+      "reason": "Technical password reset form"
+    },
+    {
+      "id": 4328,
+      "slug": "account",
+      "title": "Account",
+      "sourceUrl": "https://connectcyi.org/account/",
+      "modified": "2022-08-25T14:17:52",
+      "published": "2022-08-25T14:17:52",
+      "reason": "Empty technical account page"
+    },
+    {
+      "id": 4327,
+      "slug": "logout",
+      "title": "Logout",
+      "sourceUrl": "https://connectcyi.org/logout/",
+      "modified": "2022-08-25T14:17:52",
+      "published": "2022-08-25T14:17:52",
+      "reason": "Empty technical logout page"
+    },
+    {
+      "id": 4326,
+      "slug": "members",
+      "title": "Members",
+      "sourceUrl": "https://connectcyi.org/members/",
+      "modified": "2022-08-25T14:17:52",
+      "published": "2022-08-25T14:17:52",
+      "reason": "Technical member directory template"
+    },
+    {
+      "id": 4325,
+      "slug": "register",
+      "title": "Register",
+      "sourceUrl": "https://connectcyi.org/register/",
+      "modified": "2022-08-25T14:17:52",
+      "published": "2022-08-25T14:17:52",
+      "reason": "Technical member registration form"
+    },
+    {
+      "id": 4324,
+      "slug": "login",
+      "title": "Login",
+      "sourceUrl": "https://connectcyi.org/login/",
+      "modified": "2022-09-03T14:35:20",
+      "published": "2022-08-25T14:17:52",
+      "reason": "Technical member login form"
+    },
+    {
+      "id": 4323,
+      "slug": "user",
+      "title": "User",
+      "sourceUrl": "https://connectcyi.org/user/",
+      "modified": "2022-08-25T14:17:52",
+      "published": "2022-08-25T14:17:52",
+      "reason": "Technical user account template"
+    },
+    {
+      "id": 4315,
+      "slug": "my-account",
+      "title": "My account",
+      "sourceUrl": "https://connectcyi.org/my-account/",
+      "modified": "2022-08-25T10:02:03",
+      "published": "2022-08-25T10:02:03",
+      "reason": "Technical shop account form"
+    },
+    {
+      "id": 4314,
+      "slug": "checkout",
+      "title": "Checkout",
+      "sourceUrl": "https://connectcyi.org/checkout/",
+      "modified": "2022-08-25T10:02:03",
+      "published": "2022-08-25T10:02:03",
+      "reason": "Technical WooCommerce checkout placeholder"
+    },
+    {
+      "id": 4313,
+      "slug": "cart",
+      "title": "Cart",
+      "sourceUrl": "https://connectcyi.org/cart/",
+      "modified": "2022-08-25T10:02:03",
+      "published": "2022-08-25T10:02:03",
+      "reason": "Technical WooCommerce cart placeholder"
+    },
+    {
+      "id": 4312,
+      "slug": "shop",
+      "title": "Shop",
+      "sourceUrl": "https://connectcyi.org/shop/",
+      "modified": "2022-08-25T10:02:03",
+      "published": "2022-08-25T10:02:03",
+      "reason": "Empty shop page"
+    },
+    {
+      "id": 5,
+      "slug": "home-3",
+      "title": "Home",
+      "sourceUrl": "https://connectcyi.org/home-3/",
+      "modified": "2021-09-26T16:00:39",
+      "published": "2021-09-26T16:00:39",
+      "reason": "Empty/template alternate homepage"
+    },
+    {
+      "id": 6,
+      "slug": "blog",
+      "title": "Blog",
+      "sourceUrl": "https://connectcyi.org/blog/",
+      "modified": "2021-09-26T16:00:38",
+      "published": "2021-09-26T16:00:38",
+      "reason": "Blog template; actual published posts are the 21 migrated devotionals"
+    },
+    {
+      "id": 1463,
+      "slug": "home-2",
+      "title": "Home",
+      "sourceUrl": "https://connectcyi.org/home-2/",
+      "modified": "2020-09-25T15:35:36",
+      "published": "2020-09-25T00:37:14",
+      "reason": "Superseded alternate homepage with repeated existing mission/navigation content"
+    }
+  ],
+  "note": "Historical forms preserve original questions and use official source-page links. Empty ecommerce/account templates were not recreated. All 21 devotional posts are retained separately."
+}

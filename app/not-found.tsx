@@ -1,0 +1,1 @@
+export default function NotFound(){return <section data-cyi-not-found className="wrap section empty-state" style={{marginBlock:70}}><div className="eyebrow">A little off track</div><h1 style={{fontSize:55}}>Let’s find your way back.</h1><p style={{marginBlock:25}}>That page isn’t here. Your next step is.</p><a className="btn" href="/">Back to CYI</a></section>}

@@ -1,0 +1,92 @@
+{
+  "schema_version": "1.0",
+  "project": {
+    "id": "cyi-electric-purpose",
+    "name": "CYI \u2014 Electric Purpose",
+    "mode": "frontend-experience",
+    "objective": "Give CYI an intensely vibrant youth identity across its complete web platform.",
+    "audience": "CYI youth, members, volunteers and supporters.",
+    "governing_idea": "Made for more: faith is alive in people, creativity and service.",
+    "status": "built"
+  },
+  "creative_system": {
+    "concept_title": "Electric Purpose",
+    "visual_thesis": "A midnight festival canvas gives authentic CYI moments a luminous frame.",
+    "palette": [
+      "#120b22",
+      "#7734e8",
+      "#ff715b",
+      "#ffa4e7",
+      "#e3ff74",
+      "#faf8ff"
+    ],
+    "composition": "Oversized type balances an asymmetric arched photo collage, followed by distinct light and saturated chapters.",
+    "typography": "Local Barlow Condensed, local Manrope and one Georgia italic accent.",
+    "motion": "Shared pausable carousel and marquee, with reduced-motion support.",
+    "anti_goals": [
+      "Fabricated documentary scenes",
+      "Repetitive pastel split screens",
+      "Decorative clutter obscuring actions"
+    ]
+  },
+  "assets": [
+    {
+      "id": "cyi-electric-ribbon",
+      "type": "image",
+      "source": "public/media/cyi-electric-ribbon.webp",
+      "role": "decorative artwork",
+      "rights_status": "original-generated",
+      "description": "One original chrome ribbon, no people, logos or text.",
+      "notes": "Generated with OpenAI image generation, visually inspected and converted to WebP."
+    },
+    {
+      "id": "cyi-documentary",
+      "type": "image",
+      "source": "public/asset-sources.json",
+      "role": "documentary photography",
+      "rights_status": "user-authorized-reuse",
+      "description": "Original CYI photos reused at the contracted developer\u2019s request."
+    },
+    {
+      "id": "cyi-original-film",
+      "type": "video",
+      "source": "https://vimeo.com/1210826257",
+      "role": "landing-page hero film",
+      "rights_status": "original-official-embed",
+      "description": "CYI \u2013 Together, 53 seconds. Source homepage and public Vimeo oEmbed metadata verified.",
+      "notes": "Original homepage film used as a full-screen background, with muted autoplay, 45-second loop and hidden provider controls."
+    }
+  ],
+  "screens": [
+    {
+      "id": "home",
+      "description": "Electric hero, discovery paths, mission, experiences, media, giving, stories and photo journal."
+    },
+    {
+      "id": "interiors",
+      "description": "113 total views share expressive typography, immersive covers and vibrant content surfaces."
+    }
+  ],
+  "deliverables": [
+    {
+      "id": "cyi-site",
+      "type": "website",
+      "source": "app/",
+      "status": "built"
+    }
+  ],
+  "qa": {
+    "typescript": "passed",
+    "production_build": "passed",
+    "route_rendering": "113 views passed",
+    "internal_links": "Page rendering and internal links checked before publication.",
+    "asset_integrity": "All rendered image sources valid",
+    "visual_review": "The preceding Electric Purpose edition was visually reviewed. The full-screen video cover is reviewed through the hosting capture after publication.",
+    "device_browser_review": "Incomplete: browser preview refresh blocked by browser security policy in the preceding revision.",
+    "hero_video": "Full-viewport background treatment with cover sizing, transparent overlaid navigation, hidden provider chrome and the original 45-second loop. TypeScript and page checks run before publication; interactive browser checks remain restricted."
+  },
+  "gates": [],
+  "assumptions": [
+    "Preserve all 113 views, functional navigation and the existing private audience."
+  ]
+}

@@ -1,0 +1,25 @@
+const {DatabaseSync}=require('node:sqlite');
+const fs=require('node:fs');
+const path=require('node:path');
+const root=path.resolve(__dirname,'..');
+const ts=require(root+'/node_modules/typescript');
+const db=new DatabaseSync(':memory:');
+db.exec(fs.readFileSync(root+'/drizzle/0000_common_talos.sql','utf8'));
+const d1={prepare(sql){const st=db.prepare(sql);return {bind(...args){return {async all(){return {results:st.all(...args)}},async first(){return st.get(...args)||null},async run(){return st.run(...args)}}}}}};
+const source=fs.readFileSync(root+'/app/api/collection/route.ts','utf8');
+const js=ts.transpileModule(source,{compilerOptions:{module:ts.ModuleKind.CommonJS,target:ts.ScriptTarget.ES2022,esModuleInterop:true}}).outputText;
+const mod={exports:{}};new Function('require','module','exports',js)((name)=>name==='@/db/raw'?{database:()=>d1}:name.endsWith('content.json')?JSON.parse(fs.readFileSync(root+'/app/content.json','utf8')):require(name),mod,mod.exports);
+const {GET,POST}=mod.exports;let checks=0;
+const assert=(v,m)=>{if(!v)throw Error(m);checks++};
+const req=(cookie,body,origin='https://cyi.test')=>new Request('https://cyi.test/api/collection',{method:'POST',headers:{cookie,'content-type':'application/json',origin},body:JSON.stringify(body)});
+(async()=>{
+const a=await GET(new Request('https://cyi.test/api/collection'));assert(a.status===200,'GET failed');const cookie=a.headers.get('set-cookie').split(';')[0];assert(a.headers.get('set-cookie').includes('HttpOnly; Secure; SameSite=Lax'),'cookie flags');const body={action:'save',item:{key:'Programme:camp-discovered',title:'evil',href:'javascript:alert(1)'}};
+let r=await POST(req(cookie,body));assert(r.status===200,'save failed');let d=await r.json();assert(d.saved[0].title==='Camp Discovered'&&d.saved[0].href==='/programmes/camp-discovered','canonical bookmark data');
+r=await POST(req(cookie,body));d=await r.json();assert(d.saved.length===1,'duplicate not idempotent');
+r=await GET(new Request('https://cyi.test/api/collection',{headers:{cookie}}));d=await r.json();assert(d.saved.length===1,'durability readback');
+r=await POST(req(cookie,{action:'journal',journal:'Faith, hope, and love.'}));assert(r.status===200,'journal save');r=await GET(new Request('https://cyi.test/api/collection',{headers:{cookie}}));d=await r.json();assert(d.journal==='Faith, hope, and love.','journal readback');
+const b=await GET(new Request('https://cyi.test/api/collection'));const bCookie=b.headers.get('set-cookie').split(';')[0];d=await b.json();assert(d.saved.length===0&&d.journal==='','session isolation');
+r=await POST(req(bCookie,{action:'remove',item:{key:'Programme:camp-discovered'}}));assert(r.status===200,'own delete empty');r=await GET(new Request('https://cyi.test/api/collection',{headers:{cookie}}));d=await r.json();assert(d.saved.length===1,'cross-session deletion');
+r=await POST(req(cookie,body,'https://evil.test'));assert(r.status===403,'CSRF origin');r=await POST(req('',body));assert(r.status===401,'missing session');r=await POST(req(cookie,{action:'save',item:{key:'Programme:nonexistent'}}));assert(r.status===400,'unknown bookmark');r=await POST(req(cookie,{action:'journal',journal:'x'.repeat(20001)}));assert(r.status===400,'journal bounds');r=await POST(req(cookie,{action:'remove',item:{key:'Programme:camp-discovered'}}));d=await r.json();assert(d.saved.length===0,'remove');
+console.log(checks+' integration checks passed: persistence, isolation, canonical data, idempotency, CSRF, bounds and removal.');db.close();
+})().catch(e=>{console.error(e);process.exit(1)});

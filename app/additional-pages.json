@@ -1,0 +1,3175 @@
+[
+  {
+    "id": 7131,
+    "slug": "executive-leadership-application",
+    "title": "Executive & Leadership Application",
+    "sourceUrl": "https://connectcyi.org/executive-leadership-application/",
+    "modified": "2026-02-02T12:20:15",
+    "published": "2026-01-21T16:05:57",
+    "classification": "member-service",
+    "headings": [
+      "Executive & Leadership Application"
+    ],
+    "bodyParagraphs": [
+      "I declare that the information provided is true and accurate"
+    ],
+    "blocks": [
+      {
+        "type": "heading",
+        "text": "Executive & Leadership Application",
+        "level": 2
+      },
+      {
+        "type": "paragraph",
+        "text": "I declare that the information provided is true and accurate"
+      }
+    ],
+    "formFieldSummary": [
+      {
+        "label": "Full Name",
+        "type": "text",
+        "required": true
+      },
+      {
+        "label": "Date of Birth",
+        "type": "date",
+        "required": true
+      },
+      {
+        "label": "Gender",
+        "type": "checkbox",
+        "required": false,
+        "options": [
+          "Male",
+          "Female"
+        ]
+      },
+      {
+        "label": "Marital Status",
+        "type": "checkbox",
+        "required": false,
+        "options": [
+          "Single",
+          "Married",
+          "Other"
+        ]
+      },
+      {
+        "label": "Other (Marital Status)",
+        "type": "text",
+        "required": false
+      },
+      {
+        "label": "Phone Number",
+        "type": "tel",
+        "required": true
+      },
+      {
+        "label": "Email Address",
+        "type": "email",
+        "required": true
+      },
+      {
+        "label": "Residential Address",
+        "type": "text",
+        "required": true
+      },
+      {
+        "label": "Branch / Location",
+        "type": "select",
+        "required": true,
+        "options": [
+          "Kindly select the branch you are serving in",
+          "Adenta",
+          "Airport",
+          "Ashongman",
+          "Awoshie",
+          "Banana Inn",
+          "Barnet, UK",
+          "Berlin, Germany",
+          "Dansoman",
+          "Deurne, Belgium",
+          "Dome",
+          "East Legon",
+          "FDB Lille, France",
+          "Grand Rapids, USA",
+          "Hoboken, Belgium",
+          "Kapellen, Belgium",
+          "Kigali, Rwanda",
+          "Korle Bu",
+          "Lakeside",
+          "Lapaz",
+          "Last Stop",
+          "Madina",
+          "Mataheko",
+          "Merksem, Belgium",
+          "Monrovia, Liberia",
+          "Nima",
+          "North Kaneshie",
+          "Osu",
+          "Pokuase",
+          "Spintex",
+          "Taifa",
+          "Teiman",
+          "Tema",
+          "Weija",
+          "Wesley Grammar"
+        ]
+      },
+      {
+        "label": "Post Applying For",
+        "type": "text",
+        "required": true
+      },
+      {
+        "label": "When did you give your life to Christ?",
+        "type": "text",
+        "required": true
+      },
+      {
+        "label": "Briefly describe your salvation journey and walk with God:",
+        "type": "textarea",
+        "required": true
+      },
+      {
+        "label": "Are you an active member of Ahavah Fellowship?",
+        "type": "checkbox",
+        "required": false,
+        "options": [
+          "Yes",
+          "No"
+        ]
+      },
+      {
+        "label": "If yes, how long?",
+        "type": "text",
+        "required": false
+      },
+      {
+        "label": "State your reasons for wanting to serve:",
+        "type": "textarea",
+        "required": true
+      },
+      {
+        "label": "What do you believe God is calling you to contribute through this role?",
+        "type": "textarea",
+        "required": true
+      },
+      {
+        "label": "Outline the sacrifices you are willing to make as a leader:",
+        "type": "textarea",
+        "required": true
+      },
+      {
+        "label": "Are you willing to submit to spiritual authority and accountability",
+        "type": "checkbox",
+        "required": false,
+        "options": [
+          "Yes",
+          "No"
+        ]
+      },
+      {
+        "label": "Applicant Name",
+        "type": "text",
+        "required": true
+      },
+      {
+        "label": "Confirm Declaration",
+        "type": "checkbox",
+        "required": true,
+        "options": [
+          "I accept this position I have applied for"
+        ]
+      }
+    ],
+    "formSections": [
+      {
+        "label": "Form guidance",
+        "blocks": [
+          {
+            "type": "paragraph",
+            "text": "I declare that the information provided is true and accurate"
+          }
+        ]
+      }
+    ],
+    "formProvider": "Elementor",
+    "submissionUrl": "https://connectcyi.org/executive-leadership-application/",
+    "images": [],
+    "videos": [],
+    "links": [],
+    "isHistorical": false,
+    "notes": []
+  },
+  {
+    "id": 7112,
+    "slug": "opm-feedback",
+    "title": "OPM Feedback",
+    "sourceUrl": "https://connectcyi.org/opm-feedback/",
+    "modified": "2026-01-12T20:20:54",
+    "published": "2026-01-12T15:18:36",
+    "classification": "member-service",
+    "headings": [
+      "OPM Feedback"
+    ],
+    "bodyParagraphs": [],
+    "blocks": [
+      {
+        "type": "heading",
+        "text": "OPM Feedback",
+        "level": 2
+      }
+    ],
+    "formFieldSummary": [
+      {
+        "label": "Name",
+        "type": "text",
+        "required": false
+      },
+      {
+        "label": "Role",
+        "type": "checkbox",
+        "required": false,
+        "options": [
+          "President",
+          "Vice-President",
+          "Facilitator",
+          "Director"
+        ]
+      },
+      {
+        "label": "Branch",
+        "type": "select",
+        "required": true,
+        "options": [
+          "Adenta",
+          "Airport",
+          "Ashongman",
+          "Awoshie",
+          "Banana Inn",
+          "Barnet, UK",
+          "Berlin, Germany",
+          "Dansoman",
+          "Deurne, Belgium",
+          "Dome",
+          "East Legon",
+          "FDB Lille, France",
+          "Grand Rapids, USA",
+          "Hoboken, Belgium",
+          "Kapellen, Belgium",
+          "Kigali, Rwanda",
+          "Korle Bu",
+          "Lakeside",
+          "Lapaz",
+          "Last Stop",
+          "Madina",
+          "Mataheko",
+          "Merksem, Belgium",
+          "Monrovia, Liberia",
+          "Nima",
+          "North Kaneshie",
+          "Osu",
+          "Pokuase",
+          "Spintex",
+          "Taifa",
+          "Teiman",
+          "Tema",
+          "Weija",
+          "Wesley Grammar"
+        ]
+      },
+      {
+        "label": "Section 1: Introduction",
+        "type": "textarea",
+        "required": false
+      },
+      {
+        "label": "Section 2: CYI Branch",
+        "type": "textarea",
+        "required": false
+      },
+      {
+        "label": "Section 3: Annual Calendar",
+        "type": "textarea",
+        "required": false
+      },
+      {
+        "label": "Section 4: Meetings",
+        "type": "textarea",
+        "required": false
+      },
+      {
+        "label": "Section 5: The Office of Executives",
+        "type": "textarea",
+        "required": false
+      },
+      {
+        "label": "Section 6: Membership",
+        "type": "textarea",
+        "required": false
+      },
+      {
+        "label": "Section 7: CYI Branch Properties",
+        "type": "textarea",
+        "required": false
+      },
+      {
+        "label": "Section 8: Committees",
+        "type": "textarea",
+        "required": false
+      },
+      {
+        "label": "Section 9: Offices",
+        "type": "textarea",
+        "required": false
+      },
+      {
+        "label": "Section 10: Leadership",
+        "type": "textarea",
+        "required": false
+      },
+      {
+        "label": "Section 11: Ethics for Leaders",
+        "type": "textarea",
+        "required": false
+      },
+      {
+        "label": "Section 12: Appendix",
+        "type": "textarea",
+        "required": false
+      },
+      {
+        "label": "Kindly share recommendations for addition to the OPM",
+        "type": "textarea",
+        "required": false
+      }
+    ],
+    "formSections": [],
+    "formProvider": "Elementor",
+    "submissionUrl": "https://connectcyi.org/opm-feedback/",
+    "images": [],
+    "videos": [],
+    "links": [],
+    "isHistorical": false,
+    "notes": []
+  },
+  {
+    "id": 6873,
+    "slug": "clg-2024-tshirt",
+    "title": "CLG 2024 T-SHIRT PREORDER",
+    "sourceUrl": "https://connectcyi.org/clg-2024-tshirt/",
+    "modified": "2024-06-14T12:10:43",
+    "published": "2024-06-14T11:56:31",
+    "classification": "historical-event-or-feedback",
+    "headings": [
+      "CLG 2024 T-SHIRT PREORDER"
+    ],
+    "bodyParagraphs": [
+      "If you would like to preorder a T-shirt for Camp Lifeguard, please fill in your details in this Registration Form below and you will be automatically registered. Kindly pay Ghc 75 to your Branch President to get it at camp."
+    ],
+    "blocks": [
+      {
+        "type": "heading",
+        "text": "CLG 2024 T-SHIRT PREORDER",
+        "level": 2
+      },
+      {
+        "type": "paragraph",
+        "text": "If you would like to preorder a T-shirt for Camp Lifeguard, please fill in your details in this Registration Form below and you will be automatically registered. Kindly pay Ghc 75 to your Branch President to get it at camp."
+      }
+    ],
+    "formFieldSummary": [
+      {
+        "label": "Full Name",
+        "type": "firstname",
+        "required": true
+      },
+      {
+        "label": "Email",
+        "type": "email",
+        "required": false
+      },
+      {
+        "label": "Contact",
+        "type": "phone",
+        "required": true
+      },
+      {
+        "label": "Branch",
+        "type": "listselect",
+        "required": true,
+        "options": [
+          "Kindly choose your Branch",
+          "Adenta",
+          "Ahwerase",
+          "Airport",
+          "Ashaiman",
+          "Ashongman",
+          "Awoshie",
+          "Berlin (Germany)",
+          "Dansoman",
+          "Deurne (Belgium)",
+          "Dome",
+          "East Legon",
+          "Grand Rapids (US)",
+          "Kasoa",
+          "Kigali (Rwanda)",
+          "Korle-Bu",
+          "Lakeside",
+          "Last Stop",
+          "Lapaz",
+          "London (UK)",
+          "Lille (France)",
+          "Madina",
+          "Mataheko",
+          "Nima",
+          "North Kaneshie",
+          "Osu",
+          "Pokuase",
+          "Spintex",
+          "Taifa",
+          "Tamale",
+          "Teiman",
+          "Tema",
+          "Weija",
+          "Wesley Grammar"
+        ]
+      },
+      {
+        "label": "Tshirt Size",
+        "type": "listselect",
+        "required": true,
+        "options": [
+          "Kindly choose your size",
+          "S",
+          "M",
+          "L",
+          "XL",
+          "XXL",
+          "XXXL",
+          "XXXXL"
+        ]
+      }
+    ],
+    "formSections": [
+      {
+        "label": "Event Intro Description",
+        "blocks": [
+          {
+            "type": "paragraph",
+            "text": "If you would like to preorder a T-shirt for Camp Lifeguard, please fill in your details in this Registration Form below and you will be automatically registered. Kindly pay Ghc 75 to your Branch President to get it at camp."
+          }
+        ]
+      }
+    ],
+    "formProvider": "Ninja Forms",
+    "submissionUrl": "https://connectcyi.org/clg-2024-tshirt/",
+    "images": [],
+    "videos": [],
+    "links": [],
+    "isHistorical": true,
+    "notes": [
+      "Historical page. Retain original event year and dates; do not present as current registration or current price."
+    ]
+  },
+  {
+    "id": 6648,
+    "slug": "oneway-missions-global-bolgatanga-2024",
+    "title": "ONEWAY MISSIONS GLOBAL – BOLGATANGA 2024",
+    "sourceUrl": "https://connectcyi.org/oneway-missions-global-bolgatanga-2024/",
+    "modified": "2024-05-02T15:35:27",
+    "published": "2024-05-02T15:09:58",
+    "classification": "historical-event-or-feedback",
+    "headings": [
+      "ONEWAY MISSIONS GLOBAL BOLGATANGA 2024",
+      "Bio Information",
+      "Contact Information",
+      "Emergency Contact's Details",
+      "Mission's Details"
+    ],
+    "bodyParagraphs": [
+      "If you would like to take part in OneWay Missions Global Bolgatanga 2024, please fill in your details in this Registration Form below and you will be automatically registered."
+    ],
+    "blocks": [
+      {
+        "type": "heading",
+        "text": "ONEWAY MISSIONS GLOBAL BOLGATANGA 2024",
+        "level": 2
+      },
+      {
+        "type": "paragraph",
+        "text": "If you would like to take part in OneWay Missions Global Bolgatanga 2024, please fill in your details in this Registration Form below and you will be automatically registered."
+      },
+      {
+        "type": "heading",
+        "text": "Bio Information",
+        "level": 3
+      },
+      {
+        "type": "heading",
+        "text": "Contact Information",
+        "level": 3
+      },
+      {
+        "type": "heading",
+        "text": "Emergency Contact's Details",
+        "level": 3
+      },
+      {
+        "type": "heading",
+        "text": "Mission's Details",
+        "level": 3
+      }
+    ],
+    "formFieldSummary": [
+      {
+        "label": "First Name",
+        "type": "firstname",
+        "required": true
+      },
+      {
+        "label": "Middle Name(s) [Optional]",
+        "type": "firstname",
+        "required": false
+      },
+      {
+        "label": "Last Name",
+        "type": "lastname",
+        "required": true
+      },
+      {
+        "label": "Gender",
+        "type": "listselect",
+        "required": true,
+        "options": [
+          "Kindly choose a gender",
+          "Male",
+          "Female"
+        ]
+      },
+      {
+        "label": "Date of Birth",
+        "type": "date",
+        "required": true
+      },
+      {
+        "label": "Residential Address",
+        "type": "address",
+        "required": true
+      },
+      {
+        "label": "Email",
+        "type": "email",
+        "required": false
+      },
+      {
+        "label": "Phone Number(s)",
+        "type": "phone",
+        "required": true
+      },
+      {
+        "label": "Relationship",
+        "type": "textbox",
+        "required": true
+      },
+      {
+        "label": "Full Name",
+        "type": "firstname",
+        "required": true
+      },
+      {
+        "label": "Contact's Email",
+        "type": "email",
+        "required": false
+      },
+      {
+        "label": "Phone Number",
+        "type": "phone",
+        "required": true
+      },
+      {
+        "label": "Location",
+        "type": "address",
+        "required": true
+      },
+      {
+        "label": "Occupation",
+        "type": "textbox",
+        "required": true
+      },
+      {
+        "label": "Are you a member of the OneWay Missions Global Team?",
+        "type": "listselect",
+        "required": true,
+        "options": [
+          "Select an option",
+          "Yes",
+          "No"
+        ]
+      },
+      {
+        "label": "How many OneWay Missions Global trips have you been on?",
+        "type": "textbox",
+        "required": false
+      },
+      {
+        "label": "Have you ever been on any mission's trip?",
+        "type": "listselect",
+        "required": true,
+        "options": [
+          "Select an option",
+          "Yes",
+          "No"
+        ]
+      },
+      {
+        "label": "If yes,",
+        "type": "repeater",
+        "required": false,
+        "subfields": [
+          {
+            "label": "Which group?",
+            "type": "textbox"
+          },
+          {
+            "label": "To where?",
+            "type": "textbox"
+          },
+          {
+            "label": "How many times?",
+            "type": "textbox"
+          }
+        ]
+      },
+      {
+        "label": "Describe your previous mission's trip experience",
+        "type": "textarea",
+        "required": false
+      },
+      {
+        "label": "Why do you want to be part of this year's OneWay Missions Global trip to Bolgatanga? (Kindly include your expectations.)",
+        "type": "textarea",
+        "required": true
+      },
+      {
+        "label": "Which area of focus would you like to serve in?",
+        "type": "listcheckbox",
+        "required": true,
+        "options": [
+          "Crusade and Evangelism",
+          "Education and Training",
+          "Health and Wellness",
+          "Welfare and Donation",
+          "Logistics and Transportation"
+        ]
+      },
+      {
+        "label": "Do you have any other information you would like the team to know?",
+        "type": "textarea",
+        "required": false
+      }
+    ],
+    "formSections": [
+      {
+        "label": "Event Intro Description",
+        "blocks": [
+          {
+            "type": "paragraph",
+            "text": "If you would like to take part in OneWay Missions Global Bolgatanga 2024, please fill in your details in this Registration Form below and you will be automatically registered."
+          }
+        ]
+      },
+      {
+        "label": "Bio Information",
+        "blocks": [
+          {
+            "type": "heading",
+            "text": "Bio Information",
+            "level": 3
+          }
+        ]
+      },
+      {
+        "label": "Contact Information",
+        "blocks": [
+          {
+            "type": "heading",
+            "text": "Contact Information",
+            "level": 3
+          }
+        ]
+      },
+      {
+        "label": "Emergency Contact's Details",
+        "blocks": [
+          {
+            "type": "heading",
+            "text": "Emergency Contact's Details",
+            "level": 3
+          }
+        ]
+      },
+      {
+        "label": "Mission's Details",
+        "blocks": [
+          {
+            "type": "heading",
+            "text": "Mission's Details",
+            "level": 3
+          }
+        ]
+      }
+    ],
+    "formProvider": "Ninja Forms",
+    "submissionUrl": "https://connectcyi.org/oneway-missions-global-bolgatanga-2024/",
+    "images": [],
+    "videos": [],
+    "links": [],
+    "isHistorical": true,
+    "notes": [
+      "Historical page. Retain original event year and dates; do not present as current registration or current price."
+    ]
+  },
+  {
+    "id": 6440,
+    "slug": "camp-lifeguard-2024-copy",
+    "title": "The Jesus Tour – Lisbon 2024",
+    "sourceUrl": "https://connectcyi.org/camp-lifeguard-2024-copy/",
+    "modified": "2024-03-03T16:43:15",
+    "published": "2024-03-03T11:32:30",
+    "classification": "historical-event-or-feedback",
+    "headings": [
+      "CAMP LifeGuard Europe 2024",
+      "Personal Information",
+      "Camp Information",
+      "Health Information",
+      "Payment Information"
+    ],
+    "bodyParagraphs": [
+      "Generally, Camp Lifeguard, also known as the Shepherds’ Camp, is a 3-day training and equipping program for all leaders of our various branches. It provides an environment which conditions leaders to gain knowledge and understanding in that which they have been called to. We come together to learn what true leadership is all about (in and out of CYI) and how to be true Jesus followers who can lead His flock.",
+      "Particularly for CLG Europe, we are no different from the above vision. Since we do not always have the privilege of traveling to the headquarters in Ghana for the main CLG, we are blessed to be able to have a mini version right here. Gathering all branches in Europe including other interested people, we hope to replicate a similar environment and experience as from the main camps and have a touch of God to do good.",
+      "CYI’s Ahavah is a youth ministry with a vision of reaching out and transforming the lives of young people across the globe.",
+      "With this vision, anyone who is young or young at heart is qualified. we have no religious, gender, race or other conditions set for anyone to be able to attend. Anyone attending must simply respect the camp rules and understand that we are Christ people and so we follow Christ principles at camp.",
+      "An age restriction is however set to 13years.",
+      "So all are invited.",
+      "Schedule June 28th – July 2nd in Lille, France *Complete schedule will be sent after registration *Deadline for Registration is April 30, 2024, 23:59",
+      "Fees €250 per attendee",
+      "If you would like to take part in CLG Europe 2024, please fill in your details in this Registration Form below and you will be automatically registered. Registration must be completed at least thirty (30) days prior to the camp."
+    ],
+    "blocks": [
+      {
+        "type": "heading",
+        "text": "CAMP LifeGuard Europe 2024",
+        "level": 2
+      },
+      {
+        "type": "paragraph",
+        "text": "Generally, Camp Lifeguard, also known as the Shepherds’ Camp, is a 3-day training and equipping program for all leaders of our various branches. It provides an environment which conditions leaders to gain knowledge and understanding in that which they have been called to. We come together to learn what true leadership is all about (in and out of CYI) and how to be true Jesus followers who can lead His flock."
+      },
+      {
+        "type": "paragraph",
+        "text": "Particularly for CLG Europe, we are no different from the above vision. Since we do not always have the privilege of traveling to the headquarters in Ghana for the main CLG, we are blessed to be able to have a mini version right here. Gathering all branches in Europe including other interested people, we hope to replicate a similar environment and experience as from the main camps and have a touch of God to do good."
+      },
+      {
+        "type": "paragraph",
+        "text": "CYI’s Ahavah is a youth ministry with a vision of reaching out and transforming the lives of young people across the globe."
+      },
+      {
+        "type": "paragraph",
+        "text": "With this vision, anyone who is young or young at heart is qualified. we have no religious, gender, race or other conditions set for anyone to be able to attend. Anyone attending must simply respect the camp rules and understand that we are Christ people and so we follow Christ principles at camp."
+      },
+      {
+        "type": "paragraph",
+        "text": "An age restriction is however set to 13years."
+      },
+      {
+        "type": "paragraph",
+        "text": "So all are invited."
+      },
+      {
+        "type": "paragraph",
+        "text": "Schedule June 28th – July 2nd in Lille, France *Complete schedule will be sent after registration *Deadline for Registration is April 30, 2024, 23:59"
+      },
+      {
+        "type": "paragraph",
+        "text": "Fees €250 per attendee"
+      },
+      {
+        "type": "paragraph",
+        "text": "If you would like to take part in CLG Europe 2024, please fill in your details in this Registration Form below and you will be automatically registered. Registration must be completed at least thirty (30) days prior to the camp."
+      },
+      {
+        "type": "heading",
+        "text": "Personal Information",
+        "level": 3
+      },
+      {
+        "type": "heading",
+        "text": "Camp Information",
+        "level": 3
+      },
+      {
+        "type": "heading",
+        "text": "Health Information",
+        "level": 3
+      },
+      {
+        "type": "heading",
+        "text": "Payment Information",
+        "level": 3
+      }
+    ],
+    "formFieldSummary": [
+      {
+        "label": "First Name",
+        "type": "firstname",
+        "required": true
+      },
+      {
+        "label": "Last Name",
+        "type": "lastname",
+        "required": true
+      },
+      {
+        "label": "Date of Birth",
+        "type": "date",
+        "required": true
+      },
+      {
+        "label": "Gender",
+        "type": "listselect",
+        "required": true,
+        "options": [
+          "Kindly choose a gender",
+          "Male",
+          "Female"
+        ]
+      },
+      {
+        "label": "Email",
+        "type": "email",
+        "required": true
+      },
+      {
+        "label": "Phone Number",
+        "type": "phone",
+        "required": true
+      },
+      {
+        "label": "Branch",
+        "type": "listselect",
+        "required": true,
+        "options": [
+          "Kindly choose your Branch",
+          "None",
+          "Berlin (Germany)",
+          "Deurne (Belgium)",
+          "FDB Lille (France)",
+          "London (UK)",
+          "Michigan(USA)",
+          "Merksem (Belgium)"
+        ]
+      },
+      {
+        "label": "What are your expectations of this camp?",
+        "type": "textarea",
+        "required": false
+      },
+      {
+        "label": "T-Shirt/Sweater Size",
+        "type": "listselect",
+        "required": true,
+        "options": [
+          "S",
+          "M",
+          "L",
+          "XL"
+        ]
+      },
+      {
+        "label": "Do you have any disabilities? Please State (Leave Blank if No)",
+        "type": "textbox",
+        "required": false
+      },
+      {
+        "label": "Do you have any allergies? Please State (Leave Blank if No)",
+        "type": "textbox",
+        "required": false
+      },
+      {
+        "label": "Any Food Requirements? (Leave Blank if No)",
+        "type": "textbox",
+        "required": false
+      },
+      {
+        "label": "Have you taken or made plans to take a Corona test and are negative?",
+        "type": "listradio",
+        "required": true,
+        "options": [
+          "Yes"
+        ],
+        "helpText": "You are required to take a corona test before attending. Such information will be required before admission to any of our camp sites or venues. Please ensure that you follow all regulations in all countries or places you may be traveling from or transiting from. It is important that you are negative before attending. a proof of test may be required.By attending, you are also subject to a test on site using a PCR kit. This will be at the discretion of the health personnels at the camp. You cannot proceed if this is no."
+      },
+      {
+        "label": "Payment Method",
+        "type": "listselect",
+        "required": true,
+        "options": [
+          "Please choose your Payment Method",
+          "Paypal",
+          "Pay To President"
+        ]
+      },
+      {
+        "label": "Paypal username/email (if paypal option selected)",
+        "type": "email",
+        "required": false
+      }
+    ],
+    "formSections": [
+      {
+        "label": "Event Intro Description",
+        "blocks": [
+          {
+            "type": "paragraph",
+            "text": "If you would like to take part in CLG Europe 2024, please fill in your details in this Registration Form below and you will be automatically registered. Registration must be completed at least thirty (30) days prior to the camp."
+          }
+        ]
+      },
+      {
+        "label": "Personal Information",
+        "blocks": [
+          {
+            "type": "heading",
+            "text": "Personal Information",
+            "level": 3
+          }
+        ]
+      },
+      {
+        "label": "Camp Information",
+        "blocks": [
+          {
+            "type": "heading",
+            "text": "Camp Information",
+            "level": 3
+          }
+        ]
+      },
+      {
+        "label": "Health Information",
+        "blocks": [
+          {
+            "type": "heading",
+            "text": "Health Information",
+            "level": 3
+          }
+        ]
+      },
+      {
+        "label": "Payment Information",
+        "blocks": [
+          {
+            "type": "heading",
+            "text": "Payment Information",
+            "level": 3
+          }
+        ]
+      }
+    ],
+    "formProvider": "Ninja Forms",
+    "submissionUrl": "https://connectcyi.org/camp-lifeguard-2024-copy/",
+    "images": [
+      "/media/2023-02-B4ED0A55-431C-458C-ADE6-0E866921CD11-1.webp",
+      "/media/2023-02-7C333B8A-DE1B-49A8-9C4A-E3D542F85863.webp",
+      "/media/2023-02-E44B5CAC-84BD-4F7A-82FE-513C3D9B4927.webp"
+    ],
+    "videos": [],
+    "links": [],
+    "isHistorical": true,
+    "notes": [
+      "Historical page. Retain original event year and dates; do not present as current registration or current price.",
+      "Source title is The Jesus Tour – Lisbon 2024, but its form content is identical to Camp LifeGuard 2024 (/clgeurope/). Preserve title and disclose inherited form content; do not invent separate tour details."
+    ]
+  },
+  {
+    "id": 6179,
+    "slug": "glc2024-day-campers",
+    "title": "Global Leadership Camp 2024 (DAY CAMPERS)",
+    "sourceUrl": "https://connectcyi.org/glc2024-day-campers/",
+    "modified": "2023-11-21T10:26:47",
+    "published": "2023-10-16T11:51:20",
+    "classification": "historical-event-or-feedback",
+    "headings": [
+      "Global Leadership Camp 2024 (DAY CAMPERS)",
+      "Personal Information",
+      "Camp Information",
+      "Health Information"
+    ],
+    "bodyParagraphs": [
+      "If you would like to take part in Global Leadership Camp 2024 as a Day Camper.",
+      "The Day camper package comes at a fee of GHS300. Please note this fee still stands irrespective of the number of days you attend.",
+      "Please fill in your details in this Registration Form below and you will be automatically registered."
+    ],
+    "blocks": [
+      {
+        "type": "heading",
+        "text": "Global Leadership Camp 2024 (DAY CAMPERS)",
+        "level": 2
+      },
+      {
+        "type": "paragraph",
+        "text": "If you would like to take part in Global Leadership Camp 2024 as a Day Camper."
+      },
+      {
+        "type": "paragraph",
+        "text": "The Day camper package comes at a fee of GHS300. Please note this fee still stands irrespective of the number of days you attend."
+      },
+      {
+        "type": "paragraph",
+        "text": "Please fill in your details in this Registration Form below and you will be automatically registered."
+      },
+      {
+        "type": "heading",
+        "text": "Personal Information",
+        "level": 3
+      },
+      {
+        "type": "heading",
+        "text": "Camp Information",
+        "level": 3
+      },
+      {
+        "type": "heading",
+        "text": "Health Information",
+        "level": 3
+      }
+    ],
+    "formFieldSummary": [
+      {
+        "label": "First Name",
+        "type": "firstname",
+        "required": true
+      },
+      {
+        "label": "Last Name",
+        "type": "lastname",
+        "required": true
+      },
+      {
+        "label": "Date of Birth",
+        "type": "date",
+        "required": true
+      },
+      {
+        "label": "Gender",
+        "type": "listselect",
+        "required": true,
+        "options": [
+          "Kindly choose a gender",
+          "Male",
+          "Female"
+        ]
+      },
+      {
+        "label": "Email",
+        "type": "email",
+        "required": false
+      },
+      {
+        "label": "Phone Number",
+        "type": "phone",
+        "required": true
+      },
+      {
+        "label": "Branch",
+        "type": "listselect",
+        "required": true,
+        "options": [
+          "Kindly choose a branch",
+          "No Branch",
+          "Adenta",
+          "Ahwerase",
+          "Airport",
+          "Ashaiman",
+          "Ashongman",
+          "Awoshie",
+          "Berlin (Germany)",
+          "Dansoman",
+          "Deurne (Belgium)",
+          "Dome",
+          "East Legon",
+          "Kasoa",
+          "Kigali (Rwanda)",
+          "Korle-Bu",
+          "Lakeside",
+          "Last Stop",
+          "Lapaz",
+          "London (UK)",
+          "Lille (France)",
+          "Madina",
+          "Mataheko",
+          "Nima",
+          "North Kaneshie",
+          "Osu",
+          "Pokcity",
+          "Spintex",
+          "Taifa",
+          "Tamale",
+          "Teiman",
+          "Tema",
+          "Weija",
+          "Wesley Grammar"
+        ]
+      },
+      {
+        "label": "T-Shirt Size",
+        "type": "listselect",
+        "required": true,
+        "options": [
+          "S",
+          "M",
+          "L",
+          "XL",
+          "XXL",
+          "XXXL",
+          "XXXXL"
+        ]
+      },
+      {
+        "label": "How many times have you been to this camp?",
+        "type": "listselect",
+        "required": true,
+        "options": [
+          "None",
+          "One",
+          "Two",
+          "Three",
+          "Four",
+          "Five",
+          "Six",
+          "Seven",
+          "Eight",
+          "Nine",
+          "Ten",
+          "Eleven",
+          "Twelve",
+          "Thirteen",
+          "Fourteen"
+        ]
+      },
+      {
+        "label": "How many days do you plan on attending this camp?",
+        "type": "listselect",
+        "required": true,
+        "options": [
+          "One",
+          "Two",
+          "Three",
+          "Four",
+          "Five"
+        ]
+      },
+      {
+        "label": "Do you have any disabilities? Please State (Leave Blank if No)",
+        "type": "textbox",
+        "required": false
+      },
+      {
+        "label": "Kindly indicate if you have any of the following conditions",
+        "type": "listcheckbox",
+        "required": true,
+        "options": [
+          "Allergies",
+          "Asthma",
+          "Sickle cell disease (SS/SC)",
+          "Other long standing illness",
+          "None"
+        ]
+      },
+      {
+        "label": "Kindly state the long standing illness",
+        "type": "textbox",
+        "required": false
+      },
+      {
+        "label": "Kindly state what you are allergic to",
+        "type": "textbox",
+        "required": false
+      },
+      {
+        "label": "Any Food Requirements? (Leave Blank if No)",
+        "type": "textbox",
+        "required": false
+      }
+    ],
+    "formSections": [
+      {
+        "label": "Event Intro Description",
+        "blocks": [
+          {
+            "type": "paragraph",
+            "text": "If you would like to take part in Global Leadership Camp 2024 as a Day Camper."
+          },
+          {
+            "type": "paragraph",
+            "text": "The Day camper package comes at a fee of GHS300. Please note this fee still stands irrespective of the number of days you attend."
+          },
+          {
+            "type": "paragraph",
+            "text": "Please fill in your details in this Registration Form below and you will be automatically registered."
+          }
+        ]
+      },
+      {
+        "label": "Personal Information",
+        "blocks": [
+          {
+            "type": "heading",
+            "text": "Personal Information",
+            "level": 3
+          }
+        ]
+      },
+      {
+        "label": "Camp Information",
+        "blocks": [
+          {
+            "type": "heading",
+            "text": "Camp Information",
+            "level": 3
+          }
+        ]
+      },
+      {
+        "label": "Health Information",
+        "blocks": [
+          {
+            "type": "heading",
+            "text": "Health Information",
+            "level": 3
+          }
+        ]
+      }
+    ],
+    "formProvider": "Ninja Forms",
+    "submissionUrl": "https://connectcyi.org/glc2024-day-campers/",
+    "images": [],
+    "videos": [],
+    "links": [],
+    "isHistorical": true,
+    "notes": [
+      "Historical page. Retain original event year and dates; do not present as current registration or current price."
+    ]
+  },
+  {
+    "id": 6155,
+    "slug": "s2s2023",
+    "title": "S2S 2023",
+    "sourceUrl": "https://connectcyi.org/s2s2023/",
+    "modified": "2023-10-10T13:03:15",
+    "published": "2023-10-10T12:57:41",
+    "classification": "historical-event-or-feedback",
+    "headings": [
+      "S2S 2023"
+    ],
+    "bodyParagraphs": [
+      "Welcome to Saved 2 Serve 2023. We hope you have a wonderful experience and blessed by it."
+    ],
+    "blocks": [
+      {
+        "type": "heading",
+        "text": "S2S 2023",
+        "level": 2
+      },
+      {
+        "type": "paragraph",
+        "text": "Welcome to Saved 2 Serve 2023. We hope you have a wonderful experience and blessed by it."
+      }
+    ],
+    "formFieldSummary": [
+      {
+        "label": "First Name",
+        "type": "firstname",
+        "required": true
+      },
+      {
+        "label": "Last Name",
+        "type": "lastname",
+        "required": true
+      },
+      {
+        "label": "Email Address",
+        "type": "email",
+        "required": true
+      },
+      {
+        "label": "Phone Number",
+        "type": "textbox",
+        "required": true
+      }
+    ],
+    "formSections": [
+      {
+        "label": "Event Intro Description",
+        "blocks": [
+          {
+            "type": "paragraph",
+            "text": "Welcome to Saved 2 Serve 2023. We hope you have a wonderful experience and blessed by it."
+          }
+        ]
+      }
+    ],
+    "formProvider": "Ninja Forms",
+    "submissionUrl": "https://connectcyi.org/s2s2023/",
+    "images": [],
+    "videos": [],
+    "links": [],
+    "isHistorical": true,
+    "notes": [
+      "Historical page. Retain original event year and dates; do not present as current registration or current price."
+    ]
+  },
+  {
+    "id": 5176,
+    "slug": "family-games",
+    "title": "Family Games",
+    "sourceUrl": "https://connectcyi.org/family-games/",
+    "modified": "2024-03-25T12:47:47",
+    "published": "2023-04-01T21:39:37",
+    "classification": "historical-event-or-feedback",
+    "headings": [
+      "Family Games"
+    ],
+    "bodyParagraphs": [
+      "If you would like to take part in our Family Games, please fill in your details in this Registration Form below and you will be automatically registered."
+    ],
+    "blocks": [
+      {
+        "type": "heading",
+        "text": "Family Games",
+        "level": 2
+      },
+      {
+        "type": "paragraph",
+        "text": "If you would like to take part in our Family Games, please fill in your details in this Registration Form below and you will be automatically registered."
+      }
+    ],
+    "formFieldSummary": [
+      {
+        "label": "Full Name",
+        "type": "firstname",
+        "required": true
+      },
+      {
+        "label": "Email",
+        "type": "email",
+        "required": false
+      },
+      {
+        "label": "Branch",
+        "type": "listselect",
+        "required": true,
+        "options": [
+          "Kindly choose your Branch",
+          "New Member",
+          "Adenta",
+          "Ahwerase",
+          "Airport",
+          "Ashaiman",
+          "Ashongman",
+          "Awoshie",
+          "Berlin (Germany)",
+          "Dansoman",
+          "Deurne (Belgium)",
+          "Dome",
+          "East Legon",
+          "Kasoa",
+          "Kigali (Rwanda)",
+          "Korle-Bu",
+          "Lakeside",
+          "Last Stop",
+          "Lapaz",
+          "London (UK)",
+          "Lille (France)",
+          "Madina",
+          "Mataheko",
+          "Nima",
+          "North Kaneshie",
+          "Osu",
+          "Pokuase",
+          "Spintex",
+          "Taifa",
+          "Tamale",
+          "Teiman",
+          "Tema",
+          "Weija",
+          "Wesley Grammar"
+        ]
+      },
+      {
+        "label": "Family Outreach Group",
+        "type": "listselect",
+        "required": true,
+        "options": [
+          "Kindly choose your family outreach group",
+          "Unassigned",
+          "ATOMS",
+          "ACE",
+          "ALIVE",
+          "ARTS",
+          "ANGELS"
+        ]
+      },
+      {
+        "label": "Contact",
+        "type": "phone",
+        "required": true
+      }
+    ],
+    "formSections": [
+      {
+        "label": "Event Intro Description",
+        "blocks": [
+          {
+            "type": "paragraph",
+            "text": "If you would like to take part in our Family Games, please fill in your details in this Registration Form below and you will be automatically registered."
+          }
+        ]
+      }
+    ],
+    "formProvider": "Ninja Forms",
+    "submissionUrl": "https://connectcyi.org/family-games/",
+    "images": [],
+    "videos": [],
+    "links": [],
+    "isHistorical": true,
+    "notes": [
+      "Historical page. Retain original event year and dates; do not present as current registration or current price."
+    ]
+  },
+  {
+    "id": 4249,
+    "slug": "tickets",
+    "title": "S2S Tickets",
+    "sourceUrl": "https://connectcyi.org/tickets/",
+    "modified": "2024-08-24T07:16:19",
+    "published": "2022-07-11T10:47:29",
+    "classification": "historical-event-or-feedback",
+    "headings": [],
+    "bodyParagraphs": [
+      "Alternatively, you can purchase your tickets via WhatsApp or USSD:",
+      "All ticket purchases are in support of the program, and not necessarily for a specific/special seating arrangement.",
+      "Extra donation support can be channelled through this link. God bless you!"
+    ],
+    "blocks": [
+      {
+        "type": "paragraph",
+        "text": "Alternatively, you can purchase your tickets via WhatsApp or USSD:"
+      },
+      {
+        "type": "paragraph",
+        "text": "All ticket purchases are in support of the program, and not necessarily for a specific/special seating arrangement."
+      },
+      {
+        "type": "paragraph",
+        "text": "Extra donation support can be channelled through this link. God bless you!"
+      }
+    ],
+    "formFieldSummary": [],
+    "formSections": [],
+    "formProvider": null,
+    "submissionUrl": null,
+    "images": [
+      "/media/archive-2024-08-S2S-24-CONCERT-sq_4pm.webp",
+      "/media/archive-2022-07-TH.webp"
+    ],
+    "videos": [],
+    "links": [
+      {
+        "label": "tickets enabled by eGotickets.",
+        "url": "https://egotickets.com/?ref_noscript"
+      },
+      {
+        "label": "Buy on WhatsApp",
+        "url": "https://wa.me/233242426427?text=%23650%23"
+      },
+      {
+        "label": "Buy via USSD",
+        "url": "tel:*713*33*650#"
+      },
+      {
+        "label": "this link",
+        "url": "https://paystack.com/pay/bcaj3kp7j9"
+      }
+    ],
+    "isHistorical": true,
+    "notes": [
+      "Historical page. Retain original event year and dates; do not present as current registration or current price.",
+      "Embedded ticket widget and poster identify Saved 2 Serve Concert 2024. Preserve as an archive, not a currently purchasable event."
+    ],
+    "embedUrls": [
+      "https://egotickets.com/embed/saved-2-serve-concert-2024.js?skip_mobile=true"
+    ]
+  },
+  {
+    "id": 4067,
+    "slug": "rods-men-reference-form",
+    "title": "Rod’s Men – Reference Form",
+    "sourceUrl": "https://connectcyi.org/rods-men-reference-form/",
+    "modified": "2022-06-17T22:51:36",
+    "published": "2022-06-17T22:51:04",
+    "classification": "historical-event-or-feedback",
+    "headings": [
+      "Rod’s Men – Reference Form"
+    ],
+    "bodyParagraphs": [],
+    "blocks": [
+      {
+        "type": "heading",
+        "text": "Rod’s Men – Reference Form",
+        "level": 2
+      }
+    ],
+    "formFieldSummary": [
+      {
+        "label": "Name",
+        "type": "firstname",
+        "required": true
+      },
+      {
+        "label": "Branch",
+        "type": "listselect",
+        "required": true,
+        "options": [
+          "Kindly choose your Branch",
+          "Adenta",
+          "Ahwerase",
+          "Airport",
+          "Ashaiman",
+          "Ashongman",
+          "Awoshie",
+          "Berlin (Germany)",
+          "Dansoman",
+          "Deurne (Belgium)",
+          "Dome",
+          "East Legon",
+          "Kasoa",
+          "Kigali (Rwanda)",
+          "Korle-Bu",
+          "Lakeside",
+          "Last Stop",
+          "Lapaz",
+          "London (UK)",
+          "Lille (France)",
+          "Madina",
+          "Mataheko",
+          "Nima",
+          "North Kaneshie",
+          "Osu",
+          "Pokuase",
+          "Spintex",
+          "Taifa",
+          "Tamale",
+          "Teiman",
+          "Tema",
+          "Weija",
+          "Wesley Grammar"
+        ]
+      },
+      {
+        "label": "Amount (GHS)",
+        "type": "number",
+        "required": true
+      },
+      {
+        "label": "Month you are paying for",
+        "type": "listcheckbox",
+        "required": true,
+        "options": [
+          "August",
+          "September",
+          "October"
+        ]
+      },
+      {
+        "label": "Time the amount was sent",
+        "type": "date",
+        "required": true
+      },
+      {
+        "label": "Date the amount was sent",
+        "type": "date",
+        "required": true
+      }
+    ],
+    "formSections": [],
+    "formProvider": "Ninja Forms",
+    "submissionUrl": "https://connectcyi.org/rods-men-reference-form/",
+    "images": [],
+    "videos": [],
+    "links": [],
+    "isHistorical": true,
+    "notes": [
+      "Historical page. Retain original event year and dates; do not present as current registration or current price.",
+      "Source title says Reference Form, but the actual form records contribution amount, payment month, date and time. Describe the actual payment-record purpose, not a character-reference process.",
+      "Source last updated June 2022 and contains a fixed August–October giving term. Current campaign availability and financial terms are unconfirmed. The amounts are historical, not a new giving commitment."
+    ]
+  },
+  {
+    "id": 4062,
+    "slug": "rods-men",
+    "title": "Rod’s Men",
+    "sourceUrl": "https://connectcyi.org/rods-men/",
+    "modified": "2022-06-17T22:34:20",
+    "published": "2022-06-17T22:33:41",
+    "classification": "historical-event-or-feedback",
+    "headings": [
+      "Rod’s Men"
+    ],
+    "bodyParagraphs": [
+      "You are deciding to give a total of Gh¢300 for the fixed term of August, September and October combined."
+    ],
+    "blocks": [
+      {
+        "type": "heading",
+        "text": "Rod’s Men",
+        "level": 2
+      },
+      {
+        "type": "paragraph",
+        "text": "You are deciding to give a total of Gh¢300 for the fixed term of August, September and October combined."
+      }
+    ],
+    "formFieldSummary": [
+      {
+        "label": "Name",
+        "type": "firstname",
+        "required": true
+      },
+      {
+        "label": "Email",
+        "type": "email",
+        "required": false
+      },
+      {
+        "label": "Phone Number",
+        "type": "phone",
+        "required": true
+      },
+      {
+        "label": "Branch",
+        "type": "listselect",
+        "required": true,
+        "options": [
+          "Kindly choose your Branch",
+          "Adenta",
+          "Ahwerase",
+          "Airport",
+          "Ashaiman",
+          "Ashongman",
+          "Awoshie",
+          "Berlin (Germany)",
+          "Dansoman",
+          "Deurne (Belgium)",
+          "Dome",
+          "East Legon",
+          "Kasoa",
+          "Kigali (Rwanda)",
+          "Korle-Bu",
+          "Lakeside",
+          "Last Stop",
+          "Lapaz",
+          "London (UK)",
+          "Lille (France)",
+          "Madina",
+          "Mataheko",
+          "Nima",
+          "North Kaneshie",
+          "Osu",
+          "Pokuase",
+          "Spintex",
+          "Taifa",
+          "Tamale",
+          "Teiman",
+          "Tema",
+          "Weija",
+          "Wesley Grammar"
+        ]
+      },
+      {
+        "label": "Please sign by typing your full name",
+        "type": "firstname",
+        "required": true
+      }
+    ],
+    "formSections": [
+      {
+        "label": "Event Intro Description",
+        "blocks": [
+          {
+            "type": "paragraph",
+            "text": "You are deciding to give a total of Gh¢300 for the fixed term of August, September and October combined."
+          }
+        ]
+      }
+    ],
+    "formProvider": "Ninja Forms",
+    "submissionUrl": "https://connectcyi.org/rods-men/",
+    "images": [],
+    "videos": [],
+    "links": [],
+    "isHistorical": true,
+    "notes": [
+      "Historical page. Retain original event year and dates; do not present as current registration or current price.",
+      "Source last updated June 2022 and contains a fixed August–October giving term. Current campaign availability and financial terms are unconfirmed. The amounts are historical, not a new giving commitment."
+    ]
+  },
+  {
+    "id": 4024,
+    "slug": "be-deurne",
+    "title": "Deurne",
+    "sourceUrl": "https://connectcyi.org/be-deurne/",
+    "modified": "2022-06-19T10:37:05",
+    "published": "2022-06-12T19:27:51",
+    "classification": "member-service",
+    "headings": [
+      "Ahavah Deurne",
+      "RSVP"
+    ],
+    "bodyParagraphs": [],
+    "blocks": [
+      {
+        "type": "heading",
+        "text": "Ahavah Deurne",
+        "level": 1
+      },
+      {
+        "type": "heading",
+        "text": "RSVP",
+        "level": 2
+      }
+    ],
+    "formFieldSummary": [
+      {
+        "label": "First Name",
+        "type": "firstname",
+        "required": true
+      },
+      {
+        "label": "Last Name",
+        "type": "lastname",
+        "required": true
+      },
+      {
+        "label": "Email",
+        "type": "email",
+        "required": true
+      },
+      {
+        "label": "Phone",
+        "type": "phone",
+        "required": false
+      },
+      {
+        "label": "Comments",
+        "type": "textarea",
+        "required": false
+      }
+    ],
+    "formSections": [],
+    "formProvider": "Ninja Forms",
+    "submissionUrl": "https://connectcyi.org/be-deurne/",
+    "images": [],
+    "videos": [],
+    "links": [],
+    "isHistorical": false,
+    "notes": []
+  },
+  {
+    "id": 4005,
+    "slug": "onewayeurope",
+    "title": "Oneway Missions in Portugal 2022",
+    "sourceUrl": "https://connectcyi.org/onewayeurope/",
+    "modified": "2022-10-07T19:55:37",
+    "published": "2022-05-10T05:31:31",
+    "classification": "historical-event-or-feedback",
+    "headings": [
+      "Oneway Missions in Portugal 2022",
+      "Personal Information",
+      "Health Information",
+      "Missions Experience",
+      "Professional Information",
+      "select the options that apply",
+      "Payment Information"
+    ],
+    "bodyParagraphs": [
+      "One Way Mission Global is the outreach wing of the ministry. We believe that as a ministry we have been saved to serve others and that we have a responsibility of reaching others with the Gospel for Christ. The One Way Missions Global team oversees all mission works done at various levels. Missionary work may vary from one day to two weeks or more.",
+      "Going on missions is about the most fulfilling decision anyone can take in his or her life. It does not just involve bringing change to the lives of people and giving them hope but it also includes you the missionary going through major changes and turning points. A lot of people go on missions to bless others and return blessed. Some go to teach and they get taught. God simply adds to the life of a missionary. The most effective mission trips are ones where people understand what they are jumping into so below are a few requirements for joining this missions trip.",
+      "1. You must be at least 17years old before or on the first day of missions. 2. You must be ready to commit yourself 100% from the 31st of July to the 8th of August to the missions trip and its activities. 3. You must be willing to put to use all of your skills, abilities and gifts for the betterment of others 4. Missionary trips can be very uncomfortable and humbling. You must be ready to live under any provided condition and to follow instructions. 5. You must complete all training and orientation processes before the first day of missions. Missing any of the mentioned can cause your withdrawal from the trip. 6. Our stories and the transformations we have had are what brings change to many, you must be ready to share your transformation stories, and other life experiences (both good and bad) with the rest of the missionaries and with other people we meet on the mission field. 7. You must be willing to work together with other people and ready to share facility and items with others including rooms, bathrooms, etc. If you do not meet any of these requirements, feel free to discuss with us on how you can develop or get better at them."
+    ],
+    "blocks": [
+      {
+        "type": "heading",
+        "text": "Oneway Missions in Portugal 2022",
+        "level": 2
+      },
+      {
+        "type": "paragraph",
+        "text": "One Way Mission Global is the outreach wing of the ministry. We believe that as a ministry we have been saved to serve others and that we have a responsibility of reaching others with the Gospel for Christ. The One Way Missions Global team oversees all mission works done at various levels. Missionary work may vary from one day to two weeks or more."
+      },
+      {
+        "type": "paragraph",
+        "text": "Going on missions is about the most fulfilling decision anyone can take in his or her life. It does not just involve bringing change to the lives of people and giving them hope but it also includes you the missionary going through major changes and turning points. A lot of people go on missions to bless others and return blessed. Some go to teach and they get taught. God simply adds to the life of a missionary. The most effective mission trips are ones where people understand what they are jumping into so below are a few requirements for joining this missions trip."
+      },
+      {
+        "type": "paragraph",
+        "text": "1. You must be at least 17years old before or on the first day of missions. 2. You must be ready to commit yourself 100% from the 31st of July to the 8th of August to the missions trip and its activities. 3. You must be willing to put to use all of your skills, abilities and gifts for the betterment of others 4. Missionary trips can be very uncomfortable and humbling. You must be ready to live under any provided condition and to follow instructions. 5. You must complete all training and orientation processes before the first day of missions. Missing any of the mentioned can cause your withdrawal from the trip. 6. Our stories and the transformations we have had are what brings change to many, you must be ready to share your transformation stories, and other life experiences (both good and bad) with the rest of the missionaries and with other people we meet on the mission field. 7. You must be willing to work together with other people and ready to share facility and items with others including rooms, bathrooms, etc. If you do not meet any of these requirements, feel free to discuss with us on how you can develop or get better at them."
+      },
+      {
+        "type": "heading",
+        "text": "Personal Information",
+        "level": 3
+      },
+      {
+        "type": "heading",
+        "text": "Health Information",
+        "level": 3
+      },
+      {
+        "type": "heading",
+        "text": "Missions Experience",
+        "level": 3
+      },
+      {
+        "type": "heading",
+        "text": "Professional Information",
+        "level": 3
+      },
+      {
+        "type": "heading",
+        "text": "select the options that apply",
+        "level": 3
+      },
+      {
+        "type": "heading",
+        "text": "Payment Information",
+        "level": 3
+      }
+    ],
+    "formFieldSummary": [
+      {
+        "label": "First Name",
+        "type": "firstname",
+        "required": true
+      },
+      {
+        "label": "Last Name",
+        "type": "lastname",
+        "required": true
+      },
+      {
+        "label": "Date of Birth",
+        "type": "date",
+        "required": true
+      },
+      {
+        "label": "Gender",
+        "type": "listselect",
+        "required": true,
+        "options": [
+          "Kindly choose a gender",
+          "Male",
+          "Female"
+        ]
+      },
+      {
+        "label": "Email",
+        "type": "email",
+        "required": true
+      },
+      {
+        "label": "Phone Number",
+        "type": "phone",
+        "required": true
+      },
+      {
+        "label": "Branch",
+        "type": "listselect",
+        "required": true,
+        "options": [
+          "Kindly choose your Branch",
+          "None",
+          "Berlin (Germany)",
+          "Deurne (Belgium)",
+          "FDB Lille (France)",
+          "London (UK)",
+          "Michigan(USA)"
+        ]
+      },
+      {
+        "label": "Jacket Size",
+        "type": "listselect",
+        "required": true,
+        "options": [
+          "S",
+          "M",
+          "L",
+          "XL",
+          "XXL"
+        ]
+      },
+      {
+        "label": "Do you have any disabilities? Please State (Leave Blank if No)",
+        "type": "textbox",
+        "required": false
+      },
+      {
+        "label": "Do you have any allergies? Please State (Leave Blank if No)",
+        "type": "textbox",
+        "required": false
+      },
+      {
+        "label": "Any Food Requirements? (Leave Blank if No)",
+        "type": "textbox",
+        "required": false
+      },
+      {
+        "label": "Have you taken or made plans to take a Corona test and are negative?",
+        "type": "listradio",
+        "required": true,
+        "options": [
+          "Yes"
+        ],
+        "helpText": "You are required to take a corona test before attending. Such information will be required before admission to any of our camp sites or venues. Please ensure that you follow all regulations in all countries or places you may be traveling from or transiting from. It is important that you are negative before attending. a proof of test may be required.By attending, you are also subject to a test on site using a PCR kit. This will be at the discretion of the health personnels at the camp. You cannot proceed if this is no."
+      },
+      {
+        "label": "Have you ever been on missions? If yes, please share the experience.",
+        "type": "textarea",
+        "required": false
+      },
+      {
+        "label": "Why is missions important to you?",
+        "type": "textarea",
+        "required": true
+      },
+      {
+        "label": "Student",
+        "type": "checkbox",
+        "required": false
+      },
+      {
+        "label": "Working",
+        "type": "checkbox",
+        "required": false
+      },
+      {
+        "label": "Job seeker",
+        "type": "checkbox",
+        "required": false
+      },
+      {
+        "label": "What Spiritual Gifts do you believe to have?",
+        "type": "textbox",
+        "required": true,
+        "helpText": "Please list down only the gifts you are confident to have received?"
+      },
+      {
+        "label": "What Spiritual Gifts do you desire?",
+        "type": "textbox",
+        "required": true,
+        "helpText": "Please list down only the gifts you are not sure of having or do not have at all but desire to have"
+      },
+      {
+        "label": "What skills do you have?",
+        "type": "textbox",
+        "required": true,
+        "helpText": "This both trained and untrained skills you may have including your profession and natural abilities. eg: Software Engineer, cooking, people skills, writing, planning, football, etc"
+      },
+      {
+        "label": "What are your hobbies?",
+        "type": "textbox",
+        "required": false
+      },
+      {
+        "label": "Describe your current activities and status?",
+        "type": "textarea",
+        "required": true,
+        "helpText": "This is a good place to include your qualifications, ambitions and any other thing you would love others to see in your public profile."
+      },
+      {
+        "label": "Payment Method",
+        "type": "listselect",
+        "required": true,
+        "options": [
+          "Please choose your Payment Method",
+          "Paypal",
+          "Pay To President"
+        ]
+      },
+      {
+        "label": "Paypal username/email (if paypal option selected)",
+        "type": "email",
+        "required": false
+      }
+    ],
+    "formSections": [
+      {
+        "label": "Personal Information",
+        "blocks": [
+          {
+            "type": "heading",
+            "text": "Personal Information",
+            "level": 3
+          }
+        ]
+      },
+      {
+        "label": "Health Information",
+        "blocks": [
+          {
+            "type": "heading",
+            "text": "Health Information",
+            "level": 3
+          }
+        ]
+      },
+      {
+        "label": "Missions Experience",
+        "blocks": [
+          {
+            "type": "heading",
+            "text": "Missions Experience",
+            "level": 3
+          }
+        ]
+      },
+      {
+        "label": "Professional Information",
+        "blocks": [
+          {
+            "type": "heading",
+            "text": "Professional Information",
+            "level": 3
+          }
+        ]
+      },
+      {
+        "label": "select the options that apply",
+        "blocks": [
+          {
+            "type": "heading",
+            "text": "select the options that apply",
+            "level": 3
+          }
+        ]
+      },
+      {
+        "label": "Payment Information",
+        "blocks": [
+          {
+            "type": "heading",
+            "text": "Payment Information",
+            "level": 3
+          }
+        ]
+      }
+    ],
+    "formProvider": "Ninja Forms",
+    "submissionUrl": "https://connectcyi.org/onewayeurope/",
+    "images": [
+      "/media/2020-07-IMG-20191103-WA0026.webp",
+      "/media/archive-2021-07-Berlin-Summer-CYI-e1625116285871.webp"
+    ],
+    "videos": [],
+    "links": [],
+    "isHistorical": true,
+    "notes": [
+      "Historical page. Retain original event year and dates; do not present as current registration or current price."
+    ]
+  },
+  {
+    "id": 3903,
+    "slug": "clgeurope",
+    "title": "Camp LifeGuard 2024",
+    "sourceUrl": "https://connectcyi.org/clgeurope/",
+    "modified": "2024-03-03T11:26:37",
+    "published": "2022-02-15T23:47:39",
+    "classification": "historical-event-or-feedback",
+    "headings": [
+      "CAMP LifeGuard Europe 2024",
+      "Personal Information",
+      "Camp Information",
+      "Health Information",
+      "Payment Information"
+    ],
+    "bodyParagraphs": [
+      "Generally, Camp Lifeguard, also known as the Shepherds’ Camp, is a 3-day training and equipping program for all leaders of our various branches. It provides an environment which conditions leaders to gain knowledge and understanding in that which they have been called to. We come together to learn what true leadership is all about (in and out of CYI) and how to be true Jesus followers who can lead His flock.",
+      "Particularly for CLG Europe, we are no different from the above vision. Since we do not always have the privilege of traveling to the headquarters in Ghana for the main CLG, we are blessed to be able to have a mini version right here. Gathering all branches in Europe including other interested people, we hope to replicate a similar environment and experience as from the main camps and have a touch of God to do good.",
+      "CYI’s Ahavah is a youth ministry with a vision of reaching out and transforming the lives of young people across the globe.",
+      "With this vision, anyone who is young or young at heart is qualified. we have no religious, gender, race or other conditions set for anyone to be able to attend. Anyone attending must simply respect the camp rules and understand that we are Christ people and so we follow Christ principles at camp.",
+      "An age restriction is however set to 13years.",
+      "So all are invited.",
+      "Schedule June 28th – July 2nd in Lille, France *Complete schedule will be sent after registration *Deadline for Registration is April 30, 2024, 23:59",
+      "Fees €250 per attendee",
+      "If you would like to take part in CLG Europe 2024, please fill in your details in this Registration Form below and you will be automatically registered. Registration must be completed at least thirty (30) days prior to the camp."
+    ],
+    "blocks": [
+      {
+        "type": "heading",
+        "text": "CAMP LifeGuard Europe 2024",
+        "level": 2
+      },
+      {
+        "type": "paragraph",
+        "text": "Generally, Camp Lifeguard, also known as the Shepherds’ Camp, is a 3-day training and equipping program for all leaders of our various branches. It provides an environment which conditions leaders to gain knowledge and understanding in that which they have been called to. We come together to learn what true leadership is all about (in and out of CYI) and how to be true Jesus followers who can lead His flock."
+      },
+      {
+        "type": "paragraph",
+        "text": "Particularly for CLG Europe, we are no different from the above vision. Since we do not always have the privilege of traveling to the headquarters in Ghana for the main CLG, we are blessed to be able to have a mini version right here. Gathering all branches in Europe including other interested people, we hope to replicate a similar environment and experience as from the main camps and have a touch of God to do good."
+      },
+      {
+        "type": "paragraph",
+        "text": "CYI’s Ahavah is a youth ministry with a vision of reaching out and transforming the lives of young people across the globe."
+      },
+      {
+        "type": "paragraph",
+        "text": "With this vision, anyone who is young or young at heart is qualified. we have no religious, gender, race or other conditions set for anyone to be able to attend. Anyone attending must simply respect the camp rules and understand that we are Christ people and so we follow Christ principles at camp."
+      },
+      {
+        "type": "paragraph",
+        "text": "An age restriction is however set to 13years."
+      },
+      {
+        "type": "paragraph",
+        "text": "So all are invited."
+      },
+      {
+        "type": "paragraph",
+        "text": "Schedule June 28th – July 2nd in Lille, France *Complete schedule will be sent after registration *Deadline for Registration is April 30, 2024, 23:59"
+      },
+      {
+        "type": "paragraph",
+        "text": "Fees €250 per attendee"
+      },
+      {
+        "type": "paragraph",
+        "text": "If you would like to take part in CLG Europe 2024, please fill in your details in this Registration Form below and you will be automatically registered. Registration must be completed at least thirty (30) days prior to the camp."
+      },
+      {
+        "type": "heading",
+        "text": "Personal Information",
+        "level": 3
+      },
+      {
+        "type": "heading",
+        "text": "Camp Information",
+        "level": 3
+      },
+      {
+        "type": "heading",
+        "text": "Health Information",
+        "level": 3
+      },
+      {
+        "type": "heading",
+        "text": "Payment Information",
+        "level": 3
+      }
+    ],
+    "formFieldSummary": [
+      {
+        "label": "First Name",
+        "type": "firstname",
+        "required": true
+      },
+      {
+        "label": "Last Name",
+        "type": "lastname",
+        "required": true
+      },
+      {
+        "label": "Date of Birth",
+        "type": "date",
+        "required": true
+      },
+      {
+        "label": "Gender",
+        "type": "listselect",
+        "required": true,
+        "options": [
+          "Kindly choose a gender",
+          "Male",
+          "Female"
+        ]
+      },
+      {
+        "label": "Email",
+        "type": "email",
+        "required": true
+      },
+      {
+        "label": "Phone Number",
+        "type": "phone",
+        "required": true
+      },
+      {
+        "label": "Branch",
+        "type": "listselect",
+        "required": true,
+        "options": [
+          "Kindly choose your Branch",
+          "None",
+          "Berlin (Germany)",
+          "Deurne (Belgium)",
+          "FDB Lille (France)",
+          "London (UK)",
+          "Michigan(USA)",
+          "Merksem (Belgium)"
+        ]
+      },
+      {
+        "label": "What are your expectations of this camp?",
+        "type": "textarea",
+        "required": false
+      },
+      {
+        "label": "T-Shirt/Sweater Size",
+        "type": "listselect",
+        "required": true,
+        "options": [
+          "S",
+          "M",
+          "L",
+          "XL"
+        ]
+      },
+      {
+        "label": "Do you have any disabilities? Please State (Leave Blank if No)",
+        "type": "textbox",
+        "required": false
+      },
+      {
+        "label": "Do you have any allergies? Please State (Leave Blank if No)",
+        "type": "textbox",
+        "required": false
+      },
+      {
+        "label": "Any Food Requirements? (Leave Blank if No)",
+        "type": "textbox",
+        "required": false
+      },
+      {
+        "label": "Have you taken or made plans to take a Corona test and are negative?",
+        "type": "listradio",
+        "required": true,
+        "options": [
+          "Yes"
+        ],
+        "helpText": "You are required to take a corona test before attending. Such information will be required before admission to any of our camp sites or venues. Please ensure that you follow all regulations in all countries or places you may be traveling from or transiting from. It is important that you are negative before attending. a proof of test may be required.By attending, you are also subject to a test on site using a PCR kit. This will be at the discretion of the health personnels at the camp. You cannot proceed if this is no."
+      },
+      {
+        "label": "Payment Method",
+        "type": "listselect",
+        "required": true,
+        "options": [
+          "Please choose your Payment Method",
+          "Paypal",
+          "Pay To President"
+        ]
+      },
+      {
+        "label": "Paypal username/email (if paypal option selected)",
+        "type": "email",
+        "required": false
+      }
+    ],
+    "formSections": [
+      {
+        "label": "Event Intro Description",
+        "blocks": [
+          {
+            "type": "paragraph",
+            "text": "If you would like to take part in CLG Europe 2024, please fill in your details in this Registration Form below and you will be automatically registered. Registration must be completed at least thirty (30) days prior to the camp."
+          }
+        ]
+      },
+      {
+        "label": "Personal Information",
+        "blocks": [
+          {
+            "type": "heading",
+            "text": "Personal Information",
+            "level": 3
+          }
+        ]
+      },
+      {
+        "label": "Camp Information",
+        "blocks": [
+          {
+            "type": "heading",
+            "text": "Camp Information",
+            "level": 3
+          }
+        ]
+      },
+      {
+        "label": "Health Information",
+        "blocks": [
+          {
+            "type": "heading",
+            "text": "Health Information",
+            "level": 3
+          }
+        ]
+      },
+      {
+        "label": "Payment Information",
+        "blocks": [
+          {
+            "type": "heading",
+            "text": "Payment Information",
+            "level": 3
+          }
+        ]
+      }
+    ],
+    "formProvider": "Ninja Forms",
+    "submissionUrl": "https://connectcyi.org/clgeurope/",
+    "images": [
+      "/media/2023-02-B4ED0A55-431C-458C-ADE6-0E866921CD11-1.webp",
+      "/media/2023-02-7C333B8A-DE1B-49A8-9C4A-E3D542F85863.webp",
+      "/media/2023-02-E44B5CAC-84BD-4F7A-82FE-513C3D9B4927.webp"
+    ],
+    "videos": [],
+    "links": [],
+    "isHistorical": true,
+    "notes": [
+      "Historical page. Retain original event year and dates; do not present as current registration or current price."
+    ]
+  },
+  {
+    "id": 3876,
+    "slug": "ventured-out-training-session-january-edition-feedback",
+    "title": "Ventured Out Training Session – January Edition Feedback",
+    "sourceUrl": "https://connectcyi.org/ventured-out-training-session-january-edition-feedback/",
+    "modified": "2022-01-31T13:12:07",
+    "published": "2022-01-31T13:10:20",
+    "classification": "historical-event-or-feedback",
+    "headings": [
+      "Ventured Out Training Session - January Edition Feedback"
+    ],
+    "bodyParagraphs": [],
+    "blocks": [
+      {
+        "type": "heading",
+        "text": "Ventured Out Training Session - January Edition Feedback",
+        "level": 2
+      }
+    ],
+    "formFieldSummary": [
+      {
+        "label": "How did you hear about the training?",
+        "type": "textbox",
+        "required": true
+      },
+      {
+        "label": "The venue of the training was convenient for me?",
+        "type": "listselect",
+        "required": true,
+        "options": [
+          "Kindly select a rating",
+          "1 - Excellent",
+          "2 - Good",
+          "3 - Fair",
+          "4 - Bad",
+          "5 - Very Bad"
+        ]
+      },
+      {
+        "label": "The timing of the training was convenient for me?",
+        "type": "listselect",
+        "required": true,
+        "options": [
+          "Kindly select a rating",
+          "1 - Excellent",
+          "2 - Good",
+          "3 - Fair",
+          "4 - Bad",
+          "5 - Very Bad"
+        ]
+      },
+      {
+        "label": "The material/topic presented on was relevant and helpful to me?",
+        "type": "listselect",
+        "required": true,
+        "options": [
+          "Kindly select a rating",
+          "1 - Excellent",
+          "2 - Good",
+          "3 - Fair",
+          "4 - Bad",
+          "5 - Very Bad"
+        ]
+      },
+      {
+        "label": "The moderator presented the material in clear understanding?",
+        "type": "listselect",
+        "required": true,
+        "options": [
+          "Kindly select a rating",
+          "1 - Excellent",
+          "2 - Good",
+          "3 - Fair",
+          "4 - Bad",
+          "5 - Very Bad"
+        ]
+      },
+      {
+        "label": "My expectations for the training was met?",
+        "type": "listselect",
+        "required": true,
+        "options": [
+          "Kindly select a rating",
+          "1 - Excellent",
+          "2 - Good",
+          "3 - Fair",
+          "4 - Bad",
+          "5 - Very Bad"
+        ]
+      },
+      {
+        "label": "What was your key take away from the training?",
+        "type": "textarea",
+        "required": true
+      },
+      {
+        "label": "How would you implement the information you gathered from the training?",
+        "type": "textarea",
+        "required": true
+      },
+      {
+        "label": "How can we improve the Ventured Training?",
+        "type": "textarea",
+        "required": true
+      }
+    ],
+    "formSections": [],
+    "formProvider": "Ninja Forms",
+    "submissionUrl": "https://connectcyi.org/ventured-out-training-session-january-edition-feedback/",
+    "images": [],
+    "videos": [],
+    "links": [],
+    "isHistorical": true,
+    "notes": [
+      "Historical page. Retain original event year and dates; do not present as current registration or current price."
+    ]
+  },
+  {
+    "id": 3743,
+    "slug": "glc2023",
+    "title": "GLC 2023 LATE REGISTRATION",
+    "sourceUrl": "https://connectcyi.org/glc2023/",
+    "modified": "2022-12-24T20:03:14",
+    "published": "2021-12-27T14:03:55",
+    "classification": "historical-event-or-feedback",
+    "headings": [
+      "GLC 2023 LATE REGISTRATION",
+      "Personal Information",
+      "Camp Information",
+      "Health Information",
+      "Payment Information"
+    ],
+    "bodyParagraphs": [
+      "If you would like to take part in Global Leadership Camp 2023, please fill in your details in this Registration Form below and you will be automatically registered. Registration must be completed at least seven (7) days prior to the camp."
+    ],
+    "blocks": [
+      {
+        "type": "heading",
+        "text": "GLC 2023 LATE REGISTRATION",
+        "level": 2
+      },
+      {
+        "type": "paragraph",
+        "text": "If you would like to take part in Global Leadership Camp 2023, please fill in your details in this Registration Form below and you will be automatically registered. Registration must be completed at least seven (7) days prior to the camp."
+      },
+      {
+        "type": "heading",
+        "text": "Personal Information",
+        "level": 3
+      },
+      {
+        "type": "heading",
+        "text": "Camp Information",
+        "level": 3
+      },
+      {
+        "type": "heading",
+        "text": "Health Information",
+        "level": 3
+      },
+      {
+        "type": "heading",
+        "text": "Payment Information",
+        "level": 3
+      }
+    ],
+    "formFieldSummary": [
+      {
+        "label": "First Name",
+        "type": "firstname",
+        "required": true
+      },
+      {
+        "label": "Last Name",
+        "type": "lastname",
+        "required": true
+      },
+      {
+        "label": "Date of Birth",
+        "type": "date",
+        "required": true
+      },
+      {
+        "label": "Gender",
+        "type": "listselect",
+        "required": true,
+        "options": [
+          "Kindly choose a gender",
+          "Male",
+          "Female"
+        ]
+      },
+      {
+        "label": "Email",
+        "type": "email",
+        "required": false
+      },
+      {
+        "label": "Phone Number",
+        "type": "phone",
+        "required": true
+      },
+      {
+        "label": "Branch",
+        "type": "listselect",
+        "required": true,
+        "options": [
+          "Kindly choose your Branch",
+          "Adenta",
+          "Ahwerase",
+          "Airport",
+          "Ashaiman",
+          "Ashongman",
+          "Awoshie",
+          "Berlin (Germany)",
+          "Dansoman",
+          "Deurne (Belgium)",
+          "Dome",
+          "East Legon",
+          "Kasoa",
+          "Kigali (Rwanda)",
+          "Korle-Bu",
+          "Lakeside",
+          "Last Stop",
+          "Lapaz",
+          "London (UK)",
+          "Lille (France)",
+          "Madina",
+          "Mataheko",
+          "Nima",
+          "North Kaneshie",
+          "Osu",
+          "Pokcity",
+          "Spintex",
+          "Taifa",
+          "Tamale",
+          "Teiman",
+          "Tema",
+          "Weija",
+          "Wesley Grammar"
+        ]
+      },
+      {
+        "label": "How many times have you been to this camp",
+        "type": "listselect",
+        "required": true,
+        "options": [
+          "None",
+          "One",
+          "Two",
+          "Three",
+          "Four",
+          "Five",
+          "Six",
+          "Seven",
+          "Eight",
+          "Nine",
+          "Ten",
+          "Eleven",
+          "Twelve",
+          "Thirteen",
+          "Fourteen",
+          "Fifteen"
+        ]
+      },
+      {
+        "label": "In a few words describe your previous camp experience",
+        "type": "textarea",
+        "required": false
+      },
+      {
+        "label": "What are your expectations of this year's camp?",
+        "type": "textarea",
+        "required": false
+      },
+      {
+        "label": "T-Shirt Size",
+        "type": "listselect",
+        "required": true,
+        "options": [
+          "S",
+          "M",
+          "L",
+          "XL",
+          "XXL",
+          "XXXL",
+          "XXXXL"
+        ]
+      },
+      {
+        "label": "Do you have any disabilities? Please State (Leave Blank if No)",
+        "type": "textbox",
+        "required": false
+      },
+      {
+        "label": "Do you have any allergies? Please State (Leave Blank if No)",
+        "type": "textbox",
+        "required": false
+      },
+      {
+        "label": "Any Food Requirements? (Leave Blank if No)",
+        "type": "textbox",
+        "required": false
+      },
+      {
+        "label": "Payment Method",
+        "type": "listselect",
+        "required": true,
+        "options": [
+          "Please choose your Payment Method",
+          "Pay To President"
+        ]
+      }
+    ],
+    "formSections": [
+      {
+        "label": "Event Intro Description",
+        "blocks": [
+          {
+            "type": "paragraph",
+            "text": "If you would like to take part in Global Leadership Camp 2023, please fill in your details in this Registration Form below and you will be automatically registered. Registration must be completed at least seven (7) days prior to the camp."
+          }
+        ]
+      },
+      {
+        "label": "Personal Information",
+        "blocks": [
+          {
+            "type": "heading",
+            "text": "Personal Information",
+            "level": 3
+          }
+        ]
+      },
+      {
+        "label": "Camp Information",
+        "blocks": [
+          {
+            "type": "heading",
+            "text": "Camp Information",
+            "level": 3
+          }
+        ]
+      },
+      {
+        "label": "Health Information",
+        "blocks": [
+          {
+            "type": "heading",
+            "text": "Health Information",
+            "level": 3
+          }
+        ]
+      },
+      {
+        "label": "Payment Information",
+        "blocks": [
+          {
+            "type": "heading",
+            "text": "Payment Information",
+            "level": 3
+          }
+        ]
+      }
+    ],
+    "formProvider": "Ninja Forms",
+    "submissionUrl": "https://connectcyi.org/glc2023/",
+    "images": [],
+    "videos": [],
+    "links": [],
+    "isHistorical": true,
+    "notes": [
+      "Historical page. Retain original event year and dates; do not present as current registration or current price."
+    ]
+  },
+  {
+    "id": 2522,
+    "slug": "marriage-preparation-course",
+    "title": "Marriage Preparation Course",
+    "sourceUrl": "https://connectcyi.org/marriage-preparation-course/",
+    "modified": "2024-01-24T14:13:42",
+    "published": "2021-09-15T18:37:40",
+    "classification": "historical-event-or-feedback",
+    "headings": [
+      "MARRIAGE PREPARATION COURSE"
+    ],
+    "bodyParagraphs": [
+      "The preparation and foundation for marriage determines one's experience during the marriage. It is one thing preparing for a wedding and another thing preparing for a good marriage.",
+      "This is not a counseling session but a marriage school which serves as a foundation for a great counseling session and marriage.",
+      "Who Qualifies for this Marriage School?:",
+      "1)A couple(a man and a woman) in a serious relationship who are preparing towards getting married in the next year or two.",
+      "2)It is open to both CYI and non-CYI members.",
+      "Duration for School:",
+      "The duration for the program is six (6) meetings and each meeting is going to be for 2 hours. The proposed time for the school is Sunday afternoon after church.",
+      "The first session of this school begins on the Sunday 4th February, 2024 and will run for a period of six (6) weeks.",
+      "Meetings are going to be physical and not virtual."
+    ],
+    "blocks": [
+      {
+        "type": "heading",
+        "text": "MARRIAGE PREPARATION COURSE",
+        "level": 2
+      },
+      {
+        "type": "paragraph",
+        "text": "The preparation and foundation for marriage determines one's experience during the marriage. It is one thing preparing for a wedding and another thing preparing for a good marriage."
+      },
+      {
+        "type": "paragraph",
+        "text": "This is not a counseling session but a marriage school which serves as a foundation for a great counseling session and marriage."
+      },
+      {
+        "type": "paragraph",
+        "text": "Who Qualifies for this Marriage School?:"
+      },
+      {
+        "type": "paragraph",
+        "text": "1)A couple(a man and a woman) in a serious relationship who are preparing towards getting married in the next year or two."
+      },
+      {
+        "type": "paragraph",
+        "text": "2)It is open to both CYI and non-CYI members."
+      },
+      {
+        "type": "paragraph",
+        "text": "Duration for School:"
+      },
+      {
+        "type": "paragraph",
+        "text": "The duration for the program is six (6) meetings and each meeting is going to be for 2 hours. The proposed time for the school is Sunday afternoon after church."
+      },
+      {
+        "type": "paragraph",
+        "text": "The first session of this school begins on the Sunday 4th February, 2024 and will run for a period of six (6) weeks."
+      },
+      {
+        "type": "paragraph",
+        "text": "Meetings are going to be physical and not virtual."
+      }
+    ],
+    "formFieldSummary": [
+      {
+        "label": "Full Name",
+        "type": "firstname",
+        "required": true
+      },
+      {
+        "label": "Email Address",
+        "type": "email",
+        "required": true
+      },
+      {
+        "label": "Phone Number",
+        "type": "phone",
+        "required": true
+      },
+      {
+        "label": "Partner's Name",
+        "type": "lastname",
+        "required": true
+      },
+      {
+        "label": "How long have you been in a relationship?",
+        "type": "textbox",
+        "required": true
+      },
+      {
+        "label": "When are you hoping to get married?",
+        "type": "textbox",
+        "required": true
+      },
+      {
+        "label": "Church Denomination",
+        "type": "textbox",
+        "required": true
+      }
+    ],
+    "formSections": [
+      {
+        "label": "Event Intro Description",
+        "blocks": [
+          {
+            "type": "paragraph",
+            "text": "The preparation and foundation for marriage determines one's experience during the marriage. It is one thing preparing for a wedding and another thing preparing for a good marriage."
+          },
+          {
+            "type": "paragraph",
+            "text": "This is not a counseling session but a marriage school which serves as a foundation for a great counseling session and marriage."
+          },
+          {
+            "type": "paragraph",
+            "text": "Who Qualifies for this Marriage School?:"
+          },
+          {
+            "type": "paragraph",
+            "text": "1)A couple(a man and a woman) in a serious relationship who are preparing towards getting married in the next year or two."
+          },
+          {
+            "type": "paragraph",
+            "text": "2)It is open to both CYI and non-CYI members."
+          },
+          {
+            "type": "paragraph",
+            "text": "Duration for School:"
+          },
+          {
+            "type": "paragraph",
+            "text": "The duration for the program is six (6) meetings and each meeting is going to be for 2 hours. The proposed time for the school is Sunday afternoon after church."
+          },
+          {
+            "type": "paragraph",
+            "text": "The first session of this school begins on the Sunday 4th February, 2024 and will run for a period of six (6) weeks."
+          },
+          {
+            "type": "paragraph",
+            "text": "Meetings are going to be physical and not virtual."
+          }
+        ]
+      }
+    ],
+    "formProvider": "Ninja Forms",
+    "submissionUrl": "https://connectcyi.org/marriage-preparation-course/",
+    "images": [],
+    "videos": [],
+    "links": [],
+    "isHistorical": true,
+    "notes": [
+      "Historical page. Retain original event year and dates; do not present as current registration or current price.",
+      "Course overview is useful, but the stated first session was 4 February 2024; retain the course description while directing enquiries about a future cohort to CYI."
+    ]
+  },
+  {
+    "id": 2496,
+    "slug": "presidents-and-directors-retreat-2022",
+    "title": "Presidents and Directors Retreat 2022",
+    "sourceUrl": "https://connectcyi.org/presidents-and-directors-retreat-2022/",
+    "modified": "2021-09-07T22:34:59",
+    "published": "2021-09-07T22:33:42",
+    "classification": "historical-event-or-feedback",
+    "headings": [
+      "PRESIDENTS AND DIRECTORS RETREAT 2022"
+    ],
+    "bodyParagraphs": [
+      "A relaxing retreat where both presidents and directors come together to plan all events pertaining to Christ for Youth International. The fee is GHS 500. All presidents and directors must attend to represent their branch and department.",
+      "Date: Wednesday 5th January, 2022 - Monday 10th January, 2022"
+    ],
+    "blocks": [
+      {
+        "type": "heading",
+        "text": "PRESIDENTS AND DIRECTORS RETREAT 2022",
+        "level": 2
+      },
+      {
+        "type": "paragraph",
+        "text": "A relaxing retreat where both presidents and directors come together to plan all events pertaining to Christ for Youth International. The fee is GHS 500. All presidents and directors must attend to represent their branch and department."
+      },
+      {
+        "type": "paragraph",
+        "text": "Date: Wednesday 5th January, 2022 - Monday 10th January, 2022"
+      }
+    ],
+    "formFieldSummary": [
+      {
+        "label": "First Name",
+        "type": "firstname",
+        "required": true
+      },
+      {
+        "label": "Last Name",
+        "type": "lastname",
+        "required": true
+      },
+      {
+        "label": "Gender",
+        "type": "listselect",
+        "required": true,
+        "options": [
+          "Kindly choose a gender",
+          "Male",
+          "Female"
+        ]
+      },
+      {
+        "label": "Branch",
+        "type": "listselect",
+        "required": true,
+        "options": [
+          "Kindly choose your Branch",
+          "None",
+          "Adenta",
+          "Airport",
+          "Aburi",
+          "Ashaiman",
+          "Ashongman",
+          "Awoshie",
+          "Berlin (Germany)",
+          "Dansoman",
+          "Deurne (Belgium)",
+          "Dome",
+          "East Legon",
+          "Kasoa",
+          "Lakeside",
+          "Last Stop",
+          "Lapaz",
+          "London (UK)",
+          "Lille (France)",
+          "Madina",
+          "Mataheko",
+          "Nima",
+          "North Kaneshie",
+          "Osu",
+          "Taifa",
+          "Tamale",
+          "Teiman",
+          "Weija",
+          "Wesley Grammar"
+        ]
+      },
+      {
+        "label": "Leadership position in your branch (for President/Vice only)",
+        "type": "textbox",
+        "required": false
+      },
+      {
+        "label": "Director Department (for Directors only)",
+        "type": "textbox",
+        "required": false
+      },
+      {
+        "label": "Phone Number",
+        "type": "phone",
+        "required": false
+      },
+      {
+        "label": "Please specify any food allergies (specific meals you do not eat)",
+        "type": "textbox",
+        "required": false
+      }
+    ],
+    "formSections": [
+      {
+        "label": "Event Intro Description",
+        "blocks": [
+          {
+            "type": "paragraph",
+            "text": "A relaxing retreat where both presidents and directors come together to plan all events pertaining to Christ for Youth International. The fee is GHS 500. All presidents and directors must attend to represent their branch and department."
+          },
+          {
+            "type": "paragraph",
+            "text": "Date: Wednesday 5th January, 2022 - Monday 10th January, 2022"
+          }
+        ]
+      }
+    ],
+    "formProvider": "Ninja Forms",
+    "submissionUrl": "https://connectcyi.org/presidents-and-directors-retreat-2022/",
+    "images": [],
+    "videos": [],
+    "links": [],
+    "isHistorical": true,
+    "notes": [
+      "Historical page. Retain original event year and dates; do not present as current registration or current price."
+    ]
+  },
+  {
+    "id": 2248,
+    "slug": "camp-discovered-2021-feedback",
+    "title": "Camp Discovered 2021 Feedback",
+    "sourceUrl": "https://connectcyi.org/camp-discovered-2021-feedback/",
+    "modified": "2021-06-23T15:41:39",
+    "published": "2021-06-23T15:19:48",
+    "classification": "historical-event-or-feedback",
+    "headings": [
+      "CAMP DISCOVERED 2021 FEEDBACK FORM"
+    ],
+    "bodyParagraphs": [
+      "Thank you all for attending Camp Discovered. Kindly fill in this short feedback form to share your experience at camp."
+    ],
+    "blocks": [
+      {
+        "type": "heading",
+        "text": "CAMP DISCOVERED 2021 FEEDBACK FORM",
+        "level": 2
+      },
+      {
+        "type": "paragraph",
+        "text": "Thank you all for attending Camp Discovered. Kindly fill in this short feedback form to share your experience at camp."
+      }
+    ],
+    "formFieldSummary": [
+      {
+        "label": "Name",
+        "type": "firstname",
+        "required": true
+      },
+      {
+        "label": "Branch",
+        "type": "listselect",
+        "required": true,
+        "options": [
+          "Kindly choose your Branch",
+          "None",
+          "Adenta",
+          "Airport",
+          "Aburi",
+          "Ashaiman",
+          "Ashongman",
+          "Awoshie",
+          "Berlin (Germany)",
+          "Dansoman",
+          "Deurne (Belgium)",
+          "Dome",
+          "East Legon",
+          "Kasoa",
+          "Lakeside",
+          "Last Stop",
+          "Lapaz",
+          "London (UK)",
+          "Lille (France)",
+          "Madina",
+          "Mataheko",
+          "Nima",
+          "North Kaneshie",
+          "Osu",
+          "Taifa",
+          "Tamale",
+          "Teiman",
+          "Weija",
+          "Wesley Grammar"
+        ]
+      },
+      {
+        "label": "Peer Ministry",
+        "type": "listcheckbox",
+        "required": true,
+        "options": [
+          "A2J (Dancers)",
+          "Ambassadors (Rap)",
+          "iTestify (Spoken Word & Writers)",
+          "Instrumentalist",
+          "Levites (Drama)",
+          "La Famille (Singing)"
+        ]
+      },
+      {
+        "label": "Did you play a role in Camp? If yes, state your role (Leave Blank if no)",
+        "type": "textbox",
+        "required": false
+      },
+      {
+        "label": "Favourite moment(s) of Camp",
+        "type": "textarea",
+        "required": false
+      },
+      {
+        "label": "Challenges or Least Appreciated moments of Camp",
+        "type": "textarea",
+        "required": false
+      },
+      {
+        "label": "Recommendations for a Better Camp Discovered Experience",
+        "type": "textarea",
+        "required": false
+      },
+      {
+        "label": "Testimony",
+        "type": "textarea",
+        "required": false
+      }
+    ],
+    "formSections": [
+      {
+        "label": "Feedback Description",
+        "blocks": [
+          {
+            "type": "paragraph",
+            "text": "Thank you all for attending Camp Discovered. Kindly fill in this short feedback form to share your experience at camp."
+          }
+        ]
+      }
+    ],
+    "formProvider": "Ninja Forms",
+    "submissionUrl": "https://connectcyi.org/camp-discovered-2021-feedback/",
+    "images": [],
+    "videos": [],
+    "links": [],
+    "isHistorical": true,
+    "notes": [
+      "Historical page. Retain original event year and dates; do not present as current registration or current price."
+    ]
+  },
+  {
+    "id": 2198,
+    "slug": "scholarshipscheme",
+    "title": "Educational Scholarship Scheme",
+    "sourceUrl": "https://connectcyi.org/scholarshipscheme/",
+    "modified": "2021-06-07T13:27:04",
+    "published": "2021-06-07T13:24:20",
+    "classification": "heading-only",
+    "headings": [
+      "EDUCATIONAL SCHOLARSHIP SCHEME"
+    ],
+    "bodyParagraphs": [],
+    "blocks": [
+      {
+        "type": "heading",
+        "text": "EDUCATIONAL SCHOLARSHIP SCHEME",
+        "level": 2
+      }
+    ],
+    "formFieldSummary": [],
+    "formSections": [],
+    "formProvider": null,
+    "submissionUrl": null,
+    "images": [],
+    "videos": [],
+    "links": [],
+    "isHistorical": false,
+    "notes": [
+      "Source provides a heading only, without substantive description, eligibility, dates, or active submission form. Use an honest enquiry page; do not invent requirements."
+    ]
+  }
+]

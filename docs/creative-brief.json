@@ -1,0 +1,63 @@
+{
+  "project": {
+    "id": "cyi-electric-purpose",
+    "name": "CYI \u2014 Electric Purpose",
+    "status": "built"
+  },
+  "objective": {
+    "primary_goal": "Give CYI an intensely vibrant youth identity across its complete web platform.",
+    "audience_change": {
+      "feel": "Energy, belonging, possibility and purpose.",
+      "do": "Find a community, explore an experience, listen, reflect or connect."
+    }
+  },
+  "audience": {
+    "primary": "CYI youth, members, volunteers and supporters.",
+    "context_of_use": "Mobile discovery and returning desktop use."
+  },
+  "message": {
+    "governing_idea": "Made for more: faith is alive in people, creativity and service.",
+    "call_to_action": "Find my community."
+  },
+  "creative_direction": {
+    "concept_title": "Electric Purpose",
+    "visual_thesis": "A midnight festival canvas gives authentic CYI moments a luminous frame.",
+    "palette": [
+      "#120b22",
+      "#7734e8",
+      "#ff715b",
+      "#ffa4e7",
+      "#e3ff74",
+      "#faf8ff"
+    ],
+    "composition": "Oversized type balances an asymmetric arched photo collage, followed by distinct light and saturated chapters.",
+    "typography": "Local Barlow Condensed, local Manrope and one Georgia italic accent.",
+    "motion": "Shared pausable carousel and marquee, with reduced-motion support.",
+    "anti_goals": [
+      "Fabricated documentary scenes",
+      "Repetitive pastel split screens",
+      "Decorative clutter obscuring actions"
+    ]
+  },
+  "deliverables": {
+    "master": "Complete responsive website in the existing private Sites project.",
+    "editable_sources": true,
+    "alt_text": true
+  },
+  "inputs": {
+    "urls": [
+      "https://connectcyi.org/"
+    ],
+    "codebase": "/workspace/sites/cyi-connect",
+    "media": [
+      "Original CYI collection",
+      "One original generated chrome ribbon"
+    ]
+  },
+  "production": {
+    "authorization": "Explicit user request for a much more vibrant redesign and publication of the existing work."
+  },
+  "assumptions": [
+    "Preserve all 113 views, functional navigation and the existing private audience."
+  ]
+}
