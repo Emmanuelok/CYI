@@ -1,0 +1,28 @@
+{
+  "created": "2026-09-13",
+  "asset": "public/og/cyi-share.jpg",
+  "purpose": "Open Graph and Twitter/X large-image link previews",
+  "dimensions": [
+    1200,
+    630
+  ],
+  "generation": {
+    "tool": "ChatGPT image generation",
+    "sourceMaster": "exec-75ae873e-1502-46e6-a790-b781e8f815bc.png",
+    "prompt": "Create an exceptional finished Open Graph social-sharing cover for CYI — Christ for Youth International. It must look like a premium art-directed youth movement identity campaign, vibrant, memorable and extremely legible at thumbnail size. Landscape 1.90476:1 aspect ratio, ideally 2400 x 1260 pixels, full bleed.\n\nREFERENCE 1 is the real official CYI circular emblem; preserve the real emblem geometry, circular wording and red/white/charcoal palette faithfully as a compact brand signature, never invent a replacement. REFERENCE 2 is the existing CYI website's chrome violet/coral ribbon visual language, use only as visual continuity reference for a newly composed cover.\n\nCreative direction: expressive editorial typography over deep midnight plum. A single monumental, elegant sculptural chrome ribbon sweeps through the right third of the scene, violet silver with coral highlights and fine photographic grain. It expresses momentum and purpose; richly material and cinematic, no generic neon-tech dashboard. Strong deliberate negative space and beautiful controlled lighting, no clutter, no people. Layout: compact genuine emblem plus crisp wordmark at upper left. In the left and middle two thirds, staggered oversized uppercase condensed typography fills the cover as the clear hero. Exact main headline, on three lines: \"ALIVE\" / \"WITH\" / \"PURPOSE.\" Ivory for ALIVE, soft coral for WITH, rich warm pink for PURPOSE. Make PURPOSE the largest line, typographic sophistication, tight but carefully spaced, all letters intact. All essential text at least 6% in from borders. Compact clear support line beneath headline: \"FAITH. FRIENDSHIP. PURPOSE.\" Upper brand text: \"CYI\" and \"Christ for Youth International\". No URLs, no social network icons, no CTA buttons, no extraneous text, no fake testimonials, no additional logos. Match the website's expressive, confident youth identity, never corporate or bland. Text perfectly spelled and sharply rendered. The final is finished publishable flat artwork, not a mockup on a device."
+  },
+  "references": [
+    "public/media/2020-07-cropped-cyi_512.webp",
+    "public/media/cyi-electric-ribbon.webp"
+  ],
+  "treatment": "New abstract campaign artwork using the existing CYI identity. No generated documentary people or events.",
+  "icons": {
+    "source": "public/media/2020-07-cropped-cyi_512.webp",
+    "treatment": "Original official logo scaled onto a solid midnight background; maskable icon keeps logo within central safe zone."
+  },
+  "qr": {
+    "destination": "https://cyi-gilt.vercel.app/install",
+    "file": "public/icons/install-qr.svg",
+    "generator": "npm qrcode, error correction M, four-module quiet zone"
+  }
+}
