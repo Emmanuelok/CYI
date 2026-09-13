@@ -28,11 +28,11 @@ pnpm dev
 
 1. In the Vercel team **emmanuelok's projects**, import **Emmanuelok/CYI** with the repository root as the root directory. The framework, build and installation settings are supplied in `vercel.json`.
 2. Connect a managed PostgreSQL database and set its pooled connection string as the **server-only** `DATABASE_URL` environment variable for production (and a separate database for previews if used). Never commit database credentials or put them in `NEXT_PUBLIC_` variables.
-3. Vercel runs the database migration automatically before each build. The migration in `db/postgres.sql` is idempotent and uses a private `cyi` schema; existing collections are preserved. For local setup, run `pnpm db:migrate`.
+3. When `DATABASE_URL` is configured, Vercel runs the database migration automatically before each build. The migration in `db/postgres.sql` is idempotent and uses a private `cyi` schema; existing collections are preserved. For local setup, run `pnpm db:migrate`.
 4. Deploy branch **main**. With Vercel's Git integration connected, later pushes to main create production deployments automatically.
 5. Check `/`, a branch detail page, `/gallery`, `/my-cyi` and `/api/collection`; verify that saving a bookmark and reflection survives a reload.
 
-The local `pnpm build` command can build content for review without a database. **Vercel deployments require DATABASE_URL**: the deployment build initializes the database before building the app, so a missing database connection stops deployment instead of publishing broken My CYI saving. The app never substitutes an ephemeral server filesystem for persistent storage.
+The public website can build and deploy without a database. Vercel uses `db:migrate --if-configured`, which reports a warning and skips migration only when `DATABASE_URL` is absent. **My CYI saved items and reflections still require a real PostgreSQL connection**; without it, the collection endpoint returns a temporary-unavailability response and does not claim to save visitor data. Connect the database, add its pooled PostgreSQL connection string as `DATABASE_URL` in Vercel's production environment, and redeploy to initialize the schema and enable saving. This value is a database connection string, not the website's HTTPS address. Explicit `pnpm db:migrate` remains strict, and configured-but-unreachable databases still fail migration. The app never substitutes an ephemeral server filesystem for persistent storage.
 
 Anonymous collections are linked to a secure cookie on their own website origin. Existing cookies and saved records on the previous host do not automatically transfer to the new Vercel domain. Visitors can use the existing collection export.
 
