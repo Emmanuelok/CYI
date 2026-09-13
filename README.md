@@ -8,6 +8,7 @@ A full React/TypeScript redevelopment of connectcyi.org, created 13 September 20
 - Original CYI logo, photographs, graphics, devotional artwork, Vimeo/YouTube videos, project videos, podcast episodes and external giving links.
 - Search, branch region/country filters, programme matching, gallery lightbox and filters, adjustable devotional reading text, sharing links, continuous audio playback across page navigation, database-backed saved items and reflections, and collection export.
 - Responsive layouts, keyboard-accessible dialogs/tabs/selects, reduced-motion support and a custom local font.
+- Installable CYI app for phones, tablets and computers, with an installation guide and QR code, an offline devotional reading room, controlled updates and branded social previews. See [PWA behavior and maintenance](docs/pwa.md).
 
 ## Run locally
 
